@@ -1,0 +1,3306 @@
+{
+  "group": "HOÀN TẤT CÂU KINH THÁNH",
+  "id": "bible",
+  "questions": [
+    {
+      "id": 1,
+      "question": "“Đây là gia phả Đức Giê-su Ki-tô, con cháu…, con cháu tổ phụ Áp-ra-ham” (Mt 1,1)",
+      "options": {
+        "A": "Ông Gia-cóp",
+        "B": "Vua Đa-vít",
+        "C": "Ông Giu-se",
+        "D": "Vua Sa-lô-môn"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "“Ông Áp-ra-ham sinh I-xa-ác; I-xa-ác sinh Gia-cóp; Gia-cóp sinh … và các anh em ông này” (Mt 1,2)",
+      "options": {
+        "A": "Giu-se",
+        "B": "E-xau",
+        "C": "Giu-đa",
+        "D": "Rưu-vên"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "“Gia-cóp sinh Giu-se, chồng của bà Ma-ri-a, bà là mẹ Đức Giê-su cũng gọi là…”. (Mt 1,16)",
+      "options": {
+        "A": "Đấng Cứu Thế",
+        "B": "Con bác thợ mộc Giu-se",
+        "C": "Đấng Ki-tô",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "“Sau đây là gốc tích Đức Giê-su Ki-tô: bà Ma-ri-a, mẹ Người, đã thành hôn với ông Giu-se. Nhưng trước khi hai ông bà về chung sống, bà đã có thai …”. (Mt 1,18)",
+      "options": {
+        "A": "Do quyền năng Chúa Thánh Thần",
+        "B": "Do quyền năng các Thiên Thần",
+        "C": "Bởi quyền năng Thánh Thần",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "“Ông Giu-se, chồng bà, là người… và không muốn tố giác bà, nên mới định tâm bỏ bà cách kín đáo”. (Mt 1,19)",
+      "options": {
+        "A": "Nóng tính",
+        "B": "Công chính",
+        "C": "Thuộc dòng dõi Đa-vít",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "“Này ông Giu-se,…, đừng ngại đón bà Ma-ri-a vợ ông về, vì người con bà cưu mang là do quyền năng Chúa Thánh Thần”. (Mt 1,20)",
+      "options": {
+        "A": "Con vua Đa-vít",
+        "B": "Con cháu Gia-cóp",
+        "C": "Con cháu Đa-vít",
+        "D": "Dòng dõi Đa-vít"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "“Bà sẽ sinh con trai và ông phải đặt tên cho con trẻ là Giê-su, vì chính Người sẽ… khỏi tội lỗi của họ.” (Mt 1,21)",
+      "options": {
+        "A": "Cứu dân Người",
+        "B": "Giải thoát dân Người",
+        "C": "Cứu muôn người",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "“Này đây, Trinh Nữ sẽ thụ thai và sinh hạ một con trai, người ta sẽ gọi tên con trẻ là Em-ma-nu-en, nghĩa là “...” (Mt 1,23)",
+      "options": {
+        "A": "Chúa ở cùng chúng ta",
+        "B": "Thiên Chúa ở cùng ta",
+        "C": "Thiên Chúa ở cùng chúng ta",
+        "D": "Chúa ở cùng anh chị em."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "“Khi Đức Giê-su ra đời tại Bê-lem, miền Giu-đê, thời … trị vì, có mấy nhà chiêm tinh từ Phương Đông đến Giê-ru-sa-lem” (Mt 2,1)",
+      "options": {
+        "A": "Quan Phi-la-tô",
+        "B": "Tổng trấn Qui-ri-ni-ô",
+        "C": "Vua Hê-rô-đê",
+        "D": "Hoàng đế Xê-da-rê"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "“… mới sinh, hiện ở đâu? Chúng tôi đã thấy vì sao của Người xuất hiện bên Phương Đông, nên chúng tôi đến bái lạy Người.” (Mt 2,2)",
+      "options": {
+        "A": "Đức Vua dân Do-thái",
+        "B": "Vua Do-thái",
+        "C": "Vị vua Do-thái",
+        "D": "Đức vua"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "“Nhà vua liền triệu tập tất cả các thượng tế và kinh sư trong dân lại, rồi hỏi cho biết… phải sinh ra ở đâu”. (Mt 2,4)",
+      "options": {
+        "A": "Đấng Ki-tô",
+        "B": "Đức vua dân Do-thái",
+        "C": "Đấng Cứu Thế",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Phần ngươi, hỡi Bê-lem, miền đất Giu-đa, ngươi đâu phải là thành nhỏ nhất của Giu-đa, vì ngươi là nơi… chăn dắt Ít-ra-en dân Ta sẽ ra đời.” (Mt 2,6)",
+      "options": {
+        "A": "Vị vua",
+        "B": "Vị lãnh tụ",
+        "C": "Vị Cứu Thế",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Rồi vua phái các vị ấy đi Bê-lem và dặn rằng: “Xin quý ngài đi dò hỏi tường tận về Hài Nhi, và khi đã tìm thấy, xin báo lại cho tôi, để tôi cũng…” (Mt 2,8)",
+      "options": {
+        "A": "Đến thờ lạy Người",
+        "B": "Đến để thờ lạy Người",
+        "C": "Đến bái lạy Người",
+        "D": "Đến triều bái Người"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "“Nghe nhà vua nói thế, họ ra đi. Bấy giờ ngôi sao họ đã thấy ở Phương Đông, lại… cho họ đến tận nơi Hài Nhi ở, mới dừng lại”. (Mt 2,9)",
+      "options": {
+        "A": "Dẫn đường",
+        "B": "Chỉ đường",
+        "C": "Soi đường",
+        "D": "Dẫn lối"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "“Họ vào nhà, thấy Hài Nhi với thân mẫu là bà Ma-ri-a, liền… Người”. (Mt 2,11)",
+      "options": {
+        "A": "Lấy lễ vật tiến dâng",
+        "B": "Sấp mình thờ lạy",
+        "C": "Dâng các bảo vật lên",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "“Này ông, dậy… và mẹ Người trốn sang Ai-cập, và cứ ở đó cho đến khi tôi báo lại, vì vua Hê-rô-đê sắp tìm giết Hài Nhi đấy!” (Mt 2,13)",
+      "options": {
+        "A": "Đem Hài Nhi",
+        "B": "Đem Con trẻ",
+        "C": "Đưa Hài Nhi mới sinh",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "“Ông ở đó cho đến khi vua Hê-rô-đê băng hà, để ứng nghiệm lời Chúa phán xưa qua miệng ngôn sứ:… ra khỏi Ai-cập”. (Mt 2,15)",
+      "options": {
+        "A": "Ta đã gọi con Ta",
+        "B": "Ta đã đưa con Ta",
+        "C": "Ta truyền cho con Ta",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "“Này ông, dậy đem Hài Nhi và mẹ Người…, vì những kẻ tìm giết Hài Nhi đã chết rồi” (Mt 2,19-20)",
+      "options": {
+        "A": "Trốn sang Ai-cập",
+        "B": "Về Na-da-rét",
+        "C": "Về đất Ít-ra-en",
+        "D": "Trở về quê cũ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "“Ông liền trỗi dậy đưa Hài Nhi và mẹ Người về đất Ít-ra-en. Nhưng vì nghe biết Ác-khê-lao đã kế vị vua cha là Hê-rô-đê, cai trị miền Giu-đê, nên ông sợ…”. (Mt 2,21-22)",
+      "options": {
+        "A": "Không dám về đó",
+        "B": "Trốn đi nơi khác",
+        "C": "Bỏ sang thành khác",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "“Rồi sau khi được báo mộng, ông lui về miền Ga-li-lê, và đến ở tại một thành kia gọi là …”. (Mt 2,22-23)",
+      "options": {
+        "A": "Bê-lem",
+        "B": "Na-da-rét",
+        "C": "Ga-li-lê",
+        "D": "Sa-ma-ri"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "“Hồi ấy, ông Gio-an Tẩy Giả đến rao giảng trong hoang địa miền Giu-đê rằng: “…, vì Nước Trời đã đến gần”. (Mt 3,1-2)",
+      "options": {
+        "A": "Hãy sám hối",
+        "B": "Hãy ăn năn sám hối",
+        "C": "Anh em hãy sám hối",
+        "D": "Anh em hãy thống hối"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "“Có tiếng người hô trong hoang địa: Hãy dọn sẵn con đường cho Đức Chúa,…để Người đi”. (Mt 3,3)",
+      "options": {
+        "A": "Sửa lối cho thẳng",
+        "B": "Hãy nắn cho thẳng",
+        "C": "Chỉnh lối cho thẳng",
+        "D": "Bạt mọi núi đồi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "“Bấy giờ, người ta từ Giê-ru-sa-lem và khắp miền Giu-đê, cùng khắp vùng ven sông Gio-đan, kéo đến với ông. Họ thú tội, và ông… cho họ trong sông Gio-đan”. (Mt 3,5-6)",
+      "options": {
+        "A": "Giảng dạy",
+        "B": "Làm phép rửa",
+        "C": "Rửa tội",
+        "D": "Rao giảng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "“Các anh hãy… để chứng tỏ lòng sám hối”. (Mt 3,8)",
+      "options": {
+        "A": "Sinh hoa quả",
+        "B": "Khóc lóc kêu than",
+        "C": "Đấm ngực ăn năn",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "“Đừng tưởng có thể bảo mình rằng: ‘Chúng ta đã có...’ Vì, tôi nói cho các anh hay, Thiên Chúa có thể làm cho những hòn đá này trở nên con cháu ông Áp-ra-ham”. (Mt 3,9)",
+      "options": {
+        "A": "Mô-sê",
+        "B": "Tổ phụ Áp-ra-ham",
+        "C": "Giê-ru-sa-lem",
+        "D": "Đền thờ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "“Cái rìu đã đặt sát gốc cây: bất cứ cây nào… đều bị chặt đi và quăng vào lửa”. (Mt 3,10)",
+      "options": {
+        "A": "Không sinh trái tốt",
+        "B": "Sinh trái tốt",
+        "C": "Không sinh quả tốt",
+        "D": "Không sinh hoa trái"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "“Tôi, tôi làm phép rửa cho các anh trong nước để…”. (Mt 3,11)",
+      "options": {
+        "A": "Tỏ lòng sám hối",
+        "B": "Giục lòng sám hối",
+        "C": "Bày tỏ lòng thống hối",
+        "D": "Giục lòng các anh sám hối"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question": "“Còn Đấng đến sau tôi thì quyền thế hơn tôi, tôi không đáng xách dép cho Người. Người sẽ làm phép rửa cho các anh trong…”. (Mt 3,11)",
+      "options": {
+        "A": "Thánh Thần",
+        "B": "Nước",
+        "C": "Nước và Thánh Thần",
+        "D": "Thánh Thần và lửa"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "“Tay Người cầm nia, Người sẽ rê sạch lúa trong sân: thóc mẩy thì thu vào kho lẫm, còn thóc lép thì bỏ vào… mà đốt đi .” (Mt 3,12)",
+      "options": {
+        "A": "Lửa không hề tắt",
+        "B": "Lửa",
+        "C": "Lò lửa",
+        "D": "Trong lò lửa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "“Nhưng Đức Giê-su trả lời: “Bây giờ cứ thế đã. Vì chúng ta nên làm như vậy để...” (Mt 3,15)",
+      "options": {
+        "A": "Được nên công chính",
+        "B": "Làm cho nên công chính",
+        "C": "Trở nên công chính",
+        "D": "Giữ trọn đức công chính"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "“Đây là…, Ta hài lòng về Người.” (Mt 3,17)",
+      "options": {
+        "A": "Con Ta yêu dấu",
+        "B": "Người Con Ta yêu dấu",
+        "C": "Con yêu dấu của Ta",
+        "D": "Con yêu dấu"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "“Bấy giờ Đức Giê-su được… dẫn vào hoang địa, để chịu quỷ cám dỗ”. (Mt 4,1)",
+      "options": {
+        "A": "Thánh Thần",
+        "B": "Các Thiên Thần",
+        "C": "Thần Khí",
+        "D": "Thần sứ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "“Khi ấy tên cám dỗ đến gần Người và nói: “Nếu ông là…, thì truyền cho những hòn đá này hoá bánh đi!” (Mt 4,3)",
+      "options": {
+        "A": "Con Một Thiên Chúa",
+        "B": "Con Thiên Chúa",
+        "C": "Thiên Chúa",
+        "D": "Đấng Ki-tô"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "“Đã có lời chép rằng: Người ta sống không chỉ nhờ cơm bánh, nhưng còn nhờ mọi lời...” (Mt 4,4)",
+      "options": {
+        "A": "Miệng Thiên Chúa phán ra",
+        "B": "Do miệng Thiên Chúa phán ra",
+        "C": "Do Thiên Chúa phán ra",
+        "D": "Bởi miệng Thiên Chúa phán ra"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "“Nếu ông là…, thì gieo mình xuống đi! Vì đã có lời chép rằng: Thiên Chúa sẽ truyền cho thiên sứ lo cho bạn, và thiên sứ sẽ tay đỡ tay nâng, cho bạn khỏi vấp chân vào đá.” (Mt 4,6)",
+      "options": {
+        "A": "Con Một Thiên Chúa",
+        "B": "Con Thiên Chúa",
+        "C": "Thiên Chúa",
+        "D": "Đấng Ki-tô"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "“Đức Giê-su đáp: “Nhưng cũng đã có lời chép rằng: Ngươi chớ… Đức Chúa là Thiên Chúa của ngươi.” (Mt 4,7)",
+      "options": {
+        "A": "Thách thức",
+        "B": "Thử lòng",
+        "C": "Thử thách",
+        "D": "Khinh thường"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "“Tôi sẽ cho ông tất cả những thứ đó, nếu ông… tôi.” (Mt 4,9)",
+      "options": {
+        "A": "Bái lạy",
+        "B": "Thờ lạy",
+        "C": "Sấp mình dưới chân",
+        "D": "Sấp mình bái lạy"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 38,
+      "question": "“Đức Giê-su liền nói: “Xa-tan kia, xéo đi! Vì đã có lời chép rằng: Ngươi phải bái lạy Đức Chúa là Thiên Chúa của ngươi, và phải… một mình Người mà thôi.” (Mt 4,10)",
+      "options": {
+        "A": "Thờ lạy",
+        "B": "Tôn thờ",
+        "C": "Sấp mình bái lạy",
+        "D": "Thờ phượng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 39,
+      "question": "“Đoàn dân đang ngồi trong cảnh tối tăm đã thấy..., những kẻ đang ngồi trong vùng bóng tối của tử thần nay được ánh sáng bừng lên chiếu rọi”. (Mt 4,16)",
+      "options": {
+        "A": "Một vì sao xuất hiện",
+        "B": "Một ngôi sao xuất hiện",
+        "C": "Nguồn ánh sáng huy hoàng",
+        "D": "Một ánh sáng huy hoàng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 40,
+      "question": "“Từ lúc đó, Đức Giê-su bắt đầu rao giảng và nói rằng: “Anh em hãy…, vì Nước Trời đã đến gần.” (Mt 4,17)",
+      "options": {
+        "A": "Thối hối",
+        "B": "Trở về",
+        "C": "Ăn năn thống hối",
+        "D": "Sám hối"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 41,
+      "question": "“Người bảo các ông: “Các anh hãy theo tôi, tôi sẽ làm cho các anh thành những kẻ…” (Mt 4,19)",
+      "options": {
+        "A": "Chài lưới người",
+        "B": "Lưới người như lưới cá",
+        "C": "Đi chài lưới người",
+        "D": "Chài lưới người ta"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "“Thế rồi Đức Giê-su đi khắp miền Ga-li-lê, giảng dạy trong các hội đường,…, và chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân”. (Mt 4,23)",
+      "options": {
+        "A": "Rao giảng Tin Mừng",
+        "B": "Rao giảng Nước Trời",
+        "C": "Loan báo Tin Mừng Nước Trời",
+        "D": "Rao giảng Tin Mừng Nước Trời"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 43,
+      "question": "“Từ miền Ga-li-lê, vùng Thập Tỉnh, thành Giê-ru-sa-lem, miền Giu-đê và vùng bên kia sông Gio-đan, dân chúng lũ lượt kéo đến…”. (Mt 4,25)",
+      "options": {
+        "A": "Đi theo Người",
+        "B": "Nghe Người giảng",
+        "C": "Để nghe Người giảng dạy",
+        "D": "Để nghe lời Người"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "“Phúc thay ai có… nghèo khó, vì Nước Trời là của họ”. (Mt 5,3)",
+      "options": {
+        "A": "Tinh thần",
+        "B": "Tâm hồn",
+        "C": "Lòng",
+        "D": "Đời sống"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "“Phúc thay ai hiền lành, vì họ sẽ được… làm gia nghiệp”. (Mt 5,4)",
+      "options": {
+        "A": "Nước Trời",
+        "B": "Chính Chúa",
+        "C": "Đất Hứa",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "question": "“Phúc thay ai…, vì họ sẽ được Thiên Chúa ủi an”. (Mt 5,5)",
+      "options": {
+        "A": "Sầu khổ",
+        "B": "Khóc lóc",
+        "C": "Than khóc",
+        "D": "Buồn khổ"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "“Phúc thay ai khát khao…, vì họ sẽ được Thiên Chúa cho thoả lòng”. (Mt 5,6)",
+      "options": {
+        "A": "Nên hoàn thiện",
+        "B": "Nên người hoàn thiện",
+        "C": "Nên người công chính",
+        "D": "Nên người giàu có"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "“Phúc thay ai…, vì họ sẽ được Thiên Chúa xót thương”. (Mt 5,7)",
+      "options": {
+        "A": "Biết xót thương người",
+        "B": "Yêu mến người",
+        "C": "Thương xót người",
+        "D": "Xót thương người"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 49,
+      "question": "“Phúc thay ai …, vì họ sẽ được nhìn thấy Thiên Chúa”. (Mt 5,8)",
+      "options": {
+        "A": "Hiền lành",
+        "B": "Có lòng trong sạch",
+        "C": "Sống đời trong sạch",
+        "D": "Có tâm hồn trong sạch"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "question": "“Phúc thay ai…, vì họ sẽ được gọi là con Thiên Chúa”. (Mt 5,9)",
+      "options": {
+        "A": "Có tâm hồn trong sạch",
+        "B": "Xót thương người",
+        "C": "Làm cho người hòa thuận",
+        "D": "Xây dựng hoà bình"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 51,
+      "question": "“Phúc thay ai bị bách hại vì…, vì Nước Trời là của họ”. (Mt 5,10)",
+      "options": {
+        "A": "Sống công chính",
+        "B": "Ở công chính",
+        "C": "Sống ngay lành",
+        "D": "Danh Thầy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "“Phúc thay anh em khi… mà bị người ta sỉ vả, bách hại và vu khống đủ điều xấu xa. (Mt 5,11)",
+      "options": {
+        "A": "Vì Thầy",
+        "B": "Vì Danh Thầy",
+        "C": "Vì Tin Mừng",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "“Anh em hãy…, vì phần thưởng dành cho anh em ở trên trời thật lớn lao”. (Mt 5,12)",
+      "options": {
+        "A": "Vui mừng",
+        "B": "Kiên tâm chịu đựng",
+        "C": "Vui mừng hớn hở",
+        "D": "Kiên tâm bền chí"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "“Chính anh em là muối cho đời. Nhưng muối mà…, thì lấy gì muối nó cho mặn lại?” (Mt 5,13)",
+      "options": {
+        "A": "Không còn mặn",
+        "B": "Nhạt đi",
+        "C": "Ra nhạt",
+        "D": "Hết mặn"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "“Chính anh em là ánh sáng cho... Một thành xây trên núi không tài nào che giấu được”. (Mt 5,14)",
+      "options": {
+        "A": "Trần gian",
+        "B": "Thế gian",
+        "C": "Đời",
+        "D": "Thế gian này"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "“Cũng chẳng có ai thắp đèn rồi lại để dưới cái thùng, nhưng…, và đèn soi chiếu cho mọi người trong nhà”. (Mt 5,15)",
+      "options": {
+        "A": "Đặt trên đế",
+        "B": "Đặt trên giá",
+        "C": "Treo trên giá",
+        "D": "Treo trên tường"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "“Cũng vậy, ánh sáng của anh em phải chiếu giãi trước mặt thiên hạ, để họ thấy những… anh em làm, mà tôn vinh Cha của anh em, Đấng ngự trên trời”. (Mt 5,16)",
+      "options": {
+        "A": "Việc tốt đẹp",
+        "B": "Công việc tốt đẹp",
+        "C": "Việc tốt lành",
+        "D": "Việc tốt"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "“Anh em đừng tưởng Thầy đến để bãi bỏ Luật Mô-sê hoặc lời các ngôn sứ. Thầy đến không phải là để bãi bỏ, nhưng là để …”. (Mt 5,17)",
+      "options": {
+        "A": "Làm cho hoàn thiện",
+        "B": "Làm cho kiện toàn",
+        "C": "Hoàn thiện",
+        "D": "Kiện toàn"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 59,
+      "question": "“Vì, Thầy bảo thật anh em, trước khi trời đất qua đi, thì một chấm một phết trong Lề Luật cũng sẽ không qua đi, cho đến khi…”. (Mt 5,18)",
+      "options": {
+        "A": "Mọi việc được hoàn tất",
+        "B": "Con Người đến",
+        "C": "Mọi sự được hoàn thành",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 60,
+      "question": "“Vậy ai bãi bỏ dù chỉ là một trong những…, và dạy người ta làm như thế, thì sẽ bị gọi là kẻ nhỏ nhất trong Nước Trời.” (Mt 5,19)",
+      "options": {
+        "A": "Điều răn nhỏ nhất ấy",
+        "B": "Điều răn ấy",
+        "C": "Giới răn này",
+        "D": "Điều Thầy nói đây"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "“Vậy, Thầy bảo cho anh em biết, nếu anh em không ăn ở… các kinh sư và người Pha-ri-sêu, thì sẽ chẳng được vào Nước Trời”. (Mt 5,20)",
+      "options": {
+        "A": "Công chính",
+        "B": "Tốt lành hơn",
+        "C": "Công chính hơn",
+        "D": "Công chính như"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "“Anh em đã nghe Luật dạy người xưa rằng: Chớ giết người; ai giết người, thì đáng bị đưa ra toà. Còn Thầy, Thầy bảo cho anh em biết: Ai…, thì đáng bị đưa ra toà”. (Mt 5,21-22)",
+      "options": {
+        "A": "Chửi rủa anh em mình",
+        "B": "Nguyền rủa anh em mình",
+        "C": "Đánh đập anh em mình",
+        "D": "Giận anh em mình"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 63,
+      "question": "“Ai mắng anh em mình là đồ ngốc, thì đáng bị đưa ra trước…”. (Mt 5,22)",
+      "options": {
+        "A": "Thượng Hội Đồng",
+        "B": "Quan Tòa",
+        "C": "Tòa Án",
+        "D": "Hội Đồng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "“Còn ai chửi anh em mình là quân phản đạo, thì đáng bị…”. (Mt 5,22)",
+      "options": {
+        "A": "Lửa thiêu đốt",
+        "B": "Đưa ra tòa",
+        "C": "Đưa ra trước Hội Đồng",
+        "D": "Lửa hoả ngục thiêu đốt"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 65,
+      "question": "“Vậy, nếu khi anh sắp dâng lễ vật trước bàn thờ, mà sực nhớ có người anh em đang có chuyện bất bình với anh, thì hãy để của lễ lại đó trước bàn thờ,… với người anh em ấy đã, rồi trở lại dâng lễ vật của mình”. (Mt 5,23-24)",
+      "options": {
+        "A": "Về cầu hòa",
+        "B": "Đi giải hòa",
+        "C": "Đi làm hoà",
+        "D": "Về hòa giải"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "“Anh em đã nghe Luật dạy rằng: Chớ ngoại tình. Còn Thầy, Thầy bảo cho anh em biết: ai nhìn người phụ nữ mà thèm muốn, thì… đã ngoại tình với người ấy rồi”. (Mt 5,27-28)",
+      "options": {
+        "A": "Trong lòng mình",
+        "B": "Tâm hồn mình",
+        "C": "Tâm trí mình",
+        "D": "Trong lòng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 67,
+      "question": "“Anh em còn nghe Luật dạy người xưa rằng: Chớ bội thề, nhưng hãy trọn lời thề với Đức Chúa. Còn Thầy, Thầy bảo cho anh em biết: …”. (Mt 5,33-34)",
+      "options": {
+        "A": "Đừng thề chi cả",
+        "B": "Chỉ thề khi cần thiết thôi",
+        "C": "Không nên thề chi cả",
+        "D": "Chớ thề thốt"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "“Anh em đã nghe Luật dạy rằng: Mắt đền mắt, răng đền răng. Còn Thầy, Thầy bảo anh em:…, trái lại, nếu bị ai vả má bên phải, thì hãy giơ cả má bên trái ra nữa”. (Mt 5,38-39)",
+      "options": {
+        "A": "Đừng như bọn gian ác",
+        "B": "Đừng chống lại bọn ác",
+        "C": "Đừng như quân gian ác",
+        "D": "Đừng chống cự người ác"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 69,
+      "question": "“Nếu ai muốn kiện anh để lấy áo trong của anh, thì hãy để cho nó… Nếu có người bắt anh đi một dặm, thì hãy đi với người ấy hai dặm”. (Mt 5,40-41)",
+      "options": {
+        "A": "Lấy",
+        "B": "Lấy cả áo ngoài",
+        "C": "Làm như vậy",
+        "D": "Làm theo ý nó"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "“Ai xin, thì hãy cho; ai muốn vay mượn, thì…”. (Mt 5,42)",
+      "options": {
+        "A": "Đừng đòi lại",
+        "B": "Hãy cho họ vay",
+        "C": "Đừng từ chối",
+        "D": "Đừng ngoảnh mặt đi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 71,
+      "question": "“Anh em đã nghe Luật dạy rằng: Hãy yêu đồng loại và hãy ghét kẻ thù. Còn Thầy, Thầy bảo anh em: … và cầu nguyện cho những kẻ ngược đãi anh em”. (Mt 5,43-44)",
+      "options": {
+        "A": "Hãy thương xót",
+        "B": "Hãy yêu kẻ thù",
+        "C": "Hãy tha thứ",
+        "D": "Hãy yêu kẻ ác"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "“Vì nếu anh em yêu thương…, thì anh em nào có công chi? Ngay cả những người thu thuế cũng chẳng làm như thế sao?” (Mt 5,46)",
+      "options": {
+        "A": "Kẻ yêu thương mình",
+        "B": "Người đồng loại",
+        "C": "Người thân cận",
+        "D": "Người anh em"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 73,
+      "question": "“Nếu anh em chỉ chào hỏi anh em mình thôi, thì anh em có…? Ngay cả người ngoại cũng chẳng làm như thế sao?” (Mt 5,47)",
+      "options": {
+        "A": "Làm gì khác đâu",
+        "B": "Công gì đâu",
+        "C": "Hơn gì người thu thuế đâu",
+        "D": "Làm gì lạ thường đâu"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 74,
+      "question": "“Vậy anh em hãy nên hoàn thiện, như… là Đấng hoàn thiện.” (Mt 5,48)",
+      "options": {
+        "A": "Thiên Chúa Cha",
+        "B": "Thiên Chúa",
+        "C": "Cha anh em trên trời",
+        "D": "Cha trên trời"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "“Khi làm việc lành phúc đức, anh em phải coi chừng, … cho thiên hạ thấy. Bằng không, anh em sẽ chẳng được Cha của anh em, Đấng ngự trên trời, ban thưởng”. (Mt 6,1)",
+      "options": {
+        "A": "Đừng",
+        "B": "Đừng để",
+        "C": "Đừng làm để",
+        "D": "Chớ có phô trương"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 76,
+      "question": "“Còn anh, khi bố thí, đừng cho tay trái biết việc tay phải làm, để việc anh bố thí được kín đáo. Và Cha của anh, … những gì kín đáo, sẽ trả lại cho anh”. (Mt 6,3-4)",
+      "options": {
+        "A": "Đấng biết",
+        "B": "Đấng thấu suốt",
+        "C": "Đấng biết rõ",
+        "D": "Đấng nắm rõ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "“Còn anh, khi cầu nguyện, hãy vào phòng, đóng cửa lại, và cầu nguyện cùng Cha của anh, … nơi kín đáo. Và Cha của anh, Đấng thấu suốt những gì kín đáo, sẽ trả lại cho anh”. (Mt 6,6)",
+      "options": {
+        "A": "Đấng đang ngự",
+        "B": "Đấng đang ở",
+        "C": "Đấng hiện diện",
+        "D": "Đấng biết những gì"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 78,
+      "question": "“Khi cầu nguyện, anh em đừng lải nhải như dân ngoại; họ nghĩ rằng: cứ nói nhiều là được nhậm lời. Đừng bắt chước họ, vì Cha anh em đã… anh em cần gì, trước khi anh em cầu xin”. (Mt 6,7-8)",
+      "options": {
+        "A": "Biết rõ",
+        "B": "Thừa biết",
+        "C": "Biết",
+        "D": "Ngầm biết"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "“Thật vậy, nếu anh em… cho người ta, thì Cha anh em trên trời cũng sẽ tha thứ cho anh em”. (Mt 6,14)",
+      "options": {
+        "A": "Tha thứ",
+        "B": "Tha tội",
+        "C": "Tha nợ",
+        "D": "Tha lỗi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 80,
+      "question": "“Còn anh, khi ăn chay, nên rửa mặt cho sạch, chải đầu cho thơm, để không ai thấy là anh ăn chay ngoại trừ…, Đấng hiện diện nơi kín đáo”. (Mt 6,17-18)",
+      "options": {
+        "A": "Thiên Chúa",
+        "B": "Cha của anh",
+        "C": "Thiên Chúa Cha",
+        "D": "Con Người"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 81,
+      "question": "“Anh em… cho mình những kho tàng dưới đất, nơi mối mọt làm hư nát, và kẻ trộm khoét vách lấy đi”. (Mt 6,19)",
+      "options": {
+        "A": "Đừng tích trữ",
+        "B": "Đừng gom góp",
+        "C": "Đừng tích lũy",
+        "D": "Đừng tìm kiếm"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "“Đèn của thân thể là con mắt. Vậy nếu mắt anh sáng, thì … sẽ sáng”. (Mt 6,22)",
+      "options": {
+        "A": "Thân thể",
+        "B": "Thân thể của anh",
+        "C": "Toàn thân anh",
+        "D": "Toàn con người anh"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "“Còn nếu mắt anh xấu, thì toàn thân anh sẽ tối. Vậy nếu ánh sáng nơi anh…, thì tối biết chừng nào!” (Mt 6,23)",
+      "options": {
+        "A": "Lại thành bóng tối",
+        "B": "Trở thành bóng tối",
+        "C": "Ra tối tăm",
+        "D": "Không tỏa sáng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "“Không ai có thể làm tôi hai chủ, vì hoặc sẽ ghét chủ này mà yêu chủ kia, hoặc sẽ… với chủ này mà khinh dể chủ nọ. Anh em không thể vừa làm tôi Thiên Chúa vừa làm tôi Tiền Của được”. (Mt 6,24)",
+      "options": {
+        "A": "Gắn kết",
+        "B": "Yêu mến",
+        "C": "Trung thành",
+        "D": "Gắn bó"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 85,
+      "question": "“Vì vậy Thầy bảo cho anh em biết:…: lấy gì mà ăn; cũng đừng lo cho thân thể: lấy gì mà mặc. Mạng sống chẳng trọng hơn của ăn, và thân thể chẳng trọng hơn áo mặc sao?” (Mt 6,25)",
+      "options": {
+        "A": "Đừng lo",
+        "B": "Đừng quá lo lắng",
+        "C": "Đừng băn khoăn",
+        "D": "Đừng lo cho mạng sống"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 86,
+      "question": "“Hỏi có ai trong anh em, …, mà kéo dài đời mình thêm được dù chỉ một gang tay?” (Mt 6,27)",
+      "options": {
+        "A": "Nhờ lo lắng",
+        "B": "Nhờ khôn khéo",
+        "C": "Nhờ khôn ngoan",
+        "D": "Nhờ tài đức"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 87,
+      "question": "“Trước hết hãy tìm kiếm Nước Thiên Chúa và… của Người, còn tất cả những thứ kia, Người sẽ thêm cho”. (Mt 6,33)",
+      "options": {
+        "A": "Sự công chính",
+        "B": "Vương Quốc",
+        "C": "Đức công chính",
+        "D": "Triều Đại"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "“Vậy, anh em đừng lo lắng…: ngày mai, cứ để ngày mai lo. Ngày nào có cái khổ của ngày ấy.” (Mt 6,34)",
+      "options": {
+        "A": "Cho tương lai",
+        "B": "Gì cả",
+        "C": "Bất cứ điều gì",
+        "D": "Về ngày mai"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 89,
+      "question": "“Anh em đừng xét đoán,… Thiên Chúa xét đoán, vì anh em xét đoán thế nào, thì anh em cũng sẽ bị Thiên Chúa xét đoán như vậy”. (Mt 7,1-2)",
+      "options": {
+        "A": "Thì không bị",
+        "B": "Sẽ không bị",
+        "C": "Để khỏi bị",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "“Sao anh thấy cái rác trong con mắt của người anh em,… trong con mắt của mình thì lại không để ý tới?” (Mt 7,3)",
+      "options": {
+        "A": "Còn cái đà",
+        "B": "Mà cái xà",
+        "C": "Còn cái xà",
+        "D": "Nhưng cái xà"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 91,
+      "question": "“Hỡi…! Lấy cái xà ra khỏi mắt anh trước đã, rồi anh sẽ thấy rõ, để lấy cái rác ra khỏi mắt người anh em”. (Mt 7,5)",
+      "options": {
+        "A": "Kẻ giả hình",
+        "B": "Bọn giả hình",
+        "C": "Quân tội lỗi",
+        "D": "Kẻ đạo đức giả"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 92,
+      "question": "“…, đừng quăng cho chó; ngọc trai, chớ liệng cho heo, kẻo chúng giày đạp dưới chân, rồi còn quay lại cắn xé anh em”. (Mt 7,6)",
+      "options": {
+        "A": "Miếng ngon",
+        "B": "Của ngon",
+        "C": "Của thánh",
+        "D": "Vàng bạc"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "“Anh em cứ xin thì sẽ được, cứ tìm thì sẽ thấy, cứ gõ cửa thì sẽ… (Mt 7,7)",
+      "options": {
+        "A": "Mở cho",
+        "B": "Mở ra cho",
+        "C": "Người sẽ mở cho",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "“Vậy nếu anh em… mà còn biết cho con cái mình những của tốt lành, phương chi Cha anh em, Đấng ngự trên trời, lại không ban những của tốt lành cho những kẻ kêu xin Người sao?” (Mt 7,11)",
+      "options": {
+        "A": "Là những người xấu",
+        "B": "Là những kẻ xấu",
+        "C": "Là kẻ xấu xa",
+        "D": "Vốn là những kẻ xấu"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 95,
+      "question": "“Vậy tất cả những gì anh em muốn người ta làm cho mình, thì… cũng hãy làm cho người ta, vì Luật Mô-sê và lời các ngôn sứ là thế đó”. (Mt 7,12)",
+      "options": {
+        "A": "Chính anh em",
+        "B": "Anh em",
+        "C": "Cả anh em nữa",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "“Hãy qua cửa hẹp mà vào, vì cửa rộng và đường thênh thang thì…, mà nhiều người lại đi qua đó”. (Mt 7,13)",
+      "options": {
+        "A": "Dẫn đến diệt vọng",
+        "B": "Dẫn đến hư vong",
+        "C": "Đưa đến diệt vong",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 97,
+      "question": "“Anh em hãy coi chừng…, họ đội lốt chiên mà đến với anh em; nhưng bên trong, họ là sói dữ tham mồi”. (Mt 7,15)",
+      "options": {
+        "A": "Các kinh sư",
+        "B": "Người Pha-ri-sêu",
+        "C": "Cả A và B",
+        "D": "Các ngôn sứ giả"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 98,
+      "question": "“Cây nào không sinh quả tốt, thì bị chặt đi và quăng vào lửa. Vậy, cứ xem họ…, thì biết họ là ai”. (Mt 7,19-20)",
+      "options": {
+        "A": "Sống như thế nào",
+        "B": "Sống ra sao",
+        "C": "Sinh hoa quả nào",
+        "D": "Sinh trái nào"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 99,
+      "question": "“Không phải bất cứ ai thưa với Thầy: ‘Lạy Chúa! Lạy Chúa!’ là được vào Nước Trời cả đâu! Nhưng chỉ ai… ý muốn của Cha Thầy là Đấng ngự trên trời, mới được vào mà thôi”. (Mt 7,21)",
+      "options": {
+        "A": "Thi hành",
+        "B": "Làm theo",
+        "C": "Thực hành",
+        "D": "Mau mắn thi hành"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "“Và bấy giờ Thầy sẽ tuyên bố với họ:… các ngươi; xéo đi cho khuất mắt Ta, hỡi bọn làm điều gian ác!” (Mt 7,23)",
+      "options": {
+        "A": "Ta không biết",
+        "B": "Tất cả",
+        "C": "Tất cả lũ khốn",
+        "D": "Ta không hề biết"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 101,
+      "question": "“Vậy ai nghe những lời Thầy nói đây mà…, thì ví được như người khôn xây nhà trên đá”. (Mt 7,24)",
+      "options": {
+        "A": "Làm theo",
+        "B": "Đem ra thực hành",
+        "C": "Mau mắn thi hành",
+        "D": "Ghi nhớ trong lòng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "“Còn ai nghe những lời Thầy nói đây, mà chẳng đem ra thực hành, thì ví được như… xây nhà trên cát.” (Mt 7,26)",
+      "options": {
+        "A": "Người ngu",
+        "B": "Người khờ dại",
+        "C": "Người kia",
+        "D": "Người ngu dại"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 103,
+      "question": "“Khi Đức Giê-su giảng dạy những điều ấy xong, dân chúng sửng sốt về lời giảng dạy của Người, vì Người giảng dạy như…, chứ không như các kinh sư của họ”. (Mt 7,28-29)",
+      "options": {
+        "A": "Đấng có uy quyền",
+        "B": "Người có thẩm quyền",
+        "C": "Đấng đầy uy quyền",
+        "D": "Một Đấng có thẩm quyền"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 104,
+      "question": "“Bỗng có một người mắc bệnh phong tiến lại, bái lạy Người và nói: “Thưa Ngài, nếu Ngài muốn, Ngài có thể...” (Mt 8,2)",
+      "options": {
+        "A": "Làm cho tôi thấy được",
+        "B": "Cho tôi được thấy",
+        "C": "Làm cho tôi được sạch",
+        "D": "Chữa tôi lành sạch"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "“Người giơ tay đụng vào anh và bảo: “…, anh sạch đi.” (Mt 8,3)",
+      "options": {
+        "A": "Tội anh đã được tha",
+        "B": "Này anh",
+        "C": "Lòng tin của anh cứu chữa anh",
+        "D": "Tôi muốn"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 106,
+      "question": "“Rồi Đức Giê-su bảo anh: “Coi chừng, đừng nói với ai cả, nhưng hãy đi trình diện tư tế và dâng của lễ, như ông Mô-sê đã truyền, để… cho người ta biết.” (Mt 8,4)",
+      "options": {
+        "A": "Làm chứng",
+        "B": "Loan truyền",
+        "C": "Công bố",
+        "D": "Loan báo"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 107,
+      "question": "“Viên đại đội trưởng đáp: “Thưa Ngài, tôi chẳng đáng Ngài vào nhà tôi, nhưng xin Ngài chỉ nói một lời là...” (Mt 8,8)",
+      "options": {
+        "A": "Linh hồn tôi sẽ lành mạnh",
+        "B": "Đầy tớ tôi được khỏi bệnh",
+        "C": "Linh hồn tôi sẽ được sạch",
+        "D": "Tôi tớ Ngài sẽ được khỏi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "“Đức Giê-su trả lời: “Con chồn có hang, chim trời có tổ, nhưng Con Người...” (Mt 8,20)",
+      "options": {
+        "A": "Chẳng có nơi gối đầu",
+        "B": "Chẳng tìm được nơi tựa đầu",
+        "C": "Không có nơi gối đầu",
+        "D": "Không có chỗ tựa đầu"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 109,
+      "question": "“Đức Giê-su bảo: “Anh hãy…, cứ để kẻ chết chôn kẻ chết của họ.” (Mt 8,22)",
+      "options": {
+        "A": "Đi theo tôi",
+        "B": "Theo tôi",
+        "C": "Làm môn đệ tôi",
+        "D": "Đi loan báo Tin Mừng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 110,
+      "question": "“Các ông lại gần đánh thức Người và nói: “Thưa Ngài, …, chúng con chết mất!” (Mt 8,25)",
+      "options": {
+        "A": "Xin cứu giúp con",
+        "B": "Xin cứu chúng con",
+        "C": "Xin hãy ra tay",
+        "D": "Xin thương xót chúng con"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 111,
+      "question": "“Đức Giê-su nói: “Sao nhát thế, hỡi những người…!” Rồi Người trỗi dậy, ngăm đe gió và biển: biển liền lặng như tờ”. (Mt 8,26)",
+      "options": {
+        "A": "Cứng lòng",
+        "B": "Nhát đảm",
+        "C": "Kém lòng tin",
+        "D": "Cứng lòng tin"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "“Người ta ngạc nhiên và nói: “Ông này là người thế nào mà cả đến gió và biển cũng…?” (Mt 8,27)",
+      "options": {
+        "A": "Phải khiếp sợ",
+        "B": "Kinh khiếp",
+        "C": "Phải kinh sợ",
+        "D": "Tuân lệnh"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 113,
+      "question": "“Hỡi…, chuyện chúng tôi can gì đến ông? Chưa tới lúc mà ông đã đến đây làm khổ chúng tôi sao?” (Mt 8,29)",
+      "options": {
+        "A": "Con Thiên Chúa",
+        "B": "Ông Giê-su",
+        "C": "Ông Giê-su Na-da-rét",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 114,
+      "question": "“Thấy họ có lòng tin như vậy, Đức Giê-su bảo người bại liệt: “Này con, cứ yên tâm,…” (Mt 9,2)",
+      "options": {
+        "A": "Con đã được tha tội rồi!",
+        "B": "Tội con đã được tha!",
+        "C": "Tội của con đã được tha!",
+        "D": "Đừng sợ"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 115,
+      "question": "“Hãy về học cho biết ý nghĩa của câu này: Ta muốn… chứ đâu cần lễ tế. Vì tôi không đến để kêu gọi người công chính, mà để kêu gọi người tội lỗi.” (Mt 9,13)",
+      "options": {
+        "A": "Tấm lòng",
+        "B": "Lòng yêu mến",
+        "C": "Lòng nhân",
+        "D": "Lòng khiêm nhường"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 116,
+      "question": "“Đức Giê-su trả lời: “Chẳng lẽ khách dự tiệc cưới lại có thể than khóc, khi chàng rể còn ở với họ? Nhưng khi tới ngày chàng rể…, bấy giờ họ mới ăn chay”. (Mt 9,15)",
+      "options": {
+        "A": "Được đem đi rồi",
+        "B": "Bị đem đi rồi",
+        "C": "Đã đi khỏi rồi",
+        "D": "Đã ra đi rồi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 117,
+      "question": "“Đang khi Đức Giê-su ra khỏi nơi đó, thì có hai người mù đi theo kêu lên rằng: “Lạy Con vua Đa-vít,… chúng tôi!” (Mt 9,27)",
+      "options": {
+        "A": "Xin rủ lòng thương",
+        "B": "Xin thương",
+        "C": "Xin thương đến",
+        "D": "Xin thương xót"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 118,
+      "question": "“Người nghiêm giọng bảo họ: “Coi chừng, đừng cho ai biết!” Nhưng vừa ra khỏi đó, họ đã… trong khắp cả vùng”. (Mt 9,30-31)",
+      "options": {
+        "A": "Nói về Người",
+        "B": "Tung tin",
+        "C": "Loan tin vui",
+        "D": "Loan tin"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 119,
+      "question": "“Đức Giê-su thấy đám đông thì…, vì họ lầm than vất vưởng, như bầy chiên không người chăn dắt”. (Mt 9,36)",
+      "options": {
+        "A": "Chạnh lòng thương",
+        "B": "Rủ lòng thương",
+        "C": "Cảm thương",
+        "D": "Liền chạnh lòng thương"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 120,
+      "question": "“Bấy giờ, Người nói với môn đệ rằng: “Lúa chín đầy đồng, mà thợ gặt lại ít. Vậy anh em hãy… sai thợ ra gặt lúa về.” (Mt 9,37-38)",
+      "options": {
+        "A": "Ra đi",
+        "B": "Cầu xin chủ ruộng",
+        "C": "Xin chủ mùa gặt",
+        "D": "Xin Thiên Chúa"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 121,
+      "question": "“Khi anh em vào bất cứ thành nào hay làng nào, thì hãy dò hỏi xem ở đó…, và hãy ở lại đó cho đến lúc ra đi. (Mt 10,11)",
+      "options": {
+        "A": "Ai là người xứng đáng",
+        "B": "Chỗ nào tốt nhất",
+        "C": "Chỗ nào thuận tiện",
+        "D": "Nhà nào xứng đáng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 122,
+      "question": "“Vào nhà nào, anh em hãy… cho nhà ấy. Nếu nhà ấy xứng đáng, thì bình an của anh em sẽ đến với họ; còn nếu nhà ấy không xứng đáng, thì bình an của anh em sẽ trở về với anh em”. (Mt 10,12-13)",
+      "options": {
+        "A": "Chúc bình an",
+        "B": "Chào chúc bình an",
+        "C": "Chúc lành",
+        "D": "Chúc phúc lành"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 123,
+      "question": "“Này, Thầy sai anh em đi như chiên đi vào giữa bầy sói. Vậy anh em phải khôn như rắn và…”. (Mt 10,16)",
+      "options": {
+        "A": "Hiền lành như bồ câu",
+        "B": "Hiền như bồ câu",
+        "C": "Đơn sơ như bồ câu",
+        "D": "Hiền lành như chiên"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "“Và anh em sẽ bị điệu ra trước mặt vua chúa quan quyền vì Thầy… cho họ và các dân ngoại được biết”. (Mt 10,18)",
+      "options": {
+        "A": "Để làm gương",
+        "B": "Để chứng tỏ",
+        "C": "Để làm chứng",
+        "D": "Để nói"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "“Khi người ta nộp anh em, thì anh em đừng lo phải nói làm sao hay phải nói gì, vì trong giờ đó,… sẽ cho anh em biết phải nói gì”.",
+      "options": {
+        "A": "Thiên Chúa",
+        "B": "Thần Khí",
+        "C": "Thánh Thần",
+        "D": "Chính Thầy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 126,
+      "question": "“… anh em sẽ bị mọi người thù ghét. Nhưng kẻ nào bền chí đến cùng, kẻ ấy sẽ được cứu thoát”. (Mt 10,22)",
+      "options": {
+        "A": "Vì Thầy",
+        "B": "Vì Tin Mừng",
+        "C": "Vì Ta",
+        "D": "Vì danh Thầy"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 127,
+      "question": "“Khi người ta bách hại anh em trong thành này, thì hãy... Thầy bảo thật anh em: anh em chưa đi hết các thành của Ít-ra-en, thì Con Người đã đến”. (Mt 10,23)",
+      "options": {
+        "A": "Đừng chống cự",
+        "B": "Trốn sang thành khác",
+        "C": "Đi sang thành khác",
+        "D": "Chạy sang thành khác"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "“Trò không hơn thầy, tớ không hơn chủ. Trò được như thầy, tớ được như chủ, đã là khá lắm rồi. Chủ nhà mà người ta còn gọi là…, huống chi là người nhà”. (Mt 10,24-25)",
+      "options": {
+        "A": "Ma quỷ",
+        "B": "Tướng quỷ",
+        "C": "Đồ mất trí",
+        "D": "Bê-en-dê-bun"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 129,
+      "question": "“Vậy anh em đừng sợ người ta. Thật ra,… mà sẽ không được tỏ lộ, không có gì bí mật, mà người ta sẽ không biết”. (Mt 10,26)",
+      "options": {
+        "A": "Không có gì kín đáo",
+        "B": "Không có gì che giấu",
+        "C": "Chẳng có gì kín nhiệm",
+        "D": "Chẳng có gì kín đáo"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "“Điều Thầy nói với anh em lúc đêm hôm, thì hãy nói ra giữa ban ngày; và điều anh em nghe rỉ tai, thì hãy…”. (Mt 10,27)",
+      "options": {
+        "A": "Loan báo trên mái nhà",
+        "B": "Nói giữa chỗ đông người",
+        "C": "Nói trên mái nhà",
+        "D": "Lên mái nhà rao giảng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 131,
+      "question": "“Anh em… những kẻ giết thân xác mà không giết được linh hồn. Đúng hơn, anh em hãy sợ Đấng có thể tiêu diệt cả hồn lẫn xác trong hoả ngục”. (Mt 10,28)",
+      "options": {
+        "A": "Chớ có sợ",
+        "B": "Đừng nể sợ",
+        "C": "Đừng sợ",
+        "D": "Đừng khiếp sợ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 132,
+      "question": "“Hai con chim sẻ chỉ bán được một hào phải không? Thế mà, không một con nào rơi xuống đất…”. (Mt 10,29)",
+      "options": {
+        "A": "Ngoài ý của Cha anh em",
+        "B": "Ngoài ý Thiên Chúa",
+        "C": "Ngoài ý của Thầy",
+        "D": "Ngoài ý định của Chúa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 133,
+      "question": "“Vậy anh em đừng sợ, anh em còn… muôn vàn chim sẻ”.",
+      "options": {
+        "A": "Quý giá hơn",
+        "B": "Có giá hơn",
+        "C": "Giá trị hơn",
+        "D": "Quý trọng hơn"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 134,
+      "question": "“Phàm ai tuyên bố… trước mặt thiên hạ, thì Thầy cũng sẽ tuyên bố nhận người ấy trước mặt Cha Thầy, Đấng ngự trên trời”. (Mt 10,32)",
+      "options": {
+        "A": "Tin vào Thầy",
+        "B": "Nhận Thầy",
+        "C": "Làm môn đệ Thầy",
+        "D": "Tin nhận Thầy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 135,
+      "question": "“Ai không… mà theo Thầy, thì không xứng với Thầy”. (Mt 10,38)",
+      "options": {
+        "A": "Từ bỏ mọi sự",
+        "B": "Vác thập giá mình",
+        "C": "Từ bỏ chính mình",
+        "D": "Từ chối mọi sự"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 136,
+      "question": "“Ai giữ lấy mạng sống mình, thì sẽ mất; còn ai liều mất mạng sống mình vì Thầy, thì sẽ…”. (Mt 10,39)",
+      "options": {
+        "A": "Tìm thấy được",
+        "B": "Tìm lại được",
+        "C": "Giữ được mạng sống ấy",
+        "D": "Có được mạng sống ấy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 137,
+      "question": "“Ai đón tiếp anh em là đón tiếp Thầy, và ai đón tiếp Thầy là đón tiếp…”. (Mt 10,40)",
+      "options": {
+        "A": "Chính Cha của Thầy",
+        "B": "Đấng đã sai Thầy",
+        "C": "Cha của Thầy",
+        "D": "Chính Đấng sai Thầy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 138,
+      "question": "“Và ai cho một trong những kẻ bé nhỏ này uống, dù chỉ một chén nước lã thôi, vì kẻ ấy là môn đệ của Thầy, thì Thầy bảo thật anh em, người đó sẽ…” (Mt 10,42)",
+      "options": {
+        "A": "Được trọng thưởng",
+        "B": "Được phần thưởng lớn lao",
+        "C": "Được Thầy đón tiếp",
+        "D": "Không mất phần thưởng đâu"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 139,
+      "question": "“Các anh cứ về thuật lại cho ông Gio-an những điều mắt thấy tai nghe: Người mù xem thấy, kẻ què được đi, người phong được sạch, kẻ điếc được nghe, người chết sống lại, kẻ nghèo…” (Mt 11,4-5)",
+      "options": {
+        "A": "Được ăn uống no nê",
+        "B": "An ủi vỗ về",
+        "C": "Được nghe Tin Mừng",
+        "D": "Thỏa thuê cơm bánh"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 140,
+      "question": "“Chính ông là người Kinh Thánh đã nói tới khi chép rằng: Này Ta sai sứ giả của Ta đi trước mặt Con, người sẽ…”. (Mt 11,10)",
+      "options": {
+        "A": "Chỉ đường cho Con",
+        "B": "Dọn đường cho Con đến",
+        "C": "Sửa đường cho Con",
+        "D": "Chỉ đường cho Con đến"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 141,
+      "question": "“Tôi nói thật với anh em: trong số phàm nhân đã lọt lòng mẹ, chưa từng có ai cao trọng hơn... Tuy nhiên, kẻ nhỏ nhất trong Nước Trời còn cao trọng hơn ông”. (Mt 11,11)",
+      "options": {
+        "A": "Ông Si-môn Phê-rô",
+        "B": "Ông Giô-na",
+        "C": "Ông Gio-an Tẩy Giả",
+        "D": "Tổ phụ Áp-ra-ham"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 142,
+      "question": "“Lạy Cha là Chúa Tể trời đất, con xin ngợi khen Cha, vì Cha đã giấu không cho bậc khôn ngoan thông thái biết những điều này, nhưng lại mặc khải cho…”. (Mt 11,25)",
+      "options": {
+        "A": "Những kẻ bé mọn",
+        "B": "Những kẻ khó nghèo",
+        "C": "Những người bé mọn",
+        "D": "Những kẻ nghèo hèn"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 143,
+      "question": "“Cha tôi đã giao phó mọi sự cho tôi. Và không ai biết rõ người Con, trừ Chúa Cha ; cũng như không ai biết rõ Chúa Cha, trừ người Con và kẻ mà… muốn mặc khải cho”. (Mt 11,27)",
+      "options": {
+        "A": "Người Con",
+        "B": "Chúa Cha",
+        "C": "Cha tôi",
+        "D": "Con Người"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 144,
+      "question": "“Tất cả những ai đang vất vả mang gánh nặng nề, hãy đến cùng tôi, tôi sẽ…”. (Mt 11,28)",
+      "options": {
+        "A": "Ủi an vỗ về",
+        "B": "Cho nghỉ ngơi bồi dưỡng",
+        "C": "An ủi người ấy",
+        "D": "Ủi an kẻ ấy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "“Anh em hãy mang lấy ách của tôi, và hãy học với tôi, vì tôi có lòng... Tâm hồn anh em sẽ được nghỉ ngơi bồi dưỡng. (Mt 11,29)",
+      "options": {
+        "A": "Hiền hậu",
+        "B": "Nhân từ",
+        "C": "Khiêm nhường",
+        "D": "Cả A và C"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 146,
+      "question": "“Vì… tôi êm ái, và… tôi nhẹ nhàng.” (Mt 11,30)",
+      "options": {
+        "A": "Gánh / ách",
+        "B": "Ách / gánh",
+        "C": "Ách / tiếng",
+        "D": "Gánh / tiếng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 147,
+      "question": "“Đây là Người Tôi Tớ Ta đã tuyển chọn, đây là người Ta yêu dấu: … Ta cho Thần Khí Ta ngự trên Người. Người sẽ loan báo công lý trước muôn dân”. (Mt 12,18)",
+      "options": {
+        "A": "Ta hài lòng về Người",
+        "B": "Đẹp lòng Ta mọi đàng",
+        "C": "Hãy vâng nghe lời Người",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 148,
+      "question": "“Người sẽ…, không kêu to, chẳng ai nghe thấy Người lên tiếng giữa phố phường”. (Mt 12,19)",
+      "options": {
+        "A": "Không cãi vã",
+        "B": "Không lớn tiếng",
+        "C": "Không nặng lời",
+        "D": "Chẳng kết án"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 149,
+      "question": "“Cây lau bị giập, Người…, tim đèn leo lét, chẳng nỡ tắt đi, cho đến khi Người đưa công lý đến toàn thắng, và muôn dân đặt niềm hy vọng nơi danh Người”. (Mt 12,20-21)",
+      "options": {
+        "A": "Không bẻ gãy",
+        "B": "Không đành đụng tới",
+        "C": "Không đành bẻ gãy",
+        "D": "Chẳng cần bẻ gãy"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "“Còn nếu tôi dựa vào Thần Khí của Thiên Chúa mà trừ quỷ, thì quả là … đã đến giữa các ông”. (Mt 12,28)",
+      "options": {
+        "A": "Nước Thiên Chúa",
+        "B": "Con Người",
+        "C": "Nước Trời",
+        "D": "Triều đại Thiên Chúa"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 151,
+      "question": "“Ai…, là chống lại tôi; và ai không cùng tôi thu góp, là phân tán”. (Mt 12,30)",
+      "options": {
+        "A": "Không đi với tôi",
+        "B": "Cùng phe với tôi",
+        "C": "Không thuộc về tôi",
+        "D": "Không thần phục tôi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 152,
+      "question": "“Vì thế, tôi nói cho các ông hay: mọi tội, kể cả tội nói phạm thượng, cũng sẽ được tha cho loài người, chứ tội nói phạm đến… sẽ chẳng được tha”. (Mt 12,31)",
+      "options": {
+        "A": "Thánh Thần",
+        "B": "Chúa Thánh Thần",
+        "C": "Thần Khí",
+        "D": "Chúa Cha"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 153,
+      "question": "“Ai nói phạm đến Con Người thì được tha; nhưng ai nói phạm đến Thánh Thần sẽ chẳng được tha,…”. (Mt 12,32)",
+      "options": {
+        "A": "Nhưng bị lửa hỏa ngục",
+        "B": "Cả đời này lẫn đời sau",
+        "C": "Nhưng bị ném vào hỏa ngục",
+        "D": "Đến muôn đời muôn kiếp"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 154,
+      "question": "“Cây mà tốt thì quả cũng tốt; cây mà sâu thì quả cũng sâu, vì…”. (Mt 12,33)",
+      "options": {
+        "A": "Cây nào sinh quả đó",
+        "B": "Cây nào sinh trái đó",
+        "C": "Có xem quả mới biết cây",
+        "D": "Xem quả thì biết cây"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 155,
+      "question": "“Loài rắn độc kia, xấu như các người, thì làm sao…? Vì lòng có đầy, miệng mới nói ra”. (Mt 12,34)",
+      "options": {
+        "A": "Nói điều tốt được",
+        "B": "Có thể làm việc tốt được",
+        "C": "Làm điều tốt được",
+        "D": "Làm việc lành được"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 156,
+      "question": "“Tôi nói cho các người hay: đến Ngày phán xét, người ta sẽ phải trả lời về… mình đã nói”. (Mt 12,36)",
+      "options": {
+        "A": "Mọi lời xấu xa",
+        "B": "Những điều xấu",
+        "C": "Mọi điều vô ích",
+        "D": "Những lời độc ác"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "“Vì nhờ lời nói của anh mà anh sẽ được trắng án; và cũng tại lời nói của anh mà anh...” (Mt 12,37)",
+      "options": {
+        "A": "Sẽ bị kết án",
+        "B": "Sẽ bị luận phạt",
+        "C": "Sẽ bị án phạt",
+        "D": "Sẽ bị trách phạt"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 158,
+      "question": "“Trong cuộc phán xét, dân thành Ni-ni-vê sẽ trỗi dậy cùng với thế hệ này và sẽ kết án họ, vì xưa dân ấy đã… khi nghe ông Giô-na rao giảng; mà đây thì còn hơn ông Giô-na nữa”. (Mt 12,41)",
+      "options": {
+        "A": "Tỏ lòng sám hối",
+        "B": "Sám hối",
+        "C": "Tỏ lòng thống hối",
+        "D": "Ăn năn thống hối"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "“Trong cuộc phán xét, nữ hoàng Phương Nam sẽ đứng lên cùng với thế hệ này, và bà sẽ kết án họ, vì xưa bà đã từ tận cùng trái đất đến nghe lời khôn ngoan của vua Sa-lô-môn; mà đây thì còn…”. (Mt 12,42)",
+      "options": {
+        "A": "Cao trọng hơn Sa-lô-mon",
+        "B": "Hơn cả Sa-lô-mon nữa",
+        "C": "Hơn vua Sa-lô-môn nữa",
+        "D": "Hơn cả vua ấy nữa"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 160,
+      "question": "“Vì phàm ai… của Cha tôi, Đấng ngự trên trời, người ấy là anh chị em tôi, là mẹ tôi.” (Mt 12,50)",
+      "options": {
+        "A": "Làm theo ý",
+        "B": "Tuân hành theo ý",
+        "C": "Tuân hành ý muốn",
+        "D": "Thi hành ý muốn"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 161,
+      "question": "“Người gieo giống đi ra gieo giống. Trong khi người ấy gieo, thì có những hạt rơi xuống vệ đường,…” (Mt 13,3-4)",
+      "options": {
+        "A": "Nó liền bị cháy",
+        "B": "Chim chóc đến ăn mất",
+        "C": "Nó liền mọc ngay",
+        "D": "Nó liền bị chết khô"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 162,
+      "question": "“Có những hạt rơi…, chỗ đất không có nhiều; nó mọc ngay, vì đất không sâu; nhưng khi nắng lên, nó liền bị cháy, và vì thiếu rễ nên bị chết khô”. (Mt 13,5-6)",
+      "options": {
+        "A": "Trên vệ đường",
+        "B": "Vào bụi gai",
+        "C": "Trên nơi sỏi đá",
+        "D": "Rơi trên đất khô cằn"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 163,
+      "question": "“Có những hạt rơi vào bụi gai, gai mọc lên làm nó…”. (Mt 13,7)",
+      "options": {
+        "A": "Chết nghẹt",
+        "B": "Bị héo khô",
+        "C": "Bị chết khô",
+        "D": "Bị chết nghẹt"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 164,
+      "question": "“Có những hạt lại rơi nhằm đất tốt, nên…: hạt được gấp trăm, hạt được sáu chục, hạt được ba chục”. (Mt 13,8)",
+      "options": {
+        "A": "Sinh nhiều hoa trái",
+        "B": "Sinh hoa trái",
+        "C": "Liền mọc lên",
+        "D": "Sinh hoa kết quả"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 165,
+      "question": "“Ai đã có thì được cho thêm, và…; còn ai không có, thì ngay cái đang có, cũng sẽ bị lấy mất”. (Mt 13,12)",
+      "options": {
+        "A": "Được dư giả",
+        "B": "Sẽ có dư thừa",
+        "C": "Được dư dật",
+        "D": "Sẽ được dư giả"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 166,
+      "question": "“Bởi thế, nếu Thầy dùng dụ ngôn mà nói với họ, là vì họ nhìn mà không nhìn, nghe mà…”. (Mt 13,13)",
+      "options": {
+        "A": "Không nghe",
+        "B": "Không hiểu",
+        "C": "Chẳng hiểu",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 167,
+      "question": "“Còn anh em, mắt anh em thật có phúc vì…, tai anh em thật có phúc, vì được nghe”. (Mt 13,16)",
+      "options": {
+        "A": "Được xem thấy",
+        "B": "Được trông thấy",
+        "C": "Được thấy",
+        "D": "Được nhìn thấy"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 168,
+      "question": "“Quả thế, Thầy bảo thật anh em, nhiều ngôn sứ và nhiều người công chính đã mong mỏi thấy điều anh em…, mà không được thấy, nghe điều anh em đang nghe, mà không được nghe”. (Mt 13,17)",
+      "options": {
+        "A": "Đang thấy",
+        "B": "Đang thấy đây",
+        "C": "Đã thấy",
+        "D": "Đã từng thấy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 169,
+      "question": "“Cứ để cả hai cùng lớn lên cho tới mùa gặt. Đến ngày mùa, tôi sẽ bảo thợ gặt: hãy gom cỏ lùng lại, bó thành bó…, còn lúa, thì hãy thu vào kho lẫm cho tôi.’” (Mt 13,30)",
+      "options": {
+        "A": "Mà quăng vào lửa",
+        "B": "Mà đốt đi",
+        "C": "Mà ném vào lửa",
+        "D": "Rồi lấy lửa đốt đi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 170,
+      "question": "“Vậy, như người ta nhặt cỏ lùng … thế nào, thì đến ngày tận thế cũng sẽ xảy ra như vậy”. (Mt 13,40)",
+      "options": {
+        "A": "Rồi quăng vào lửa",
+        "B": "Rồi ném vào lửa",
+        "C": "Mà vứt vào lửa",
+        "D": "Rồi lấy lửa đốt đi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 171,
+      "question": "“Con Người sẽ sai các thiên thần của Người tập trung mọi kẻ làm gương mù gương xấu và mọi kẻ làm điều gian ác, mà…, rồi quăng chúng vào lò lửa; ở đó, chúng sẽ phải khóc lóc nghiến răng”. (Mt 13,41-42)",
+      "options": {
+        "A": "Tống ra ngoài",
+        "B": "Trói lại",
+        "C": "Tống ra khỏi Nước của Người",
+        "D": "Tra tấn, đánh đập"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "“Nước Trời giống như chuyện kho báu chôn giấu trong ruộng. Có người kia gặp được thì liền chôn giấu lại, rồi vui mừng… mà mua thửa ruộng ấy”. (Mt 13,44)",
+      "options": {
+        "A": "Bán hết tài sản của mình",
+        "B": "Đi bán tất cả những gì mình có",
+        "C": "Đem bán tất cả tài sản",
+        "D": "Đem bán tất cả gia tài"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 173,
+      "question": "“Nước Trời lại cũng giống như chuyện một thương gia đi tìm ngọc đẹp. Tìm được một viên ngọc quý, ông ta ra đi, … mà mua viên ngọc ấy”. (Mt 13,45-46)",
+      "options": {
+        "A": "Bán hết tài sản của mình",
+        "B": "Bán tất cả những gì mình có",
+        "C": "Đem bán tất cả tài sản",
+        "D": "Đem bán tất cả gia tài"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "“Nước Trời lại còn giống như chuyện chiếc lưới thả xuống biển, gom được đủ thứ cá. Khi lưới đầy, người ta kéo lên bãi, rồi ngồi nhặt… cho vào giỏ, còn cá xấu thì vứt ra ngoài”. (Mt 13,47-48)",
+      "options": {
+        "A": "Cá tốt",
+        "B": "Cá lớn",
+        "C": "Con nào tốt",
+        "D": "Con cá nào tốt"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 175,
+      "question": "“Các thiên thần sẽ xuất hiện và tách biệt kẻ xấu ra khỏi hàng ngũ…, rồi quăng chúng vào lò lửa. Ở đó, chúng sẽ phải khóc lóc nghiến răng”. (Mt 13,49-50)",
+      "options": {
+        "A": "Các Thánh",
+        "B": "Người lành",
+        "C": "Người công chính",
+        "D": "Người tốt"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 176,
+      "question": "“Bởi vậy, bất cứ kinh sư nào đã được học hỏi về Nước Trời, thì cũng giống như chủ nhà kia lấy ra từ trong… cả cái mới lẫn cái cũ.” (Mt 13,52)",
+      "options": {
+        "A": "Ngân hàng của mình",
+        "B": "Kho tàng của mình",
+        "C": "Kho của nhà mình",
+        "D": "Kho lẫm của mình"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 177,
+      "question": "“Ngôn sứ có bị rẻ rúng, thì cũng chỉ là ở… và trong gia đình mình mà thôi.” (Mt 13,57)",
+      "options": {
+        "A": "Quê hương",
+        "B": "Chính quê hương mình",
+        "C": "Ngay chính quê hương",
+        "D": "Ngay tại quê hương mình"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 178,
+      "question": "“Người không làm nhiều phép lạ tại đó, vì…”. (Mt 13,58)",
+      "options": {
+        "A": "Họ không có lòng tin",
+        "B": "Chẳng có tin",
+        "C": "Họ phản đối Người",
+        "D": "Họ không tin"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 179,
+      "question": "“Đức Giê-su bảo: “Họ không cần phải đi đâu cả,… hãy cho họ ăn.” (Mt 14,16)",
+      "options": {
+        "A": "Anh em",
+        "B": "Các con",
+        "C": "Chính anh em",
+        "D": "Chính các con"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 180,
+      "question": "“Người cầm lấy năm cái bánh và hai con cá, ngước mắt lên trời, …, và bẻ ra, trao cho môn đệ. Và môn đệ trao cho dân chúng”. (Mt 14,19)",
+      "options": {
+        "A": "Tạ ơn",
+        "B": "Dâng lời chúc tụng",
+        "C": "Dâng lời tạ ơn",
+        "D": "Tạ ơn Thiên Chúa"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 181,
+      "question": "“Khi thầy trò đã lên thuyền, thì gió lặng ngay. Những kẻ ở trong thuyền bái lạy Người và nói: “Quả thật Ngài là …!” (Mt 14,32-33)",
+      "options": {
+        "A": "Con Thiên Chúa",
+        "B": "Đấng Thánh",
+        "C": "Con Đấng Tối Cao",
+        "D": "Thiên Chúa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 182,
+      "question": "“Họ nài xin Người cho họ chỉ … thôi, và ai đã sờ vào thì đều được khỏi”. (Mt 14,36)",
+      "options": {
+        "A": "Chạm vào Người",
+        "B": "Sờ vào Người",
+        "C": "Đến gần sờ vào Người",
+        "D": "Sờ vào tua áo của Người"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 183,
+      "question": "“Quả thế, Thiên Chúa dạy: Ngươi hãy thờ cha kính mẹ; kẻ nào nguyền rủa cha mẹ, thì…”. (Mt 15,4)",
+      "options": {
+        "A": "Sẽ phải chết",
+        "B": "Sẽ bị án phạt đời đời",
+        "C": "Phải bị xử tử",
+        "D": "Thiên Chúa giáng phạt"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 184,
+      "question": "“Dân này tôn kính Ta bằng môi bằng miệng, còn… thì lại xa Ta”. (Mt 15,8)",
+      "options": {
+        "A": "Lòng dạ",
+        "B": "Lòng chúng",
+        "C": "Lòng dạ của chúng",
+        "D": "Tâm hồn chúng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 185,
+      "question": "“Chúng có thờ phượng Ta thì cũng vô ích, vì giáo lý chúng giảng dạy chỉ là...” (Mt 15,9)",
+      "options": {
+        "A": "Giới luật phàm nhân",
+        "B": "Giáo huấn của người phàm",
+        "C": "Giáo huấn của phàm nhân",
+        "D": "Lời lẽ phàm nhân"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 186,
+      "question": "“Không phải cái vào miệng làm cho con người ra ô uế, nhưng…, cái đó mới làm cho con người ra ô uế.” (Mt 15,11)",
+      "options": {
+        "A": "Cái từ lòng xuất ra",
+        "B": "Thứ từ lòng người xuất ra",
+        "C": "Cái từ miệng xuất ra",
+        "D": "Cái từ trong lòng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 187,
+      "question": "“Đức Giê-su gọi các môn đệ lại mà nói: “Thầy … đám đông, vì họ ở luôn với Thầy đã ba ngày rồi và họ không có gì ăn”. (Mt 15,32)",
+      "options": {
+        "A": "Thương",
+        "B": "Cảm thấy thương",
+        "C": "Lo cho",
+        "D": "Chạnh lòng thương"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 188,
+      "question": "“Đức Giê-su lại hỏi: “Còn anh em, anh em bảo Thầy là ai?” Ông Si-môn Phê-rô thưa: “Thầy là Đấng Ki-tô,...” (Mt 16,15-16)",
+      "options": {
+        "A": "Con Thiên Chúa",
+        "B": "Con Thiên Chúa hằng sống",
+        "C": "Của Thiên Chúa",
+        "D": "Con Thiên Chúa tối cao"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 189,
+      "question": "“Này anh Si-môn con ông Giô-na, anh thật là người có phúc, vì không phải phàm nhân mặc khải cho anh điều ấy, nhưng là…, Đấng ngự trên trời”. (Mt 16,17)",
+      "options": {
+        "A": "Cha của Thầy",
+        "B": "Cha Thầy",
+        "C": "Thiên Chúa Cha",
+        "D": "Thiên Chúa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 190,
+      "question": "“Còn Thầy, Thầy bảo cho anh biết: anh là Phê-rô, nghĩa là Tảng Đá, trên tảng đá này, Thầy sẽ xây Hội Thánh của Thầy, và… sẽ không thắng nổi”. (Mt 16,18)",
+      "options": {
+        "A": "Cửa hỏa ngục",
+        "B": "Quyền lực Âm Phủ",
+        "C": "Quyền lực tử thần",
+        "D": "Sức mạnh của tử thần"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 191,
+      "question": "“Thầy sẽ trao cho anh…: dưới đất, anh cầm buộc điều gì, trên trời cũng sẽ cầm buộc như vậy; dưới đất, anh tháo cởi điều gì, trên trời cũng sẽ tháo cởi như vậy.” (Mt 16,19)",
+      "options": {
+        "A": "Chìa khoá Nước Trời",
+        "B": "Quyền trên các thần ô uế",
+        "C": "Mọi quyền năng",
+        "D": "Chìa khóa cửa trời"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 192,
+      "question": "“Từ lúc đó, Đức Giê-su Ki-tô bắt đầu tỏ cho các môn đệ biết: Người phải đi Giê-ru-sa-lem, phải chịu nhiều đau khổ do các kỳ mục, các thượng tế và kinh sư gây ra, rồi bị giết chết, và…”. (Mt 16,21)",
+      "options": {
+        "A": "Ba ngày sau sẽ sống lại",
+        "B": "Đủ ba ngày sẽ sống lại",
+        "C": "Ngày thứ ba sẽ sống lại",
+        "D": "Khỏi ba ngày, sẽ sống lại"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 193,
+      "question": "“Xa-tan, lui lại đằng sau Thầy! …, vì tư tưởng của anh không phải là tư tưởng của Thiên Chúa, mà là của loài người.” (Mt 16,23)",
+      "options": {
+        "A": "Anh cản lối Thầy",
+        "B": "Đừng cản Thầy",
+        "C": "Đừng phản đối Thầy",
+        "D": "Sao lại cản lối Thầy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 194,
+      "question": "“Rồi Đức Giê-su nói với các môn đệ: “Ai muốn theo Thầy, …, vác thập giá mình mà theo”. (Mt 16,24)",
+      "options": {
+        "A": "Hãy bỏ mình",
+        "B": "Hãy từ bỏ mình",
+        "C": "Phải từ bỏ mình",
+        "D": "Phải từ bỏ chính mình"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 195,
+      "question": "“Quả vậy, ai muốn cứu mạng sống mình, thì sẽ mất; … mạng sống mình vì Thầy, thì sẽ tìm được mạng sống ấy”. (Mt 16,25)",
+      "options": {
+        "A": "Ai đành mất",
+        "B": "Còn ai liều mất",
+        "C": "Ai chấp nhận mất",
+        "D": "Còn ai chịu mất"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 196,
+      "question": "“Vì nếu người ta được cả thế giới mà phải thiệt mất mạng sống, thì…? Hoặc người ta sẽ lấy gì mà đổi mạng sống mình?” (Mt 16,26)",
+      "options": {
+        "A": "Nào được ích gì",
+        "B": "Được ích gì",
+        "C": "Đâu có được ích gì",
+        "D": "Nào có lợi gì"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 197,
+      "question": "“Vì Con Người sẽ ngự đến trong vinh quang của Cha Người, cùng với các thiên thần của Người, và bấy giờ, Người sẽ thưởng phạt ai nấy…”. (Mt 16,27)",
+      "options": {
+        "A": "Xứng việc họ làm",
+        "B": "Tùy theo việc họ làm",
+        "C": "Tùy việc họ làm",
+        "D": "Xứng với việc họ làm"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 198,
+      "question": "“Đây là Con yêu dấu của Ta, Ta hài lòng về Người. Các ngươi hãy…!” (Mt 17,5)",
+      "options": {
+        "A": "Nghe lời Người",
+        "B": "Vâng lời Người",
+        "C": "Vâng nghe lời Người",
+        "D": "Tuân lệnh Người"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 199,
+      "question": "“Con Người sắp bị nộp vào tay người đời, họ sẽ giết chết Người, và ngày thứ ba...” (Mt 17,22-23)",
+      "options": {
+        "A": "Sẽ sống lại",
+        "B": "Người sẽ trỗi dậy",
+        "C": "Sẽ trỗi dậy",
+        "D": "Người sẽ sống lại"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 200,
+      "question": "“Thầy bảo thật anh em: nếu anh em không trở lại mà…, thì sẽ chẳng được vào Nước Trời”. (Mt 18,3)",
+      "options": {
+        "A": "Thay đổi đời sống",
+        "B": "Ăn năn thống hối",
+        "C": "Nên như trẻ nhỏ",
+        "D": "Ăn chay khóc lóc"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 201,
+      "question": "“Vậy ai tự hạ, coi mình như em nhỏ này, người ấy sẽ là…”. (Mt 18,4)",
+      "options": {
+        "A": "Người lớn nhất Nước Trời",
+        "B": "Người cao trọng trong Nước Trời",
+        "C": "Người lớn trong Nước Trời",
+        "D": "Người lớn nhất"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 202,
+      "question": "“Nhưng ai làm cớ cho một trong những kẻ bé mọn đang tin Thầy đây phải sa ngã, thì thà treo cối đá lớn vào cổ nó mà… còn hơn”. (Mt 18,6)",
+      "options": {
+        "A": "Ném xuống biển",
+        "B": "Xô xuống đáy biển",
+        "C": "Đẩy xuống biển",
+        "D": "Xô cho chìm xuống đáy biển"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 203,
+      "question": "“Nếu tay hoặc chân anh làm cớ cho anh sa ngã, thì hãy chặt mà ném đi; thà cụt tay cụt chân mà…, còn hơn là có đủ hai tay hai chân mà bị ném vào lửa đời đời”. (Mt 18,8)",
+      "options": {
+        "A": "Được vào Nước Trời",
+        "B": "Được vào thiên đàng",
+        "C": "Được vào cõi sống",
+        "D": "Được vào Nước Thiên Chúa"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 204,
+      "question": "“Nếu mắt anh làm cớ cho anh sa ngã, thì hãy móc mà ném đi; thà chột mắt mà …, còn hơn là có đủ hai mắt mà bị ném vào lửa hoả ngục”. (Mt 18,9)",
+      "options": {
+        "A": "Được vào Nước Trời",
+        "B": "Được vào thiên đàng",
+        "C": "Được vào cõi sống",
+        "D": "Được vào Nước Thiên Chúa"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 205,
+      "question": "“Anh em hãy coi chừng, …trong những kẻ bé mọn này; quả thật, Thầy nói cho anh em biết: các thiên thần của họ ở trên trời không ngừng chiêm ngưỡng nhan Cha Thầy, Đấng ngự trên trời”. (Mt 18,10)",
+      "options": {
+        "A": "Chớ khinh một ai",
+        "B": "Đừng ức hiếp một ai",
+        "C": "Chớ bát nạt một ai",
+        "D": "Đừng coi thường một ai"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 206,
+      "question": "“Cũng vậy, Cha của anh em, Đấng ngự trên trời, không muốn cho một ai trong những kẻ bé mọn này…”. (Mt 18,14)",
+      "options": {
+        "A": "Phải tiêu vong",
+        "B": "Bị diệt vong",
+        "C": "Phải hư mất",
+        "D": "Phải bị diệt vong"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 207,
+      "question": "“Thầy bảo thật anh em: Dưới đất, anh em cầm buộc những điều gì, trên trời cũng…; dưới đất, anh em tháo cởi những điều gì, trên trời cũng tháo cởi như vậy”. (Mt 18,18)",
+      "options": {
+        "A": "Cầm buộc",
+        "B": "Cầm buộc thể ấy",
+        "C": "Cầm buộc như thế",
+        "D": "Cầm buộc như vậy"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 208,
+      "question": "“Thầy còn bảo thật anh em: Nếu ở dưới đất, hai người trong anh em… bất cứ điều gì, thì Cha Thầy, Đấng ngự trên trời, sẽ ban cho”. (Mt 18,19)",
+      "options": {
+        "A": "Cùng xin",
+        "B": "Hợp lời cầu xin",
+        "C": "Cầu xin",
+        "D": "Cùng cầu xin"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 209,
+      "question": "“Vì ở đâu có hai ba người họp lại…, thì có Thầy ở đấy, giữa họ.” (Mt 18,20)",
+      "options": {
+        "A": "Nhân danh Cha Thầy",
+        "B": "Nhân danh Cha của Thầy",
+        "C": "Nhân danh Thầy",
+        "D": "Nhân danh Chúa Cha"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 210,
+      "question": "‘Tên đầy tớ độc ác kia, ta đã tha hết số nợ ấy cho ngươi, vì ngươi đã van xin ta, thì đến lượt ngươi, ngươi không phải thương xót đồng bạn, như… ngươi sao?’ (Mt 18,32-33)",
+      "options": {
+        "A": "Ta đã thương xót",
+        "B": "Chính ta đã thương xót",
+        "C": "Chúng ta đã thương xót",
+        "D": "Đồng bạn đã thương xót"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 211,
+      "question": "“Ấy vậy, Cha của Thầy ở trên trời cũng sẽ đối xử với anh em như thế, nếu mỗi người trong anh em không… cho anh em mình.” (Mt 18,35)",
+      "options": {
+        "A": "Hết lòng tha thứ",
+        "B": "Tha thứ",
+        "C": "Chấp nhận tha thứ",
+        "D": "Bằng lòng tha thứ"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 212,
+      "question": "‘Thuở ban đầu, Đấng Tạo Hoá đã làm ra con người có nam có nữ’, và Người đã phán: ‘Vì thế, người ta sẽ lìa cha mẹ mà gắn bó với vợ mình, và cả hai sẽ thành...’ (Mt 19,4-5)",
+      "options": {
+        "A": "Một gia đình",
+        "B": "Một xương một thịt",
+        "C": "Một cặp vợ chồng",
+        "D": "Một đôi vợ chồng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 213,
+      "question": "Vậy, sự gì Thiên Chúa đã phối hợp, loài người...” (Mt 19,6)",
+      "options": {
+        "A": "Không được phép phân ly",
+        "B": "Không tự ý phân ly",
+        "C": "Không được phân ly",
+        "D": "Không được chia lìa"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 214,
+      "question": "“Vì các ông lòng chai dạ đá, nên ông Mô-sê đã cho phép các ông rẫy vợ, chứ thuở ban đầu,…”. (Mt 19,8)",
+      "options": {
+        "A": "Không có thế đâu",
+        "B": "Không như vậy",
+        "C": "Không được phân ly",
+        "D": "Không được phép"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 215,
+      "question": "“Tôi nói cho các ông biết: Ngoại trừ trường hợp hôn nhân bất hợp pháp, ai rẫy vợ mà cưới vợ khác là...” (Mt 19,9)",
+      "options": {
+        "A": "Kẻ ngoại tình",
+        "B": "Mắc tội ngoại tình",
+        "C": "Đi ngoại tình",
+        "D": "Phạm tội ngoại tình"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 216,
+      "question": "“Cứ để trẻ em đến với Thầy, …, vì Nước Trời là của những ai giống như chúng.” (Mt 19,14)",
+      "options": {
+        "A": "Đừng ngăn cấm chúng",
+        "B": "Đừng cản chúng",
+        "C": "Đừng xua đuổi chúng",
+        "D": "Đừng đe dọa chúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 217,
+      "question": "“Thưa Thầy, tôi… để được hưởng sự sống đời đời?” (Mt 19,16)",
+      "options": {
+        "A": "Phải làm gì",
+        "B": "Phải làm điều gì tốt",
+        "C": "Sẽ làm gì",
+        "D": "Nên làm gì"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 218,
+      "question": "“Nếu anh muốn nên hoàn thiện, thì hãy đi bán tài sản của anh và đem cho người nghèo, anh sẽ được... Rồi hãy đến theo tôi.” (Mt 19,21)",
+      "options": {
+        "A": "Thảnh thơi",
+        "B": "Thanh thỏa",
+        "C": "Một kho tàng trên trời",
+        "D": "Yên hàn"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 219,
+      "question": "“Thầy còn nói cho anh em biết: con lạc đà chui qua lỗ kim còn dễ hơn …vào Nước Thiên Chúa.” (Mt 19,24)",
+      "options": {
+        "A": "Kẻ giàu có",
+        "B": "Kẻ lắm của",
+        "C": "Người giàu có",
+        "D": "Người giàu"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 220,
+      "question": "“Và phàm ai bỏ nhà cửa, anh em, chị em, cha mẹ, con cái hay ruộng đất, vì danh Thầy, thì sẽ được gấp bội và còn được… làm gia nghiệp”. (Mt 19,29)",
+      "options": {
+        "A": "Sự sống đời đời",
+        "B": "Sự sống vĩnh cửu",
+        "C": "Sự sống đời sau",
+        "D": "Nước Trời"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 221,
+      "question": "“Nhiều kẻ đứng đầu sẽ phải xuống hàng chót, và… sẽ được lên hàng đầu.” (Mt 19,30)",
+      "options": {
+        "A": "Nhiều kẻ đứng chót",
+        "B": "Kẻ đứng chót",
+        "C": "Kẻ sau hết",
+        "D": "Kẻ đứng rốt hết"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 222,
+      "question": "“Thế là những kẻ đứng chót sẽ được…, còn những kẻ đứng đầu sẽ phải xuống hàng chót”. (Mt 20,16)",
+      "options": {
+        "A": "Đứng hàng đầu",
+        "B": "Ngồi lên hàng đầu",
+        "C": "Đứng lên hàng đầu",
+        "D": "Lên hàng đầu"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 223,
+      "question": "“Anh em biết: thủ lãnh các dân thì dùng uy mà…, những người làm lớn thì lấy quyền mà cai quản dân”. (Mt 20,25)",
+      "options": {
+        "A": "Thống trị dân",
+        "B": "Cai quản dân",
+        "C": "Cai trị dân",
+        "D": "Đe dọa dân"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 224,
+      "question": "“Giữa anh em thì không được như vậy: Ai muốn làm lớn giữa anh em, thì phải… anh em”. (Mt 20,26)",
+      "options": {
+        "A": "Phục vụ",
+        "B": "Hầu hạ",
+        "C": "Làm người phục vụ",
+        "D": "Trở nên người hầu hạ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 225,
+      "question": "“Và ai muốn làm đầu anh em thì phải… anh em”. (Mt 20,27)",
+      "options": {
+        "A": "Trở nên người phục vụ",
+        "B": "Làm đầy tớ",
+        "C": "Phục vụ",
+        "D": "Hầu hạ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 226,
+      "question": "“Cũng như Con Người đến không phải để được người ta phục vụ, nhưng là để phục vụ và… làm giá chuộc muôn người.” (Mt 20,28)",
+      "options": {
+        "A": "Hy sinh",
+        "B": "Hiến dâng thân mình",
+        "C": "Hy sinh thân mình",
+        "D": "Hiến dâng mạng sống"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 227,
+      "question": "“Lạy Ngài, lạy Con vua Đa-vít,… chúng tôi !” (Mt 20,31)",
+      "options": {
+        "A": "Xin thương xót",
+        "B": "Xin rủ lòng thương",
+        "C": "Hãy rủ lòng thương",
+        "D": "Xin thương"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 228,
+      "question": "“Họ thưa: “Lạy Ngài, xin cho mắt chúng tôi…!” (x. Mt 20,33)",
+      "options": {
+        "A": "Được thấy",
+        "B": "Thấy được",
+        "C": "Được mở ra",
+        "D": "Được nhìn thấy"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 229,
+      "question": "“Hãy bảo thiếu nữ Xi-on: Kìa… đang đến với ngươi hiền hậu ngồi trên lưng lừa, lưng lừa con, là con của một con vật chở đồ”. (Mt 21,5)",
+      "options": {
+        "A": "Đức Vua của ngươi",
+        "B": "Đức vua dân Do-thái",
+        "C": "Vua dân Do-thái",
+        "D": "Vua của ngươi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 230,
+      "question": "“Dân chúng, người đi trước, kẻ theo sau, reo hò vang dậy: Hoan hô Con vua Đa-vít! Chúc tụng…! Hoan hô trên các tầng trời”. (Mt 21,9)",
+      "options": {
+        "A": "Vua Ít-ra-en",
+        "B": "Đấng nhân danh Chúa mà đến",
+        "C": "Đấng ngự đến nhân danh Đức Chúa",
+        "D": "Đức vua của Ít-ra-en"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 231,
+      "question": "“Dân chúng trả lời: “…, người Na-da-rét, xứ Ga-li-lê đấy.” (Mt 21,11)",
+      "options": {
+        "A": "Ngôn sứ Giê-su",
+        "B": "Ông Giê-su",
+        "C": "Chính ông Giê-su",
+        "D": "Đức Giê-su"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 232,
+      "question": "“Đã có lời chép rằng:… sẽ được gọi là nhà cầu nguyện, thế mà các ngươi lại biến thành sào huyệt của bọn cướp.” (Mt 21,13)",
+      "options": {
+        "A": "Nhà Ta",
+        "B": "Nhà Cha Ta",
+        "C": "Nhà của Ta",
+        "D": "Nhà của Cha Ta"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 233,
+      "question": "“Ngài sẽ cho miệng con thơ trẻ nhỏ…” (Mt 21,16)",
+      "options": {
+        "A": "Cất tiếng ngợi khen Ngài",
+        "B": "Vang tiếng ngợi khen Ngài",
+        "C": "Ca hát ngợi khen Ngài",
+        "D": "Cất tiếng ngợi khen"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 234,
+      "question": "“Thầy bảo thật anh em, nếu anh em tin và…, thì chẳng những anh em làm được điều Thầy vừa làm cho cây vả, mà hơn nữa” (Mt 21,21)",
+      "options": {
+        "A": "Chẳng chút nghi nan",
+        "B": "Xác tín như vậy",
+        "C": "Không chút nghi nan",
+        "D": "Không chút nghi ngờ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 235,
+      "question": "“Tất cả những gì anh em… khi cầu nguyện, thì anh em sẽ được.” (Mt 21,22)",
+      "options": {
+        "A": "Tha thiết vài nài",
+        "B": "Lấy lòng tin mà xin",
+        "C": "Làm vì lòng tin",
+        "D": "Tha thiết nài xin"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 236,
+      "question": "“Kinh Thánh có câu: Tảng đá thợ xây nhà loại bỏ lại trở nên... Đó chính là công trình của Chúa, công trình kỳ diệu trước mắt chúng ta”. (Mt 21,42)",
+      "options": {
+        "A": "Viên đá góc tường",
+        "B": "Tảng đá góc tường",
+        "C": "Đá tảng góc tường",
+        "D": "Viên đá góc"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 237,
+      "question": "“Bởi đó, tôi nói cho các ông hay: Nước Thiên Chúa, Thiên Chúa sẽ lấy đi không cho các ông nữa, mà ban cho một dân biết làm cho Nước ấy…”. (Mt 21,43)",
+      "options": {
+        "A": "Sinh hoa kết trái",
+        "B": "Ngày càng thịnh vượng",
+        "C": "Sinh nhiều hoa trái",
+        "D": "Sinh hoa lợi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 238,
+      "question": "“Ai ngã xuống đá này, kẻ ấy sẽ tan xương; đá này…, sẽ làm người ấy nát thịt.” (Mt 21,44)",
+      "options": {
+        "A": "Rơi trúng ai",
+        "B": "Rơi xuống ai",
+        "C": "Rơi vào ai",
+        "D": "Rơi phải người nào"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 239,
+      "question": "“Quả thế, trong ngày sống lại, người ta chẳng lấy vợ lấy chồng, nhưng sẽ giống như… trên trời”. (Mt 22,30)",
+      "options": {
+        "A": "Các phẩm thiên thần",
+        "B": "Các thiên thần",
+        "C": "Thiên thần",
+        "D": "Các thần thánh"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 240,
+      "question": "“Người phán: Ta là Thiên Chúa của Áp-ra-ham, Thiên Chúa của I-xa-ác và Thiên Chúa của Gia-cóp. Người không phải là Thiên Chúa của kẻ chết, nhưng là...” (Mt 22,32)",
+      "options": {
+        "A": "Đấng Hằng Sống",
+        "B": "Thiên Chúa của kẻ sống",
+        "C": "Của kẻ sống",
+        "D": "Chủ của sự sống"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 241,
+      "question": "“Đức Giê-su đáp: “Ngươi phải yêu mến Đức Chúa, Thiên Chúa của ngươi, hết lòng, hết linh hồn và hết trí khôn ngươi. Đó là điều răn quan trọng nhất và…”. (Mt 22,37-38)",
+      "options": {
+        "A": "Là điều răn đứng đầu",
+        "B": "Là điều răn hàng đầu",
+        "C": "Ý nghĩa nhất",
+        "D": "Điều răn thứ nhất"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 242,
+      "question": "“Còn điều răn thứ hai, cũng giống điều răn ấy, là: ngươi phải… như chính mình”. (Mt 22,39)",
+      "options": {
+        "A": "Yêu tha nhân",
+        "B": "Yêu người thân cận",
+        "C": "Yêu anh em",
+        "D": "Yêu hết mọi người"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 243,
+      "question": "“Đức Chúa phán cùng Chúa Thượng tôi: bên hữu Cha đây, Con lên ngự trị, để rồi bao địch thù, Cha sẽ…?” (Mt 22,44)",
+      "options": {
+        "A": "Làm bệ dưới chân Con",
+        "B": "Đặt làm bệ dưới chân Con",
+        "C": "Bắt quy phục dưới chân Con",
+        "D": "Đặt dưới chân Con"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 244,
+      "question": "“Vậy, tất cả những gì họ nói, anh em hãy làm, hãy giữ, còn những việc họ làm, thì…, vì họ nói mà không làm”. (Mt 23,3)",
+      "options": {
+        "A": "Chớ có làm theo",
+        "B": "Đừng có làm theo",
+        "C": "Đừng làm theo họ",
+        "D": "Chớ làm theo"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 245,
+      "question": "“Họ bó những gánh nặng mà chất lên vai người ta, nhưng chính họ thì lại không buồn…”. (Mt 23,4)",
+      "options": {
+        "A": "Đếm xỉa tới",
+        "B": "Đụng tới",
+        "C": "Chạm tay vào",
+        "D": "Động ngón tay vào"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 246,
+      "question": "“Phần anh em, thì đừng để ai gọi mình là ‘ráp-bi’, nghĩa là thầy, vì anh em chỉ có một Thầy; còn tất cả anh em đều là…”. (Mt 23,8)",
+      "options": {
+        "A": "Con cùng một Cha",
+        "B": "Con của Cha trên trời",
+        "C": "Anh em với nhau",
+        "D": "Anh em cùng một Cha"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 247,
+      "question": "“Anh em cũng đừng gọi ai dưới đất này là cha của anh em, vì anh em chỉ có một Cha là…”. (Mt 23,9)",
+      "options": {
+        "A": "Cha trên trời",
+        "B": "Đấng ngự trên trời",
+        "C": "Chúa tể trời đất",
+        "D": "Thiên Chúa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 248,
+      "question": "“Anh em cũng đừng để ai gọi mình là người lãnh đạo, vì anh em chỉ có một vị lãnh đạo, là…”. (Mt 23,10)",
+      "options": {
+        "A": "Đấng tạo thành",
+        "B": "Đức Ki-tô",
+        "C": "Thiên Chúa Cha",
+        "D": "Cha của Thầy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 249,
+      "question": "“Trong anh em, người làm lớn hơn cả, phải làm người…”. (Mt 23,11)",
+      "options": {
+        "A": "Phục vụ anh em",
+        "B": "Đầy tớ của anh em",
+        "C": "Nhỏ nhất trong anh em",
+        "D": "Hầu hạ anh em"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 250,
+      "question": "“Ai tôn mình lên, sẽ bị hạ xuống; còn ai…, sẽ được tôn lên”. (Mt 23,12)",
+      "options": {
+        "A": "Tự hạ mình xuống",
+        "B": "Khiêm nhường",
+        "C": "Hạ mình xuống",
+        "D": "Khiêm tốn"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 251,
+      "question": "“Các người nộp thuế thập phân về bạc hà, thì là, rau húng, mà bỏ những điều quan trọng nhất trong Lề Luật là công lý, lòng nhân và…”. (Mt 23,23)",
+      "options": {
+        "A": "Sự thành tín",
+        "B": "Lòng thành tín",
+        "C": "Sự chân thành",
+        "D": "Thành tín"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 252,
+      "question": "“Quân dẫn đường mù quáng! Các người lọc con muỗi, nhưng lại…”. (Mt 23,24)",
+      "options": {
+        "A": "Nuốt chửng con lạc đà",
+        "B": "Nuốt con lạc đà",
+        "C": "Bỏ qua con lạc đà",
+        "D": "Ăn thịt con lạc đà"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 253,
+      "question": "“Các người rửa sạch bên ngoài chén đĩa, nhưng bên trong thì đầy những chuyện cướp bóc và…”. (Mt 23,25)",
+      "options": {
+        "A": "Ăn chơi vô độ",
+        "B": "Ăn chơi trác táng",
+        "C": "Lối sống vô luân",
+        "D": "Chè chén say sưa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 254,
+      "question": "“Các người cũng vậy, bên ngoài thì có vẻ công chính trước mặt thiên hạ, nhưng bên trong toàn là… và gian ác!” (Mt 23,28)",
+      "options": {
+        "A": "Thối tha",
+        "B": "Giả hình",
+        "C": "Xấu xa",
+        "D": "Những việc xấu xa"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 255,
+      "question": "“Đã bao lần Ta muốn tập hợp con cái ngươi lại, như gà mẹ tập hợp gà con dưới cánh, mà các ngươi…”. (Mt 23,37)",
+      "options": {
+        "A": "Từ chối",
+        "B": "Bỏ ngoài tai",
+        "C": "Không chịu",
+        "D": "Chẳng đoái hoài"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 256,
+      "question": "“Thật vậy, Ta nói cho các ngươi hay, từ nay các ngươi sẽ không còn thấy Ta nữa, cho đến khi các ngươi nói: Chúc tụng Đấng ngự đến…!” (Mt 23,39)",
+      "options": {
+        "A": "Nhân danh Chúa",
+        "B": "Trên cõi trời cao",
+        "C": "Từ trời cao thẳm",
+        "D": "Nhân danh Đức Chúa"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 257,
+      "question": "“Anh em hãy coi chừng, đừng để ai lừa gạt anh em, vì sẽ có nhiều kẻ mạo danh Thầy đến nói rằng: ‘Chính Ta đây là..., và họ sẽ lừa gạt được nhiều người”. (Mt 24,4-5)",
+      "options": {
+        "A": "Đấng Cứu Thế",
+        "B": "Đấng giải thoát ngươi",
+        "C": "Đấng Ki-tô",
+        "D": "Thiên Chúa thật"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 258,
+      "question": "“Anh em sẽ nghe có giặc giã và tin đồn giặc giã; coi chừng,…, vì những việc đó phải xảy ra, nhưng chưa phải là tận cùng”. (Mt 24,6)",
+      "options": {
+        "A": "Đừng khiếp sợ",
+        "B": "Đừng sợ hãi",
+        "C": "Đừng có tin",
+        "D": "Đừng quá lo lắng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 259,
+      "question": "“Sẽ có những cơn đói kém, và những trận động đất ở nhiều nơi. Nhưng tất cả những sự việc ấy chỉ là khởi đầu…”. (Mt 24,7-8)",
+      "options": {
+        "A": "Mà thôi",
+        "B": "Của ngày tận thế",
+        "C": "Các cơn đau đớn",
+        "D": "Của ngày chung thẩm"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 260,
+      "question": "“Bấy giờ, người ta sẽ nộp anh em, khiến anh em phải khốn quẫn, và người ta sẽ giết anh em; anh em sẽ bị mọi dân tộc thù ghét vì…”. (Mt 24,9)",
+      "options": {
+        "A": "Sống công chính",
+        "B": "Sống theo lời Thầy",
+        "C": "Đã tin vào Thầy",
+        "D": "Danh Thầy"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 261,
+      "question": "“Bấy giờ sẽ có nhiều người vấp ngã. Người ta sẽ nộp nhau và thù ghét nhau. Sẽ có nhiều… xuất hiện và lừa gạt được nhiều người”. (Mt 24,10-11)",
+      "options": {
+        "A": "Ngôn sứ",
+        "B": "Ngôn sứ giả",
+        "C": "Ki-tô giả",
+        "D": "Tiên tri giả"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 262,
+      "question": "“Vì tội ác gia tăng, nên lòng yêu mến của nhiều người sẽ nguội đi. Nhưng kẻ nào…, kẻ ấy sẽ được cứu thoát”. (Mt 24,12-13)",
+      "options": {
+        "A": "Bền đỗ đến cùng",
+        "B": "Kiên tâm chịu đựng",
+        "C": "Bền chí đến cùng",
+        "D": "Tin vào danh Thầy"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 263,
+      "question": "“Tin Mừng này về Vương Quốc sẽ được loan báo trên khắp thế giới, để làm chứng cho... Và bấy giờ sẽ là tận cùng.” (Mt 24,14)",
+      "options": {
+        "A": "Mọi dân tộc được biết",
+        "B": "Muôn dân được biết",
+        "C": "Mọi người được biết",
+        "D": "Hết thảy mọi người"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 264,
+      "question": "“Bấy giờ, nếu có ai bảo anh em: ‘Này, Đấng Ki-tô ở đây’ hoặc ‘ở đó’, thì anh em…”. (Mt 24,23)",
+      "options": {
+        "A": "Cứ tin",
+        "B": "Hãy tin",
+        "C": "Chớ có tin",
+        "D": "Đừng tin"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 265,
+      "question": "“Thật vậy, sẽ có những Ki-tô giả và ngôn sứ giả xuất hiện, đưa ra những dấu lạ lớn lao và những điềm thiêng, đến nỗi chúng… cả những người đã được tuyển chọn, nếu có thể”. (Mt 24,24)",
+      "options": {
+        "A": "Uy hiếp",
+        "B": "Lừa gạt",
+        "C": "Đe dọa",
+        "D": "Dụ dỗ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 266,
+      "question": "“Vậy, nếu người ta bảo anh em ‘Này, Người ở trong hoang địa’, anh em chớ ra đó; ‘Kìa, Người ở trong phòng kín’, anh em cũng…”. (Mt 24,26)",
+      "options": {
+        "A": "Đừng đi theo",
+        "B": "Chớ có vào",
+        "C": "Đừng tin",
+        "D": "Đừng đi xem"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 267,
+      "question": "“Vì, như chớp loé ra từ phương đông và chiếu sáng đến phương tây thế nào, thì… của Con Người cũng sẽ như vậy”. (Mt 24,27)",
+      "options": {
+        "A": "Ngày quang lâm",
+        "B": "Giờ",
+        "C": "Ngày",
+        "D": "Cuộc quang lâm"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 268,
+      "question": "“Bấy giờ mọi chi tộc trên mặt đất sẽ đấm ngực và sẽ thấy Con Người rất… ngự giá mây trời mà đến”. (Mt 24,30)",
+      "options": {
+        "A": "Uy nghi vinh hiển",
+        "B": "Oai hùng",
+        "C": "Uy hùng",
+        "D": "Oai phong vinh hiển"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 269,
+      "question": "“Cũng vậy, khi thấy tất cả những điều đó, anh em hãy biết là Con Người đã đến gần,…”. (Mt 24,33)",
+      "options": {
+        "A": "Ngài ở ngay bên",
+        "B": "Ở ngay ngoài cửa rồi",
+        "C": "Ngài đang ở đây rồi",
+        "D": "Hãy tin như vậy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 270,
+      "question": "“Trời đất sẽ qua đi, nhưng… sẽ chẳng qua đâu”. (Mt 24,35)",
+      "options": {
+        "A": "Lời Thầy",
+        "B": "Điều Thầy nói",
+        "C": "Lời Thầy truyền dạy",
+        "D": "Những lời Thầy nói"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 271,
+      "question": "“Còn về ngày và giờ đó thì không ai biết được, ngay cả các thiên sứ trên trời hay cả người Con cũng không; … Chúa Cha biết mà thôi”. (Mt 24,36)",
+      "options": {
+        "A": "Duy chỉ có",
+        "B": "Chỉ mình",
+        "C": "Chỉ một mình",
+        "D": "Chỉ có"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 272,
+      "question": "“Vậy anh em hãy…, vì anh em không biết ngày nào Chúa của anh em đến”. (Mt 24,42)",
+      "options": {
+        "A": "Tỉnh thức",
+        "B": "Canh thức",
+        "C": "Sẵn sàng",
+        "D": "Cả A và C"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 273,
+      "question": "“Anh em hãy biết điều này: nếu chủ nhà biết… kẻ trộm sẽ đến, hẳn ông đã thức, không để nó khoét vách nhà mình đâu”. (Mt 24,43)",
+      "options": {
+        "A": "Vào canh nào",
+        "B": "Lúc nào",
+        "C": "Khi nào",
+        "D": "Chắc khi nào"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 274,
+      "question": "“Cho nên anh em cũng vậy, anh em hãy sẵn sàng, vì chính giờ phút anh em…, thì Con Người sẽ đến”. (Mt 24,44)",
+      "options": {
+        "A": "Đang ngủ",
+        "B": "Coi thường",
+        "C": "Không ngờ",
+        "D": "Lơ là"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 275,
+      "question": "“Vậy anh em hãy…, vì anh em không biết ngày nào, giờ nào”. (Mt 25,13)",
+      "options": {
+        "A": "Tỉnh thức",
+        "B": "Canh thức",
+        "C": "Sẵn sàng",
+        "D": "Cả A và C"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 276,
+      "question": "“Vì phàm ai đã có, thì được cho thêm và…; còn ai không có, thì ngay cái đang có, cũng sẽ bị lấy đi”. (Mt 25,29)",
+      "options": {
+        "A": "Nhiều thêm mãi",
+        "B": "Được dư thừa",
+        "C": "Được dư dật",
+        "D": "Sẽ có dư thừa"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 277,
+      "question": "“‘Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những …của Ta đây, là các ngươi đã làm cho chính Ta vậy.’ (Mt 25,40)",
+      "options": {
+        "A": "Người anh em",
+        "B": "Anh em bé nhỏ nhất",
+        "C": "Người bé mọn",
+        "D": "Người bé mọn nhất"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 278,
+      "question": "“Người nghèo thì lúc nào anh em cũng có với anh em; còn Thầy, thì không phải lúc nào…!” (Mt 26,11)",
+      "options": {
+        "A": "Anh em cũng có đâu",
+        "B": "Cũng ở bên anh em đâu",
+        "C": "Anh em cũng gặp đâu",
+        "D": "Anh em cũng thấy đâu"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 279,
+      "question": "“Các anh đi vào thành, đến nhà một người kia và nói với ông ấy: ‘Thầy nhắn:…, Thầy sẽ đến nhà ông để ăn mừng lễ Vượt Qua với các môn đệ của Thầy.’” (Mt 26,18)",
+      "options": {
+        "A": "Này ông",
+        "B": "Này đây",
+        "C": "Thời của Thầy đã gần tới",
+        "D": "Nội trong hôm nay"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 280,
+      "question": "“Đang bữa ăn, Người nói: “Thầy bảo thật anh em, một người trong anh em sẽ...” (Mt 26,21)",
+      "options": {
+        "A": "Bán đứng Thầy",
+        "B": "Nộp Thầy",
+        "C": "Phản bội Thầy",
+        "D": "Phản Thầy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 281,
+      "question": "“Cũng trong bữa ăn, Đức Giê-su cầm lấy bánh,…, rồi bẻ ra, trao cho môn đệ và nói: “Anh em cầm lấy mà ăn, đây là mình Thầy.” (Mt 26,26)",
+      "options": {
+        "A": "Dâng lời tạ ơn",
+        "B": "Ngước mắt lên trời",
+        "C": "Dâng lời chúc tụng",
+        "D": "Chúc tụng Thiên Chúa"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 282,
+      "question": "“Tất cả anh em hãy uống chén này, vì đây là máu Thầy, máu Giao Ước, đổ ra cho… được tha tội”. (Mt 26,27-28)",
+      "options": {
+        "A": "Nhiều người",
+        "B": "Hết mọi người",
+        "C": "Muôn dân",
+        "D": "Muôn người"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 283,
+      "question": "“Thầy bảo cho anh em biết: từ nay, Thầy không còn uống thứ sản phẩm này của cây nho, cho đến ngày Thầy cùng anh em uống thứ rượu mới trong ...” (Mt 26,29)",
+      "options": {
+        "A": "Nước Thiên Chúa",
+        "B": "Nước của Cha Thầy",
+        "C": "Nước Trời",
+        "D": "Vương quốc của Cha Thầy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 284,
+      "question": "“Đêm nay tất cả anh em sẽ vấp ngã vì Thầy. Vì có lời đã chép: Ta sẽ đánh người chăn chiên, và… sẽ tan tác”. (Mt 26,31)",
+      "options": {
+        "A": "Đàn chiên",
+        "B": "Cả đàn chiên",
+        "C": "Cả chủ chiên và chiên",
+        "D": "Chúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 285,
+      "question": "“Ông Phê-rô liền thưa: “Dầu tất cả có vấp ngã vì Thầy đi nữa, thì con đây cũng… vấp ngã.” (Mt 26,33)",
+      "options": {
+        "A": "Không bao giờ",
+        "B": "Chẳng bao giờ",
+        "C": "Không đời nào",
+        "D": "Chẳng khi nào"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 286,
+      "question": "“Đức Giê-su bảo ông: “Thầy bảo thật anh: nội đêm nay,…, thì anh đã chối Thầy ba lần.” (Mt 26,34)",
+      "options": {
+        "A": "Khi gà chưa gáy",
+        "B": "Gà chưa gáy lần thứ ba",
+        "C": "Gà gáy lần thứ ba",
+        "D": "Gà chưa kịp gáy"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 287,
+      "question": "“Bấy giờ Người nói với các ông: “Tâm hồn Thầy buồn đến chết được. Anh em ở lại đây mà… với Thầy.” (Mt 26,38)",
+      "options": {
+        "A": "Thức",
+        "B": "Cùng cầu nguyện",
+        "C": "Canh thức",
+        "D": "Cùng canh thức"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 288,
+      "question": "“Lạy Cha, nếu có thể được, xin cho con khỏi phải uống chén này. Tuy vậy,…, mà xin theo ý Cha.” (Mt 26,39)",
+      "options": {
+        "A": "Đừng theo ý con",
+        "B": "Xin đừng theo ý con",
+        "C": "Xin Cha đừng theo ý con",
+        "D": "Con không xin theo ý con"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 289,
+      "question": "“Thế ra anh em không thể… với Thầy một giờ sao?” (Mt 26,40)",
+      "options": {
+        "A": "Canh thức nổi",
+        "B": "Canh thức",
+        "C": "Thức nổi",
+        "D": "Thức"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 290,
+      "question": "“Anh em hãy canh thức và cầu nguyện, để khỏi lâm vào cơn cám dỗ. Vì tinh thần thì…, nhưng thể xác lại...” (Mt 26,41)",
+      "options": {
+        "A": "Hăng say/ yếu hèn",
+        "B": "Hăng hái/ yếu đuối",
+        "C": "Mạnh mẽ/ yếu hèn",
+        "D": "Hăng say/ yếu đuối"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 291,
+      "question": "“Này, đến giờ Con Người bị nộp vào tay... Đứng dậy, ta đi nào! Kìa kẻ nộp Thầy đã tới !” (Mt 26,45-46)",
+      "options": {
+        "A": "Quân tội lỗi",
+        "B": "Bọn người tội lỗi",
+        "C": "Những kẻ tội lỗi",
+        "D": "Người đời"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 292,
+      "question": "“Đức Giê-su bảo người ấy: “Hãy xỏ gươm vào vỏ, vì tất cả những ai cầm gươm sẽ…”. (Mt 26,52)",
+      "options": {
+        "A": "Bị chết vì gươm",
+        "B": "Chết vì gươm",
+        "C": "Chịu chết vì gươm",
+        "D": "Mất mạng vì gươm"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 293,
+      "question": "“Từ nay, các ông sẽ thấy Con Người ngự bên hữu… và ngự giá mây trời mà đến.” (Mt 26,64)",
+      "options": {
+        "A": "Thiên Chúa",
+        "B": "Chúa Cha",
+        "C": "Đức Vua",
+        "D": "Đấng Toàn Năng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 294,
+      "question": "“Ông Phê-rô sực nhớ lời Đức Giê-su đã nói: “…thì anh đã chối Thầy ba lần.” Ông ra ngoài, khóc lóc thảm thiết”. (Mt 26,75)",
+      "options": {
+        "A": "Trước khi gà gáy",
+        "B": "Khi gà gáy lần thứ ba",
+        "C": "Gà chưa kịp gáy",
+        "D": "Khi gà chưa gáy lần thứ ba"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 295,
+      "question": "“Phía trên đầu Người, chúng đặt bản án xử tội viết rằng: “Người này là Giê-su,…” (Mt 27,37)",
+      "options": {
+        "A": "Vua Do-thái",
+        "B": "Vua dân Do-thái",
+        "C": "Vua người Do-thái",
+        "D": "Đức vua dân Do-thái"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 296,
+      "question": "“Này các bà, các bà đừng sợ! Tôi biết các bà tìm Đức Giê-su, Đấng bị đóng đinh. Người không có ở đây, vì… như Người đã nói”. (Mt 28,5-6)",
+      "options": {
+        "A": "Người đã trỗi dậy",
+        "B": "Người đã lên trời",
+        "C": "Người đã sống lại",
+        "D": "Người đã phục sinh"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 297,
+      "question": "“Người đã trỗi dậy từ cõi chết, và Người đi Ga-li-lê trước các ông. Ở đó, các ông sẽ được…”. (Mt 28,7)",
+      "options": {
+        "A": "Thấy Người",
+        "B": "Thấy mặt Người",
+        "C": "Gặp Người",
+        "D": "Gặp lại Người"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 298,
+      "question": "“Bấy giờ, Đức Giê-su nói với các bà: “… Về báo cho anh em của Thầy để họ đến Ga-li-lê. Họ sẽ được thấy Thầy ở đó.” (Mt 28,10)",
+      "options": {
+        "A": "Này chị em",
+        "B": "Đừng sợ",
+        "C": "Chị em đừng sợ!",
+        "D": "Này, chị em đừng sợ!"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 299,
+      "question": "“Mười một môn đệ đi tới miền Ga-li-lê, đến ngọn núi Đức Giê-su đã truyền cho các ông đến. Khi thấy Người,…, nhưng có mấy ông lại hoài nghi”. (Mt 28,16-17)",
+      "options": {
+        "A": "Họ rất đỗi vui mừng",
+        "B": "Các ông bái lạy",
+        "C": "Họ vô cùng vui sướng",
+        "D": "Các ông ngạc nhiên"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 300,
+      "question": "“Đức Giê-su đến gần, nói với các ông: “Thầy đã được… trên trời dưới đất”. (Mt 28,18)",
+      "options": {
+        "A": "Ban toàn quyền",
+        "B": "Ban mọi quyền hành",
+        "C": "Trao toàn quyền",
+        "D": "Trao mọi quyền hành"
+      },
+      "answer": "C"
+    }
+  ]
+}

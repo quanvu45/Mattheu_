@@ -1,0 +1,1986 @@
+{
+  "group": "KIẾN THỨC TỔNG HỢP",
+  "id": "sum",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ai là người đã sinh ra Giu-se, chồng của bà Ma-ri-a? (x. Mt 1,16)",
+      "options": {
+        "A": "Rơ-kháp-am",
+        "B": "E-la-da",
+        "C": "Gia-cóp",
+        "D": "Dơ-rúp-ba-ven"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "“Khi Đức Giê-su ra đời tại Bê-lem, miền Giu-đê, thời vua Hê-rô-đê trị vì, có mấy nhà chiêm tinh đến Giê-ru-sa-lem. Họ từ đâu đến? (x. Mt 2,1)",
+      "options": {
+        "A": "Ga-li-lê",
+        "B": "Phương Đông",
+        "C": "Phương Tây",
+        "D": "Tia và Xi-đôn"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "“Xin quý ngài đi dò hỏi tường tận về Hài Nhi, và khi đã tìm thấy, xin báo lại cho tôi, để tôi cũng đến bái lạy Người.” Ai đã nói câu này? (x. Mt 2,8)",
+      "options": {
+        "A": "Quan Phi-la-tô",
+        "B": "Vua Hê-rô-đê",
+        "C": "Thượng tế Cai-pha",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "“Họ vào nhà, thấy Hài Nhi với thân mẫu là bà Ma-ri-a, liền sấp mình thờ lạy Người”. Họ là ai? (x. Mt 2,1-12)",
+      "options": {
+        "A": "Các mục đồng",
+        "B": "Những người chăn chiên",
+        "C": "Mấy nhà chiêm tinh",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "“Ông ở đó cho đến khi vua Hê-rô-đê băng hà, để ứng nghiệm lời Chúa phán xưa qua miệng ngôn sứ: Ta đã gọi con Ta ra khỏi Ai-cập”. Ông là ai? (x. Mt 2,14-15)",
+      "options": {
+        "A": "Gio-an Tẩy Giả",
+        "B": "Giu-se",
+        "C": "Si-môn Phê-rô",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "“Rồi sau khi được báo mộng, ông lui về miền Ga-li-lê, và đến ở tại một thành kia gọi là Na-da-rét, để ứng nghiệm lời đã phán qua miệng các ngôn sứ rằng: Người sẽ được gọi là người Na-da-rét”. Ông là ai? (x. Mt 2,19-23)",
+      "options": {
+        "A": "Gio-an Tẩy Giả",
+        "B": "Si-môn Phê-rô",
+        "C": "Giu-se",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "“Anh em hãy sám hối, vì Nước Trời đã đến gần”. Ai đã nói câu này? (x. Mt 3,1-2)",
+      "options": {
+        "A": "Đức Giê-su",
+        "B": "Gio-an Tẩy Giả",
+        "C": "Ngôn sứ I-sai-a",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "“Có tiếng người hô trong hoang địa: Hãy dọn sẵn con đường cho Đức Chúa, sửa lối cho thẳng để Người đi”. Ngôn sứ nào đã nói câu này? (x. Mt 3,3)",
+      "options": {
+        "A": "Ngôn sứ I-sai-a",
+        "B": "Ngôn sứ Ma-la-khi",
+        "C": "Ngôn sứ A-mốt",
+        "D": "Ngôn sứ Hô-sê"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "“Có tiếng người hô trong hoang địa: Hãy dọn sẵn con đường cho Đức Chúa, sửa lối cho thẳng để Người đi”. Ngôn sứ đã nói câu này về ai? (x. Mt 3,1-3)",
+      "options": {
+        "A": "Đức Giê-su",
+        "B": "Gio-an Tẩy Giả",
+        "C": "Đức Maria",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "“Ông mặc áo lông lạc đà, thắt lưng bằng dây da, lấy châu chấu và mật ong rừng làm thức ăn”. Ông là ai? (x. Mt 3,1-4)",
+      "options": {
+        "A": "Gio-an Tông đồ",
+        "B": "An-rê",
+        "C": "Si-môn Phê-rô",
+        "D": "Gio-an Tẩy Giả"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "“Nòi rắn độc kia, ai đã chỉ cho các anh cách trốn cơn thịnh nộ của Thiên Chúa sắp giáng xuống vậy?” Ông Gio-an nói lời này với ai? (x. Mt 3,7)",
+      "options": {
+        "A": "Người thuộc phái Pha-ri-sêu",
+        "B": "Người thuộc phái Xa-đốc",
+        "C": "Các kinh sư",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "question": "“Các anh hãy sinh hoa quả để chứng tỏ lòng sám hối”. Ông Gio-an nói lời này với ai? (x. Mt 3,7-8)",
+      "options": {
+        "A": "Người thuộc phái Pha-ri-sêu",
+        "B": "Người thuộc phái Xa-đốc",
+        "C": "Các kinh sư",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "“Tôi, tôi làm phép rửa cho các anh trong nước để giục lòng các anh sám hối. Còn Đấng đến sau tôi thì quyền thế hơn tôi, tôi không đáng xách dép cho Người”. Ông Gio-an nói lời này về ai? (x. Mt 3,1-17)",
+      "options": {
+        "A": "Vua Hê-rô-đê",
+        "B": "Tổng trấn Phi-la-tô",
+        "C": "Đức Giê-su",
+        "D": "Qui-ri-ni-ô"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "“Tay Người cầm nia, Người sẽ rê sạch lúa trong sân: thóc mẩy thì thu vào kho lẫm, còn thóc lép thì bỏ vào lửa không hề tắt mà đốt đi.” Ông Gio-an nói lời này về ai? (x. Mt 3,1-17)",
+      "options": {
+        "A": "Đức Giê-su",
+        "B": "Qui-ri-ni-ô",
+        "C": "Tổng lãnh thiên thần",
+        "D": "Hoàng đế Au-gút-tô"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Bấy giờ, Đức Giê-su từ miền Ga-li-lê đến sông Gio-đan, gặp ông Gio-an để làm gì? (x. Mt 3,13)",
+      "options": {
+        "A": "Xin ông rửa tội cho mình",
+        "B": "Mời ông cộng tác với mình",
+        "C": "Xin ông làm phép rửa cho mình",
+        "D": "Xin ông rời đi chỗ khác"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "“Chính tôi mới cần được Ngài làm phép rửa, thế mà Ngài lại đến với tôi!” Ai đã nói câu này? (x. Mt 3,14)",
+      "options": {
+        "A": "Đức Giê-su",
+        "B": "Ông Phê-rô",
+        "C": "Ông trưởng hội đường",
+        "D": "Gio-an Tẩy Giả"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "“Chính tôi mới cần được Ngài làm phép rửa, thế mà Ngài lại đến với tôi!” Ông Gio-an đã nói câu này với ai? (x. Mt 3,13-14)",
+      "options": {
+        "A": "Đức Giê-su",
+        "B": "Vua Hê-rô-đê",
+        "C": "Phi-la-tô",
+        "D": "Thầy thượng tế"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "“Bây giờ cứ thế đã. Vì chúng ta nên làm như vậy để giữ trọn đức công chính” Ai đã nói câu này? (x. Mt 3,15)",
+      "options": {
+        "A": "Gio-an Tẩy Giả",
+        "B": "Đức Giê-su",
+        "C": "Ông Si-môn cùi",
+        "D": "Ông trưởng hội đường"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "“Đây là Con yêu dấu của Ta, Ta hài lòng về Người.” Ai đã nói câu này? (x. Mt 3,17)",
+      "options": {
+        "A": "Chúa Thánh Thần",
+        "B": "Thánh Giu-se",
+        "C": "Đức Maria",
+        "D": "Tiếng từ trời"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "question": "Ai đã dẫn Đức Giê-su vào hoang địa để chịu quỷ cám dỗ? (x. Mt 4,1)",
+      "options": {
+        "A": "Đức Chúa Cha",
+        "B": "Các Thiên Thần",
+        "C": "Thần Khí",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "“Khi ấy tên cám dỗ đến gần Người và nói: “Nếu ông là Con Thiên Chúa, thì truyền cho những hòn đá này hoá bánh đi!” Đây là cơn cám dỗ thứ mấy? (x. Mt 4,3-4)",
+      "options": {
+        "A": "Thứ nhất",
+        "B": "Thứ hai",
+        "C": "Thứ ba",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "“Nếu ông là Con Thiên Chúa, thì gieo mình xuống đi! Vì đã có lời chép rằng: Thiên Chúa sẽ truyền cho thiên sứ lo cho bạn, và thiên sứ sẽ tay đỡ tay nâng, cho bạn khỏi vấp chân vào đá.” Đây là cơn cám dỗ thứ mấy? (x. Mt 4,5-7)",
+      "options": {
+        "A": "Thứ nhất",
+        "B": "Thứ hai",
+        "C": "Thứ ba",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "“Tôi sẽ cho ông tất cả những thứ đó, nếu ông sấp mình bái lạy tôi.” Đây là cơn cám dỗ thứ mấy? (x. Mt 4,8-10)",
+      "options": {
+        "A": "Thứ nhất",
+        "B": "Thứ hai",
+        "C": "Thứ ba",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Khi Đức Giê-su nghe tin ông Gio-an đã bị nộp, Người lánh qua miền Ga-li-lê. Rồi Người bỏ Na-da-rét, đến ở một thành ven biển hồ Ga-li-lê, thuộc địa hạt Dơ-vu-lun và Náp-ta-li. Thành đó là thành nào? (x. Mt 4,12-13)",
+      "options": {
+        "A": "Bét-sai-đa",
+        "B": "Khô-ra-din",
+        "C": "Xê-xa-rê Phi-líp-phê",
+        "D": "Ca-phác-na-um"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "“Đoàn dân đang ngồi trong cảnh tối tăm đã thấy một ánh sáng huy hoàng, những kẻ đang ngồi trong vùng bóng tối của tử thần nay được ánh sáng bừng lên chiếu rọi”. Ngôn sứ nào đã nói câu này? (x. Mt 4,12-16)",
+      "options": {
+        "A": "Giê-rê-mi-a",
+        "B": "Ê-li-a",
+        "C": "Mi-kha",
+        "D": "I-sai-a"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "question": "Khi Đức Giê-su gọi hai anh em Si-môn và An-rê, các ông đang làm gì? (x. Mt 4,18-20)",
+      "options": {
+        "A": "Đang vá lưới trên thuyền",
+        "B": "Đang ngồi ở bàn thu thuế",
+        "C": "Đang ở nhà",
+        "D": "Đang quăng chài xuống biển"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "question": "“Người bảo các ông: “Các anh hãy theo tôi, tôi sẽ làm cho các anh thành những kẻ lưới người như lưới cá.” Đức Giê-su nói câu này với ai? (x. Mt 4,18-19)",
+      "options": {
+        "A": "Si-môn và An-rê",
+        "B": "Gia-cô-bê và Gio-an",
+        "C": "Si-môn và Gio-an",
+        "D": "Gia-cô-bê và An-rê"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Khi Đức Giê-su gọi hai anh em Gia-cô-bê và Gio-an, các ông đang làm gì? (x. Mt 4,18-20)",
+      "options": {
+        "A": "Đang vá lưới ở trong thuyền",
+        "B": "Đang ngồi ở bàn thu thuế",
+        "C": "Đang ở nhà",
+        "D": "Đang quăng chài xuống biển"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Hai anh em Gia-cô-bê và Gio-an là con của ai? (x. Mt 4,21-22)",
+      "options": {
+        "A": "Si-môn Ky-rê-nê",
+        "B": "Gia-ia",
+        "C": "Da-ca-ri-a",
+        "D": "Dê-bê-đê"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 30,
+      "question": "“Lập tức hai ông bỏ chài lưới mà đi theo Người”. Câu này nói về cặp anh em nào? (x. Mt 4,18-20)",
+      "options": {
+        "A": "Si-môn và Gia-cô-bê",
+        "B": "Gia-cô-bê và Gio-an",
+        "C": "Si-môn và An-rê",
+        "D": "An-rê và Gio-an"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "“Lập tức, các ông bỏ thuyền, bỏ cha lại mà theo Người”. Câu này nói về cặp anh em nào? (x. Mt 4,21-22)",
+      "options": {
+        "A": "An-rê và Gio-an",
+        "B": "Si-môn và An-rê",
+        "C": "Si-môn và Gia-cô-bê",
+        "D": "Gia-cô-bê và Gio-an"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "question": "Trong bài giảng về “Tám mối phúc”, người có tâm hồn nghèo khó sẽ được phần thưởng gì? (x. Mt 5,3)",
+      "options": {
+        "A": "Đất Hứa làm gia nghiệp",
+        "B": "Thiên Chúa cho thỏa lòng",
+        "C": "Nước Trời là của họ",
+        "D": "Thiên Chúa ủi an"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Trong bài giảng về “Tám mối phúc”, người hiền lành sẽ được phần thưởng gì? (x. Mt 5,4)",
+      "options": {
+        "A": "Nước Trời là của họ",
+        "B": "Đất Hứa làm gia nghiệp",
+        "C": "Thiên Chúa ủi an",
+        "D": "Thiên Chúa xót thương"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Trong bài giảng về “Tám mối phúc”, người sầu khổ sẽ được phần thưởng gì? (x. Mt 5,5)",
+      "options": {
+        "A": "Thiên Chúa ủi an",
+        "B": "Thiên Chúa xót thương",
+        "C": "Nước Trời là của họ",
+        "D": "Nhìn thấy Thiên Chúa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Trong bài giảng về “Tám mối phúc”, người khao khát nên người công chính sẽ được phần thưởng gì? (x. Mt 5,6)",
+      "options": {
+        "A": "Thiên Chúa xót thương",
+        "B": "Nhìn thấy Thiên Chúa",
+        "C": "Nước Trời là của họ",
+        "D": "Thiên Chúa cho thỏa lòng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 36,
+      "question": "Trong bài giảng về “Tám mối phúc”, người xót thương người sẽ được phần thưởng gì? (x. Mt 5,7)",
+      "options": {
+        "A": "Thiên Chúa xót thương",
+        "B": "Nước Trời là của họ",
+        "C": "Đất Hứa làm gia nghiệp",
+        "D": "Nhìn thấy Thiên Chúa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Trong bài giảng về “Tám mối phúc”, người có tâm hồn trong sạch sẽ được phần thưởng gì? (x. Mt 5,8)",
+      "options": {
+        "A": "Nước Trời là của họ",
+        "B": "Đất Hứa làm gia nghiệp",
+        "C": "Nhìn thấy Thiên Chúa",
+        "D": "Thiên Chúa xót thương"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Trong bài giảng về “Tám mối phúc”, người xây dựng hòa bình sẽ được phần thưởng gì? (x. Mt 5,9)",
+      "options": {
+        "A": "Được gọi là con Thiên Chúa",
+        "B": "Thiên Chúa xót thương",
+        "C": "Đất Hứa làm gia nghiệp",
+        "D": "Nước Trời là của họ"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Trong bài giảng về “Tám mối phúc”, người bị bách hại vì sống công chính sẽ được phần thưởng gì? (x. Mt 5,10)",
+      "options": {
+        "A": "Đất Hứa làm gia nghiệp",
+        "B": "Nước Trời là của họ",
+        "C": "Thiên Chúa xót thương",
+        "D": "Được gọi là Con Thiên Chúa"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Trong bài giảng về “Đừng giận ghét”, Đức Giê-su dạy, những ai giận anh em mình, thì hậu quả sẽ ra sao? (x. Mt 5,22)",
+      "options": {
+        "A": "Bị đưa ra trước Thượng Hội Đồng",
+        "B": "Bị đưa ra tòa",
+        "C": "Lửa hỏa ngục thiêu đốt",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Trong bài giảng về “Đừng giận ghét”, Đức Giê-su dạy, những ai mắng anh em mình là đồ ngốc, thì hậu quả sẽ ra sao? (x. Mt 5,22)",
+      "options": {
+        "A": "Lửa hỏa ngục thiêu đốt",
+        "B": "Bị đưa ra tòa",
+        "C": "Bị đưa ra trước Thượng Hội Đồng",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Trong bài giảng về “Đừng giận ghét”, Đức Giê-su dạy, những ai chửi anh em mình là quân phản đạo, thì hậu quả sẽ ra sao? (x. Mt 5,22)",
+      "options": {
+        "A": "Đáng bị lửa hỏa ngục thiêu đốt",
+        "B": "Bị đưa ra tòa",
+        "C": "Bị đưa ra trước Thượng Hội Đồng",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Đức Giê-su cảnh báo các môn đệ hãy coi chừng hạng người “đội lốt chiên mà đến với anh em; nhưng bên trong, họ là sói dữ tham mồi”. Hạng người này là ai? (x. Mt 7,15)",
+      "options": {
+        "A": "Ngôn sứ giả",
+        "B": "Người Pha-ri-sêu",
+        "C": "Các Kinh sư",
+        "D": "Cả B và C"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Đức Giê-su nói: “Vậy ai nghe những lời Thầy nói đây mà đem ra thực hành”, thì ví được như hạng người nào? (x. Mt 7,24)",
+      "options": {
+        "A": "Người ngu dại xây nhà trên cát",
+        "B": "Người khôn xây nhà trên đá",
+        "C": "Kẻ đạo đức giả",
+        "D": "Kẻ giả hình"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Đức Giê-su nói: “Còn ai nghe những lời Thầy nói đây, mà chẳng đem ra thực hành”, thì ví được như hạng người nào? (x. Mt 7,26)",
+      "options": {
+        "A": "Kẻ đạo đức giả",
+        "B": "Người khôn xây nhà trên đá",
+        "C": "Người ngu dại xây nhà trên cát",
+        "D": "Kẻ giả hình"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "question": "“Thưa Ngài, nếu Ngài muốn, Ngài có thể làm cho tôi được sạch.” Ai đã nói câu này? (x. Mt 8,1-2)",
+      "options": {
+        "A": "Người bị thần ô uế ám",
+        "B": "Người đàn bà bị rong huyết",
+        "C": "Một người mắc bệnh phong",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "“Người giơ tay đụng vào anh và bảo: “Tôi muốn, anh sạch đi.” Đức Giê-su nói lời này với ai? (x. Mt 8,3)",
+      "options": {
+        "A": "Một người mắc bệnh phong",
+        "B": "Người bị thần ô uế ám",
+        "C": "Mười người phong cùi",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "“Thưa Ngài, tên đầy tớ của tôi bị tê bại nằm liệt ở nhà, đau đớn lắm.” Ai đã nói câu này? (x. Mt 8,5-6)",
+      "options": {
+        "A": "Viên đại đội trưởng",
+        "B": "Ông trưởng hội đường",
+        "C": "Viên sĩ quan cận vệ",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "“Tôi bảo thật các ông: tôi không thấy một người Ít-ra-en nào có lòng tin như thế”. Đức Giê-su nói lời này về ai? (x. Mt 8,5-10)",
+      "options": {
+        "A": "Người phụ nữ Ca-na-an",
+        "B": "Ông trưởng hội đường",
+        "C": "Viên đại đội trưởng",
+        "D": "Người bại liệt"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "“Ông cứ về đi! Ông tin thế nào thì được như vậy!” Đức Giê-su nói lời này với ai? (x. Mt 8,13)",
+      "options": {
+        "A": "Ông trưởng hội đường",
+        "B": "Người bại liệt",
+        "C": "Người bị quỷ ám",
+        "D": "Viên đại đội trưởng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 51,
+      "question": "Người đã mang lấy các tật nguyền của ta và gánh lấy các bệnh hoạn của ta”. Ngôn sứ nào đã nói câu này? (x. Mt 8,16-17)",
+      "options": {
+        "A": "I-sai-a",
+        "B": "Giê-rê-mi-a",
+        "C": "Hô-sê",
+        "D": "Ma-la-khi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "“Thưa Thầy, Thầy đi đâu, tôi cũng xin đi theo.” Ai đã nói câu này? (x. Mt 8,19)",
+      "options": {
+        "A": "Người thanh niên giàu có",
+        "B": "Một kinh sư",
+        "C": "Người bị quỷ ám",
+        "D": "Anh mù từ khi mới sinh"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "“Con chồn có hang, chim trời có tổ, nhưng Con Người không có chỗ tựa đầu.” Đức Giê-su nói câu này với ai? (x. Mt 8,20)",
+      "options": {
+        "A": "Ông Ni-cô-đê-mô",
+        "B": "Người phụ nữ Sa-ma-ri",
+        "C": "4 môn đệ đầu tiên",
+        "D": "Một kinh sư"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 54,
+      "question": "“Thưa Ngài, xin cho phép con về chôn cất cha con trước đã.” Ai đã nói câu này? (x. Mt 8,21)",
+      "options": {
+        "A": "Một môn đệ khác",
+        "B": "Một kinh sư",
+        "C": "Người thanh niên giàu có",
+        "D": "Người bị quỷ ám"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "“Anh hãy đi theo tôi, cứ để kẻ chết chôn kẻ chết của họ.” Đức Giê-su nói câu này với ai? (x. Mt 8,22)",
+      "options": {
+        "A": "Một kinh sư",
+        "B": "Người thanh niên giàu có",
+        "C": "Một môn đệ khác",
+        "D": "Người bị quỷ ám"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "“Sao nhát thế, hỡi những người kém lòng tin!” Đức Giê-su nói câu này với ai? (x. Mt 8,23-26)",
+      "options": {
+        "A": "Si-môn và An-rê",
+        "B": "Các môn đệ",
+        "C": "Gia-cô-bê và Gio-an",
+        "D": "Những người Pha-ri-sêu"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Đức Giê-su chữa hai người bị quỷ ám ở đâu? (x. Mt 8,28)",
+      "options": {
+        "A": "Ghen-nê-xa-rét",
+        "B": "Ga-đa-ra",
+        "C": "Ca-phác-na-um",
+        "D": "Xê-da-rê Phi-líp-phê"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Sau phép lạ Đức Giê-su trừ quỷ ở Ga-đa-ra, cả thành ra đón Đức Giê-su. Khi gặp Người, họ đã xin Người điều gì? (x. Mt 8,34)",
+      "options": {
+        "A": "Ở lại với họ",
+        "B": "Giảng cho họ nghe",
+        "C": "Rời khỏi vùng đất của họ",
+        "D": "Chữa lành bệnh tật"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "“Này con, cứ yên tâm, con đã được tha tội rồi!” Đức Giê-su nói câu này với ai? (x. Mt 9,2)",
+      "options": {
+        "A": "Anh mù Ba-ti-mê",
+        "B": "Người đàn bà bị rong huyết",
+        "C": "Người mù từ khi mới sinh",
+        "D": "Người bại liệt"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 60,
+      "question": "“Sao các ông lại nghĩ xấu trong bụng như vậy? Trong hai điều: một là bảo: ‘Con đã được tha tội rồi’, hai là bảo: ‘Đứng dậy mà đi’, điều nào dễ hơn? Đức Giê-su nói câu này với ai? (x. Mt 9,4-5)",
+      "options": {
+        "A": "Những người Do-thái",
+        "B": "Mấy kinh sư",
+        "C": "Người Pha-ri-sêu",
+        "D": "Cả A, B và C"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "‘Đứng dậy, vác giường đi về nhà!’” Đức Giê-su nói câu này với ai? (x. Mt 9,6)",
+      "options": {
+        "A": "Người bị quỷ ám",
+        "B": "Người bại liệt",
+        "C": "Người bị thần ô uế ám",
+        "D": "Một vị thủ lãnh"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "“Anh hãy theo tôi!” Đức Giê-su nói câu này với ai? (x. Mt 9,9)",
+      "options": {
+        "A": "Si-môn và An-rê",
+        "B": "Gia-cô-bê và Gio-an",
+        "C": "Mát-thêu",
+        "D": "Người bại liệt"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "“Sao Thầy các anh lại ăn uống với bọn thu thuế và quân tội lỗi như vậy?” Ai đã nói lời này với các môn đệ? (x. Mt 9,11)",
+      "options": {
+        "A": "Những người Pha-ri-sêu",
+        "B": "Các kinh sư",
+        "C": "Các thượng tế",
+        "D": "Cả B và C"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "“Con gái tôi vừa mới chết. Nhưng xin Ngài đến đặt tay lên cháu, là nó sẽ sống.” Ai đã nói câu này? (x. Mt 9,18)",
+      "options": {
+        "A": "Ông trưởng hội đường",
+        "B": "Một vị thủ lãnh",
+        "C": "Ông Gia-ia",
+        "D": "Viên sĩ quan ngoại giáo"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "“Tôi chỉ cần sờ được vào áo của Người thôi là sẽ được cứu!” Ai đã nghĩ bụng như vậy? (x. Mt 9,20-21)",
+      "options": {
+        "A": "Người bại liệt",
+        "B": "Anh mù Ba-ti-mê",
+        "C": "Người đàn bà bị rong huyết",
+        "D": "Anh mù từ khi mới sinh"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "“Này con, cứ yên tâm, lòng tin của con đã cứu chữa con.” Đức Giê-su đã nói câu này với ai? (x. Mt 9,20-22)",
+      "options": {
+        "A": "Người bại liệt",
+        "B": "Anh mù từ khi mới sinh",
+        "C": "Người bị quỷ ám",
+        "D": "Người đàn bà bị rong huyết"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 67,
+      "question": "“Lạy Con vua Đa-vít, xin thương xót chúng tôi!” Ai đã nói câu này? (x. Mt 9,27)",
+      "options": {
+        "A": "Hai người mù",
+        "B": "Anh mù Ba-ti-mê",
+        "C": "10 người phong cùi",
+        "D": "2 người bị quỷ ám"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "“Các anh có tin là tôi làm được điều ấy không?” Đức Giê-su đã nói câu này với ai? (x. Mt 9,27-28)",
+      "options": {
+        "A": "Anh mù Ba-ti-mê",
+        "B": "2 người bị quỷ ám",
+        "C": "Hai người mù",
+        "D": "10 người phong cùi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "“Các anh tin thế nào thì được như vậy.” Đức Giê-su đã nói câu này với ai? (x. Mt 9,29)",
+      "options": {
+        "A": "10 người phong cùi",
+        "B": "Hai người mù",
+        "C": "2 người bị quỷ ám",
+        "D": "Viên sĩ quan ngoại giáo"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "“Ông ấy dựa thế quỷ vương mà trừ quỷ.” Ai đã nói câu này? (x. Mt 9,32-34)",
+      "options": {
+        "A": "Các kinh sư",
+        "B": "Người Do-thái",
+        "C": "Người Pha-ri-sêu",
+        "D": "Cả A và C"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 71,
+      "question": "“Anh em đừng đi về phía các dân ngoại, cũng đừng vào thành nào của dân Sa-ma-ri. Tốt hơn là hãy đến với các con chiên lạc nhà Ít-ra-en”. Đức Giê-su nói câu này với ai? (x. Mt 10,1-6)",
+      "options": {
+        "A": "72 môn đệ",
+        "B": "12 Tông Đồ",
+        "C": "72 người khác",
+        "D": "10 người phong cùi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Khi sai 12 Tông Đồ đi rao giảng, Ngài khuyên bảo họ phải có thái độ đơn sơ như con vật nào? (x. Mt 10,16)",
+      "options": {
+        "A": "Chiên",
+        "B": "Sói",
+        "C": "Rắn",
+        "D": "Bồ câu"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 73,
+      "question": "Khi dạy các môn đệ bài học về “Hãy nói giữa ban ngày, đừng có sợ”, Đức Giê-su đã ví họ với con vật nào? (x. Mt 10,28-31)",
+      "options": {
+        "A": "Bồ câu",
+        "B": "Rắn",
+        "C": "Chim sẻ",
+        "D": "Con chiên"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "“Thưa Thầy, Thầy có thật là Đấng phải đến không, hay là chúng tôi còn phải đợi ai khác?” Ai đã sai môn đệ đến hỏi Đức Giê-su câu này? (x. Mt 11,2-3)",
+      "options": {
+        "A": "Viên sĩ quan ngoại giáo",
+        "B": "Ông trưởng hội đường",
+        "C": "Gioan Tẩy Giả",
+        "D": "Tổng trấn Phi-la-tô"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "“Thưa Thầy, Thầy có thật là Đấng phải đến không, hay là chúng tôi còn phải đợi ai khác ?” Khi sai môn đệ đến hỏi Đức Giê-su câu này, lúc ấy ông Gioan đang ở đâu? (x. Mt 11,2-3)",
+      "options": {
+        "A": "Hoang địa",
+        "B": "Sông Gio-đan",
+        "C": "Trong tù",
+        "D": "Trong rừng vắng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 76,
+      "question": "“Thế thì anh em ra xem gì? Một vị ngôn sứ chăng? Đúng thế đó; mà tôi nói cho anh em biết, đây còn hơn cả ngôn sứ nữa”. Đức Giê-su nói những lời này về ai? (x. Mt 11,7-10)",
+      "options": {
+        "A": "Gio-an Tông Đồ",
+        "B": "Giô-na",
+        "C": "Phi-líp-phê",
+        "D": "Gioan Tẩy Giả"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 77,
+      "question": "“Chính ông là người Kinh Thánh đã nói tới khi chép rằng: Này Ta sai sứ giả của Ta đi trước mặt Con, người sẽ dọn đường cho Con đến”. Đức Giê-su nói về ai? (x. Mt 11,7-10)",
+      "options": {
+        "A": "Giô-na",
+        "B": "Gioan Tẩy Giả",
+        "C": "Phi-líp-phê",
+        "D": "Gio-an Tông Đồ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "“Còn ngươi nữa, ngươi tưởng sẽ được nâng lên đến tận trời ư? Ngươi sẽ phải nhào xuống tận âm phủ! Vì nếu các phép lạ đã làm nơi ngươi mà được làm tại Xơ-đôm, thì thành ấy đã tồn tại cho đến ngày nay”. Đức Giê-su nói về thành nào? (x. Mt 11,23)",
+      "options": {
+        "A": "Kho-ra-din",
+        "B": "Bết-xai-đa",
+        "C": "Ca-phác-na-um",
+        "D": "Gô-mô-ra"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "“Ông coi, các môn đệ ông làm điều không được phép làm ngày sa-bát!” Ai đã nói câu này? (x. Mt 12,2)",
+      "options": {
+        "A": "Các kinh sư",
+        "B": "Người Pha-ri-sêu",
+        "C": "Ông Trưởng hội đường",
+        "D": "Cả A và C"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "“Đây là Người Tôi Tớ Ta đã tuyển chọn, đây là người Ta yêu dấu: Ta hài lòng về Người. Ta cho Thần Khí Ta ngự trên Người. Người sẽ loan báo công lý trước muôn dân’. Ngôn sứ nào đã nói câu này? (x. Mt 12,17-18)",
+      "options": {
+        "A": "Giô-na",
+        "B": "Mi-kha",
+        "C": "I-sai-a",
+        "D": "Giê-rê-mi-a"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 81,
+      "question": "“Ông này trừ được quỷ chỉ là nhờ dựa thế quỷ vương Bê-en-dê-bun.” Ai đã nói câu này? (x. Mt 12,24)",
+      "options": {
+        "A": "Các kinh sư",
+        "B": "Các người Do-thái",
+        "C": "Người Pha-ri-sêu",
+        "D": "Cả A và C"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "“Thưa Thầy, chúng tôi muốn thấy Thầy làm một dấu lạ.” Ai đã nói câu này? (x. Mt 12,38)",
+      "options": {
+        "A": "Mấy kinh sư",
+        "B": "Mấy người Pha-ri-sêu",
+        "C": "Các người Do-thái",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 83,
+      "question": "“Thế hệ gian ác và ngoại tình này đòi dấu lạ. Nhưng chúng sẽ không được dấu lạ nào, ngoài dấu lạ ngôn sứ Giô-na. Đức Giê-su nói câu này với ai? (x. Mt 12,38-39)",
+      "options": {
+        "A": "Mấy kinh sư",
+        "B": "Mấy người Pha-ri-sêu",
+        "C": "Các người Do-thái",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 84,
+      "question": "Khi kể về câu chuyện ông Gio-na, Đức Giê-su đã nhắc đến tên của thành nào trong Cựu Ước? (x. Mt 12,41)",
+      "options": {
+        "A": "Xơ-đôm",
+        "B": "Thành Ni-ni-vê",
+        "C": "Gô-mô-ra",
+        "D": "Kho-ra-din"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "Những hạt giống khi gieo xuống bị chim chóc đến ăn mất, đó là loại hạt giống rơi vào đâu? (x. Mt 13,4)",
+      "options": {
+        "A": "Rơi trên sỏi đá",
+        "B": "Rơi xuống vệ đường",
+        "C": "Rơi vào bụi gai",
+        "D": "Rơi trên đất tốt"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "question": "Những hạt giống khi gieo xuống thì nó mọc ngay vì đất không sâu, đó là loại hạt giống rơi vào đâu? (x. Mt 13,5)",
+      "options": {
+        "A": "Bụi gai",
+        "B": "Vệ đường",
+        "C": "Đất tốt",
+        "D": "Sỏi đá"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 87,
+      "question": "Những hạt giống khi gieo xuống bị chim chóc đến ăn mất là loại hạt giống rơi vào đâu? (x. Mt 13,4)",
+      "options": {
+        "A": "Vệ đường",
+        "B": "Trên sỏi đá",
+        "C": "Bụi gai",
+        "D": "Đất tốt"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 88,
+      "question": "“Các ngươi có lắng tai nghe cũng chẳng hiểu, có trố mắt nhìn cũng chẳng thấy; vì lòng dân này đã ra chai đá”. Ngôn sứ nào đã nói câu này? (x. Mt 13,14-15)",
+      "options": {
+        "A": "Giô-na",
+        "B": "Mi-kha",
+        "C": "I-sai-a",
+        "D": "Giê-rê-mi-a"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 89,
+      "question": "“Hễ ai nghe lời rao giảng Nước Trời mà không hiểu, thì quỷ dữ đến cướp đi điều đã gieo trong lòng người ấy”. Đó là kẻ đã được gieo vào đâu? (x. Mt 13,19)",
+      "options": {
+        "A": "Sỏi đá",
+        "B": "Bụi gai",
+        "C": "Vệ đường",
+        "D": "Đất tốt"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "“Kẻ nghe Lời và liền vui vẻ đón nhận. Nhưng nó không đâm rễ mà là kẻ nhất thời: khi gặp gian nan hay bị ngược đãi vì Lời, nó vấp ngã ngay”. Đó là kẻ được gieo vào đâu? (x. Mt 13,20-21)",
+      "options": {
+        "A": "Bụi gai",
+        "B": "Vệ đường",
+        "C": "Sỏi đá",
+        "D": "Đất tốt"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 91,
+      "question": "Kẻ nghe Lời, nhưng nỗi lo lắng sự đời, và bả vinh hoa phú quý bóp nghẹt, khiến Lời không sinh hoa kết quả gì”. Đó là kẻ được gieo vào đâu? (x. Mt 13,22)",
+      "options": {
+        "A": "Bụi gai",
+        "B": "Vệ đường",
+        "C": "Sỏi đá",
+        "D": "Đất tốt"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Kẻ nghe Lời và hiểu, thì tất nhiên sinh hoa kết quả và làm ra, kẻ được gấp trăm, kẻ được sáu chục, kẻ được ba chục.” Đó là kẻ được gieo vào đâu? (x. Mt 13,23)",
+      "options": {
+        "A": "Vệ đường",
+        "B": "Sỏi đá",
+        "C": "Đất tốt",
+        "D": "Bụi gai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "“Tuy nó là loại nhỏ nhất trong tất cả các hạt giống, nhưng khi lớn lên, thì lại là thứ lớn nhất; nó trở thành cây, đến nỗi chim trời tới làm tổ trên cành được.” Đức Giê-su nói về loại hạt nào? (x. Mt 13,31-32)",
+      "options": {
+        "A": "Hạt ớt",
+        "B": "Hạt cải",
+        "C": "Hạt vừng",
+        "D": "Hạt tiêu"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "“Xin Thầy giải nghĩa dụ ngôn cỏ lùng trong ruộng cho chúng con nghe.” Ai đã nói câu này? (x. Mt 13,36)",
+      "options": {
+        "A": "Đám đông dân chúng",
+        "B": "Người Pha-ri-sêu",
+        "C": "Các môn đệ",
+        "D": "Các kinh sư"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su nói kẻ gieo giống tốt là ai? (x. Mt 13,37)",
+      "options": {
+        "A": "Con Người",
+        "B": "Các Thiên Thần",
+        "C": "Ông chủ ruộng",
+        "D": "Thiên Chúa Cha"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví ruộng với ai? (x. Mt 13,38)",
+      "options": {
+        "A": "Các môn đệ",
+        "B": "Nước Trời",
+        "C": "Thế gian",
+        "D": "Thế giới của Ác Thần"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 97,
+      "question": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví hạt giống tốt với ai? (x. Mt 13,38)",
+      "options": {
+        "A": "Con cái thế gian",
+        "B": "Con cái Nước Trời",
+        "C": "Con cái Ác Thần",
+        "D": "Con cái sự sáng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví cỏ lùng với ai? (x. Mt 13,38)",
+      "options": {
+        "A": "Con cái thế gian",
+        "B": "Con cái Nước Trời",
+        "C": "Con cái Ác Thần",
+        "D": "Con cái sự sáng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 99,
+      "question": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví kẻ thù đã gieo cỏ lùng với ai? (x. Mt 13,39)",
+      "options": {
+        "A": "Những kẻ không nghe lời",
+        "B": "Các Thần dữ",
+        "C": "Ác Thần",
+        "D": "Ma quỷ"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 100,
+      "question": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví mùa gặt với cái gì? (x. Mt 13,39)",
+      "options": {
+        "A": "Ngày Chúa đến",
+        "B": "Ngày Chúa quang lâm",
+        "C": "Ngày tận thế",
+        "D": "Ngày cánh chung"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 101,
+      "question": "Khi giải nghĩa Dụ ngôn cỏ lùng, Đức Giê-su ví thợ gặt với ai? (x. Mt 13,39)",
+      "options": {
+        "A": "Chúa Thánh Thần",
+        "B": "Các thiên thần",
+        "C": "Các môn đệ",
+        "D": "Các Tông đồ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "“Ngôn sứ có bị rẻ rúng, thì cũng chỉ là ở chính quê hương mình và trong gia đình mình mà thôi.” Ai đã nói câu này? (x. Mt 13,57)",
+      "options": {
+        "A": "I-sai-a",
+        "B": "Mấy người Pha-ri-sêu",
+        "C": "Đức Giê-su",
+        "D": "Các kinh sư"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Khi về thăm Na-da-rét, tại sao Đức Giê-su lại không làm nhiều phép lạ tại đó?",
+      "options": {
+        "A": "Vì họ nhất tề bịt tai lại",
+        "B": "Vì họ không tin",
+        "C": "Vì họ phản đối",
+        "D": "Vì họ đồng loạt bỏ đi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "“Đó chính là ông Gio-an Tẩy Giả; ông đã từ cõi chết trỗi dậy, nên mới có quyền năng làm phép lạ.” Ai đã nói câu này? (x. Mt 14,1-2)",
+      "options": {
+        "A": "Đức Giê-su",
+        "B": "Tiểu vương Hê-rô-đê",
+        "C": "Phi-la-tô",
+        "D": "Thượng tế Cai-pha"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "“Nơi đây hoang vắng, và đã muộn rồi, vậy xin Thầy cho dân chúng về, để họ vào các làng mạc mua lấy thức ăn.” Ai đã nói câu này? (x. Mt 14,15)",
+      "options": {
+        "A": "Phi-líp-phê",
+        "B": "Phê-rô và Gio-an",
+        "C": "Các môn đệ",
+        "D": "Cả A và B"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "“Họ không cần phải đi đâu cả, chính anh em hãy cho họ ăn.” Ai đã nói câu này? (x. Mt 14,16)",
+      "options": {
+        "A": "Các môn đệ",
+        "B": "Đức Giê-su",
+        "C": "Si-môn Phê-rô",
+        "D": "Phi-líp-phê"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Trong phép lạ Đức Giê-su hóa bánh ra nhiều lần thứ nhất, những mẩu bánh còn thừa, người ta thu lại được bao nhiêu giỏ đầy? (x. Mt 14,20)",
+      "options": {
+        "A": "7 giỏ",
+        "B": "5 giỏ",
+        "C": "12 giỏ",
+        "D": "4 giỏ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "“Thưa Ngài, nếu quả là Ngài, thì xin truyền cho con đi trên mặt nước mà đến với Ngài.” Ai đã nói câu này? (x. Mt 14,28)",
+      "options": {
+        "A": "Ông Tô-ma",
+        "B": "Ông Phê-rô",
+        "C": "Ông Gia-cô-bê",
+        "D": "Người môn đệ Chúa yêu"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 109,
+      "question": "“Người đâu mà kém tin vậy! Sao lại hoài nghi?” Đức Giê-su nói lời này với ai? (x. Mt 14,28-31)",
+      "options": {
+        "A": "Ông Tô-ma",
+        "B": "Ông Gia-cô-bê",
+        "C": "Ông Gio-an",
+        "D": "Ông Phê-rô"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 110,
+      "question": "“Dân này tôn kính Ta bằng môi bằng miệng, còn lòng chúng thì lại xa Ta. Chúng có thờ phượng Ta thì cũng vô ích, vì giáo lý chúng giảng dạy chỉ là giới luật phàm nhân.” Ngôn sứ nào đã nói câu này? (x. Mt 15,7-9)",
+      "options": {
+        "A": "Giê-rê-mi-a",
+        "B": "I-sai-a",
+        "C": "Da-ca-ri-a",
+        "D": "Mi-kha"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 111,
+      "question": "“Lạy Ngài là Con vua Đa-vít, xin rủ lòng thương tôi!” Ai đã nói câu này? (x. Mt 15,21-22)",
+      "options": {
+        "A": "Người đàn bà Ca-na-an",
+        "B": "Anh mù Ba-ti-mê",
+        "C": "Người bị bại tay",
+        "D": "Người đàn bà bị băng huyết"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 112,
+      "question": "“Các môn đệ lại gần xin với Người rằng: “Xin Thầy bảo bà ấy về đi, vì bà ấy cứ theo sau chúng ta mà kêu mãi!” Các môn đệ nói về ai? (x. Mt 15,21-23)",
+      "options": {
+        "A": "Người đàn bà bị băng huyết",
+        "B": "Người đàn bà góa",
+        "C": "Người đàn bà Ca-na-an",
+        "D": "Người đàn bà bị còng lưng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "“Lạy Ngài, xin cứu giúp tôi !” Ai đã nói câu này? (x. Mt 15,21-25)",
+      "options": {
+        "A": "Người đàn bà bị băng huyết",
+        "B": "Anh mù Ba-ti-mê",
+        "C": "Người bị bại tay",
+        "D": "Người đàn bà Ca-na-an"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 114,
+      "question": "“Này bà, lòng tin của bà mạnh thật. Bà muốn sao thì sẽ được vậy.” Đức Giê-su nói lời này với ai? (x. Mt 15,21-28)",
+      "options": {
+        "A": "Người đàn bà bị băng huyết",
+        "B": "Người đàn bà góa",
+        "C": "Người đàn bà Ca-na-an",
+        "D": "Người đàn bà bị còng lưng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 115,
+      "question": "Sau khi hóa bánh ra nhiều lần thứ hai, Đức Giê-su đã lên thuyền đi đến miền nào? (x. Mt 15,39)",
+      "options": {
+        "A": "Xê-xa-rê Phi-líp-phê",
+        "B": "Ma-ga-đan",
+        "C": "Miền Thập tỉnh",
+        "D": "Ca-phác-na-um"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 116,
+      "question": "Cảnh sắc bầu trời thì các ông biết cắt nghĩa, còn thời điềm thì các ông lại không cắt nghĩa nổi”. Đức Giê-su đã nói lời này với ai? (x. Mt 16,1-3)",
+      "options": {
+        "A": "Những người Pha-ri-sêu",
+        "B": "Nhóm Xa-đốc",
+        "C": "Mấy kinh sư",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 117,
+      "question": "“Thầy là Đấng Ki-tô, Con Thiên Chúa hằng sống.” Ông Phê-rô tuyên xưng những lời này ở đâu? (x. Mt 16,13-16)",
+      "options": {
+        "A": "Xê-da-rê Phi-líp-phê",
+        "B": "Ca-phác-na-um",
+        "C": "Bết-sai-đa",
+        "D": "Vùng bên kia sông Gio-đan"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 118,
+      "question": "“Còn Thầy, Thầy bảo cho anh biết: anh là Phê-rô, nghĩa là Tảng Đá, trên tảng đá này, Thầy sẽ xây Hội Thánh của Thầy, và quyền lực tử thần sẽ không thắng nổi”. Đức Giê-su đã nói những lời này với Phê-rô ở đâu? (x. Mt 16,13-18)",
+      "options": {
+        "A": "Vùng bên kia sông Gio-đan",
+        "B": "Ca-phác-na-um",
+        "C": "Bết-sai-đa",
+        "D": "Xê-da-rê Phi-líp-phê"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 119,
+      "question": "“Xa-tan, lui lại đằng sau Thầy! Anh cản lối Thầy, vì tư tưởng của anh không phải là tư tưởng của Thiên Chúa, mà là của loài người.” Đức Giê-su nói lời này với ai? (x. Mt 16,23)",
+      "options": {
+        "A": "Tô-ma",
+        "B": "Giu-đa Ít-ca-ri-ốt",
+        "C": "Phê-rô",
+        "D": "Phi-líp-phê"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 120,
+      "question": "Trong sự kiện hiển dung, Đức Giê-su đã mang những ai đi theo mình? (x. Mt 17,1)",
+      "options": {
+        "A": "Phê-rô, Gia-cô-bê và An-rê",
+        "B": "Phê-rô, Gia-cô-bê và Gio-an",
+        "C": "Phê-rô, Gio-an và An-rê",
+        "D": "Phê-rô, An-rê và Ta-đê-ô"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 121,
+      "question": "Trong sự kiện Đức Giê-su hiển dung, những nhân vật nào đã hiện ra đàm đạo với Người? (x. Mt 17,3)",
+      "options": {
+        "A": "Hô-sê và Ê-li-a",
+        "B": "Hô-sê và Ê-li-sa",
+        "C": "Mô-sê và Ê-li-sa",
+        "D": "Mô-sê và Ê-li-a"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 122,
+      "question": "“Lạy Ngài, chúng con ở đây, thật là hay! Nếu Ngài muốn, con xin dựng tại đây ba cái lều, một cho Ngài, một cho ông Mô-sê, và một cho ông Ê-li-a”. Ai đã nói câu này? (x. Mt 17,4)",
+      "options": {
+        "A": "Gia-cô-bê",
+        "B": "Phê-rô",
+        "C": "Gio-an",
+        "D": "Các môn đệ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 123,
+      "question": "Về bài học “Anh em tha thứ cho nhau”, Đức Giê-su dạy phải tha đến mấy lần? (x. Mt 18,22)",
+      "options": {
+        "A": "Bảy mươi bảy lần",
+        "B": "Bảy lần bảy",
+        "C": "Bảy mươi lần bảy",
+        "D": "Mười bảy lần bảy"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "“Thưa Thầy, có được phép rẫy vợ mình vì bất cứ lý do nào không?” Ai đã hỏi câu này? (x. Mt 19,3)",
+      "options": {
+        "A": "Nhóm Xa-đốc",
+        "B": "Người Pha-ri-sêu",
+        "C": "Mấy kinh sư",
+        "D": "Các người Do-thái"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 125,
+      "question": "“Nếu anh muốn nên hoàn thiện, thì hãy đi bán tài sản của anh và đem cho người nghèo, anh sẽ được một kho tàng trên trời. Rồi hãy đến theo tôi.” Sau khi nghe lời này, người thanh niên đã làm gì? (x. Mt 19,21-22)",
+      "options": {
+        "A": "Anh lập tức quay về nhà",
+        "B": "Anh đứng dậy đi theo Người",
+        "C": "Anh buồn rầu bỏ đi",
+        "D": "Anh bỏ mọi sự mà theo Người"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 126,
+      "question": "‘Cả các anh nữa, hãy đi vào vườn nho, tôi sẽ trả cho các anh hợp lẽ công bằng.’ Ông chủ nói với nhóm thợ ông gặp vào giờ thứ mấy? (x. Mt 20,3)",
+      "options": {
+        "A": "Giờ thứ Ba",
+        "B": "Giờ thứ Sáu",
+        "C": "Giờ thứ Chín",
+        "D": "Giờ thứ Mười một"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 127,
+      "question": "‘Sao các anh đứng đây suốt ngày không làm gì hết?’ Ông chủ nói với nhóm thợ ông gặp vào giờ thứ mấy? (x. Mt 20,6)",
+      "options": {
+        "A": "Giờ thứ Ba",
+        "B": "Giờ thứ Sáu",
+        "C": "Giờ thứ Chín",
+        "D": "Giờ thứ Mười một"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 128,
+      "question": "‘Cả các anh nữa, hãy đi vào vườn nho!’ Ông chủ nói với nhóm thợ ông gặp vào giờ thứ mấy? (x. Mt 20,7)",
+      "options": {
+        "A": "Giờ thứ Ba",
+        "B": "Giờ thứ Sáu",
+        "C": "Giờ thứ Chín",
+        "D": "Giờ thứ Mười Một"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 129,
+      "question": "‘Mấy người sau chót này chỉ làm có một giờ, thế mà ông lại coi họ ngang hàng với chúng tôi là những người đã phải làm việc nặng nhọc cả ngày, lại còn bị nắng nôi thiêu đốt.’ Ai đã cằn nhằn với gia chủ như thế? (x. Mt 20,10-12)",
+      "options": {
+        "A": "Nhóm người làm giờ thứ Sáu",
+        "B": "Nhóm người làm giờ thứ Chín",
+        "C": "Những người vào làm trước nhất",
+        "D": "Nhóm người làm giờ thứ Mười một"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 130,
+      "question": "“Này chúng ta lên Giê-ru-sa-lem, và Con Người sẽ bị nộp cho các thượng tế và kinh sư. Họ sẽ kết án xử tử Người, sẽ nộp Người cho dân ngoại nhạo báng, đánh đòn và đóng đinh vào thập giá và, ngày thứ ba, Người sẽ trỗi dậy.” Đây là lời loan báo về cuộc thương khó lần thứ mấy? (Mt 20,17-19)",
+      "options": {
+        "A": "Lần thứ Nhất",
+        "B": "Lần thứ Hai",
+        "C": "Lần thứ Ba",
+        "D": "Lần thứ Tư"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 131,
+      "question": "“Lạy Ngài, lạy Con vua Đa-vít, xin rủ lòng thương chúng tôi!” Ai đã nói câu này? (x. Mt 20,30)",
+      "options": {
+        "A": "Anh mù Ba-ti-mê",
+        "B": "Hai người mù",
+        "C": "Mười người phong cùi",
+        "D": "Người ăn xin bên vệ đường"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "“Các anh muốn tôi làm gì cho các anh?” Đức Giê-su nói lời này với ai? (x. Mt 20,29-32)",
+      "options": {
+        "A": "Anh mù Ba-ti-mê",
+        "B": "Người ăn xin bên vệ đường",
+        "C": "Hai người mù",
+        "D": "Mười người phong cùi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "“Các anh đi vào làng trước mặt kia, và sẽ thấy ngay một con lừa mẹ đang cột sẵn đó, có con lừa con bên cạnh. Các anh cởi dây ra và dắt về cho Thầy”. Đức Giê-su nói lời này với ai? (x. Mt 21,1-2)",
+      "options": {
+        "A": "Nhóm Mười Hai",
+        "B": "Hai môn đệ",
+        "C": "Những người Do-thái",
+        "D": "Các tá điền"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Khi các thượng tế và kinh sư thấy những việc lạ lùng Người đã làm và thấy lũ trẻ reo hò trong Đền Thờ: “Hoan hô Con vua Đa-vít!”, họ đã có thái độ như thế nào? (x. Mt 21,15)",
+      "options": {
+        "A": "Họ giận điên lên",
+        "B": "Họ xầm xì với nhau",
+        "C": "Họ tức tối",
+        "D": "Họ la lối inh ỏi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 135,
+      "question": "Sau khi đuổi những người đang mua bán trong Đền Thờ, Đức Giê-su đã đi đâu? (x. Mt 21,17)",
+      "options": {
+        "A": "Bê-ta-ni-a",
+        "B": "Ca-phác-na-um",
+        "C": "Ga-li-lê",
+        "D": "Giê-ru-sa-lem"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 136,
+      "question": "“Ông lấy quyền nào mà làm các điều ấy? Ai đã cho ông quyền ấy?” Ai đã hỏi Đức Giê-su câu này? (x. Mt 21,23)",
+      "options": {
+        "A": "Các Thượng tế",
+        "B": "Các kỳ mục",
+        "C": "Người Pha-ri-sêu",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 137,
+      "question": "“Vậy, phép rửa của ông Gio-an do đâu mà có? Do Trời hay do người ta?” Đức Giê-su đã hỏi ai câu này? (x. Mt 21,23-25)",
+      "options": {
+        "A": "Các kỳ mục",
+        "B": "Các Thượng tế",
+        "C": "Người Pha-ri-sêu",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 138,
+      "question": "“Đứa thừa tự đây rồi! Nào ta giết quách nó đi, và đoạt lấy gia tài nó!” Ai đã nói câu này? (x. Mt 21,38)",
+      "options": {
+        "A": "Các kinh sư",
+        "B": "Người Pha-ri-sêu",
+        "C": "Bọn tá điền",
+        "D": "Đám đông dân chúng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "“Nhà vua liền nổi cơn thịnh nộ, sai quân đi tru diệt bọn sát nhân ấy và thiêu huỷ thành phố của chúng”. Bọn sát nhân ở đây là ai? (x. Mt 22,1-8)",
+      "options": {
+        "A": "Các quan khách",
+        "B": "Bọn tá điền",
+        "C": "Những người vào làm trước nhất",
+        "D": "Người không mặc ý phục lễ cưới"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 140,
+      "question": "‘Trói chân tay nó lại, quăng nó ra chỗ tối tăm bên ngoài, ở đó người ta sẽ phải khóc lóc nghiến răng!’ Lời này dành cho ai? (x. Mt 22,11-13)",
+      "options": {
+        "A": "Các quan khách",
+        "B": "Bọn tá điền",
+        "C": "Những người vào làm trước nhất",
+        "D": "Người không mặc y phục lễ cưới"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 141,
+      "question": "“Vì kẻ được gọi thì nhiều, mà người được chọn thì ít”. Câu này được nói trong Dụ ngôn nào? (x. Mt 22,1-14)",
+      "options": {
+        "A": "Dụ ngôn tá điền sát nhân",
+        "B": "Dụ ngôn tiệc cưới",
+        "C": "Dụ ngôn thợ làm vườn nho",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "“Các ông lầm, vì không biết Kinh Thánh, cũng chẳng biết quyền năng Thiên Chúa”. Đức Giê-su nói lời này với ai? (x. Mt 22,23-29)",
+      "options": {
+        "A": "Các kinh sư",
+        "B": "Nhóm Xa-đốc",
+        "C": "Người Pha-ri-sêu",
+        "D": "Các thượng tế"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 143,
+      "question": "“Vậy, tất cả những gì họ nói, anh em hãy làm, hãy giữ, còn những việc họ làm, thì đừng có làm theo, vì họ nói mà không làm”. Đức Giê-su đang nói về ai? (x. Mt 23,2-3)",
+      "options": {
+        "A": "Các kinh sư",
+        "B": "Nhóm Xa-đốc",
+        "C": "Người Pha-ri-sêu",
+        "D": "Cả A và C"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 144,
+      "question": "“Đã bao lần Ta muốn tập hợp con cái ngươi lại, như gà mẹ tập hợp gà con dưới cánh, mà các ngươi không chịu”. Đức Giê-su nói về nơi nào? (x. Mt 23,37)",
+      "options": {
+        "A": "Gô-mô-ra",
+        "B": "Giê-ru-sa-lem",
+        "C": "Ca-phác-na-um",
+        "D": "Xơ-đôm"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "“Anh em nhìn thấy tất cả những cái đó, phải không? Thầy bảo thật anh em: tại đây, sẽ không còn tảng đá nào trên tảng đá nào; tất cả đều sẽ bị phá đổ.” Đức Giê-su nói về nơi nào? (x. Mt 24,1-2)",
+      "options": {
+        "A": "Ca-phác-na-um",
+        "B": "Xơ-đôm",
+        "C": "Gô-mô-ra",
+        "D": "Đền thờ Giê-ru-sa-lem"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 146,
+      "question": "Trong “Dụ ngôn những yến bạc”, người đã lãnh được năm yến đã làm gì? (x. Mt 25,16)",
+      "options": {
+        "A": "Gây lời được hai yến khác",
+        "B": "Đào lỗ, chôn giấu số bạc của chủ",
+        "C": "Gây lời được năm yến khác",
+        "D": "Gây lời được mười yến khác"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Trong “Dụ ngôn những yến bạc”, người đã lãnh được một yến đã làm gì? (x. Mt 25,18)",
+      "options": {
+        "A": "Gây lời được một yến khác",
+        "B": "Gây lời được năm yến khác",
+        "C": "Đào lỗ, chôn giấu số bạc của chủ",
+        "D": "Gây lời được hai yến khác"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 148,
+      "question": "“Ông chủ nói với người ấy: ‘Khá lắm! Hỡi đầy tớ tài giỏi và trung thành! Được giao ít mà anh đã trung thành, thì tôi sẽ giao nhiều cho anh. Hãy vào mà hưởng niềm vui của chủ anh!’ Đây là lời ông chủ nói với ai? (x. Mt 25,21-23)",
+      "options": {
+        "A": "Người đã lãnh 5 yến",
+        "B": "Người đã lãnh 2 yến",
+        "C": "Người đã lãnh 1 yến",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 149,
+      "question": "‘Thưa ông chủ, tôi biết ông là người hà khắc, gặt chỗ không gieo, thu nơi không vãi. Vì thế, tôi đâm sợ, mới đem chôn giấu yến bạc của ông dưới đất. Của ông đây, ông cầm lấy!’ Ai đã nói với ông chủ câu này? (x. Mt 25,24-25)",
+      "options": {
+        "A": "Người đã lãnh 5 yến",
+        "B": "Người đã lãnh 2 yến",
+        "C": "Người đã lãnh 1 yến",
+        "D": "Cả A và B"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "“Sao lại phí của như thế? Dầu đó có thể bán được nhiều tiền mà cho người nghèo.” Ai đã nói câu này? (x. Mt 26,8-9)",
+      "options": {
+        "A": "Các môn đệ",
+        "B": "Giu-đa Ít-ca-ri-ốt",
+        "C": "Các kinh sư",
+        "D": "Mấy người Pha-ri-sêu"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 151,
+      "question": "“Tôi nộp ông ấy cho quý vị, thì quý vị muốn cho tôi bao nhiêu?” Ai đã nói câu này? (x. Mt 26,14-15)",
+      "options": {
+        "A": "Thầy Thượng Tế",
+        "B": "Giu-đa Ít-ca-ri-ốt",
+        "C": "Các kinh sư",
+        "D": "Mấy người Pha-ri-sêu"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "“Thầy muốn chúng con dọn cho Thầy ăn lễ Vượt Qua ở đâu?” Ai đã nói câu này? (x. Mt 26,17)",
+      "options": {
+        "A": "Các kinh sư",
+        "B": "Si-mon Phê-rô",
+        "C": "Mấy người Pha-ri-sêu",
+        "D": "Các môn đệ"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 153,
+      "question": "“Ráp-bi, chẳng lẽ con sao?” Ai đã hỏi Đức Giê-su câu này? (x. Mt 26,25)",
+      "options": {
+        "A": "Giu-đa Ít-ca-ri-ốt",
+        "B": "Si-mon Phê-rô",
+        "C": "Tất cả Nhóm Mười Hai",
+        "D": "Các môn đệ"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 154,
+      "question": "Trong sự kiện “Đức Giê-su tiên báo ông Phê-rô sẽ chối Thầy”, hát Thánh Vịnh xong, Đức Giê-su và các môn đệ đã đi đâu? (x. Mt 26,30)",
+      "options": {
+        "A": "Đền thờ",
+        "B": "Hội đường",
+        "C": "Núi Ô-liu",
+        "D": "Suối Kít-rôn"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 155,
+      "question": "“Dầu tất cả có vấp ngã vì Thầy đi nữa, thì con đây cũng chẳng bao giờ vấp ngã.” Ai đã nói câu này? (x. Mt 26,33)",
+      "options": {
+        "A": "Các môn đệ",
+        "B": "Ông Phê-rô",
+        "C": "Giu-đa Ít-ca-ri-ốt",
+        "D": "Phi-líp-phê"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 156,
+      "question": "Khi Đức Giê-su cầu nguyện tại vườn Ghết-sê-ma-ni, Ngài đã đưa những ai đi theo mình? (x. Mt 26,36-37)",
+      "options": {
+        "A": "Ông Phê-rô",
+        "B": "Hai người con ông Dê-bê-đê",
+        "C": "Ông Phê-rô, An-rê và Gio-an",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 157,
+      "question": "“Thế ra anh em không thể canh thức nổi với Thầy một giờ sao?” Đức Giê-su đã nói những lời này với ai? (x. Mt 26,40)",
+      "options": {
+        "A": "Các môn đệ",
+        "B": "Hai người con ông Dê-bê-đê",
+        "C": "Ông Phê-rô",
+        "D": "Ông Phê-rô, An-rê và Gio-an"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 158,
+      "question": "“Lạy Cha, nếu con cứ phải uống chén này mà không sao tránh khỏi, thì xin vâng ý Cha.”. Đây là lời cầu nguyện lần thứ mấy? (x. Mt 26,42)",
+      "options": {
+        "A": "Lần thứ 1",
+        "B": "Lần thứ 2",
+        "C": "Lần thứ 3",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "Sau khi cầu nguyện lần thứ hai, Đức Giê-su trở lại, thấy các môn đệ vẫn đang ngủ, vì mắt họ nặng trĩu. Người đã làm gì? (x. Mt 26,43-44)",
+      "options": {
+        "A": "Người nổi giận với các ông",
+        "B": "Người để mặc các ông",
+        "C": "Người đánh thức các ông",
+        "D": "Người ngồi xuống bên các ông"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Cùng đi với Giu-đa Ít-ca-ri-ốt, có cả một đám người đông đảo mang gươm giáo gậy gộc. Họ đã được ai sai đến? (x. Mt 26,47)",
+      "options": {
+        "A": "Các thượng tế",
+        "B": "Các kỳ mục",
+        "C": "Tổng trấn Phi-la-tô",
+        "D": "Cả A và B"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 161,
+      "question": "“Này bạn, bạn đến đây làm gì thì cứ làm đi!” Đức Giê-su nói lời này với ai? (x. Mt 26,49-50)",
+      "options": {
+        "A": "Viên sĩ quan cận vệ",
+        "B": "Đám lính",
+        "C": "Đám thuộc hạ",
+        "D": "Giu-đa Ít-ca-ri-ốt"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 162,
+      "question": "“Tôi là một tên cướp sao mà các ông đem gươm giáo gậy gộc đến bắt?” Đức Giê-su đã nói lời này với ai? (x. Mt 26,55)",
+      "options": {
+        "A": "Giu-đa cùng đám thuộc hạ",
+        "B": "Đám lính",
+        "C": "Đám thuộc hạ",
+        "D": "Đám đông"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 163,
+      "question": "Ngay sau khi Đức Giê-su bị bắt, họ đã điệu Người đến đâu? (x. Mt 26,57)",
+      "options": {
+        "A": "Dinh Phi-la-tô",
+        "B": "Thượng tế Cai-pha",
+        "C": "Dinh vua Hê-rô-đê",
+        "D": "Đền thờ Giê-ru-sa-lem"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 164,
+      "question": "“Ông không nói lại được một lời sao? Mấy người này tố cáo ông gì đó?” Ai đã hỏi Đức Giê-su câu này? (x. Mt 26,62)",
+      "options": {
+        "A": "Tổng trấn Phi-la-tô",
+        "B": "Vị thượng tế",
+        "C": "Vua Hê-rô-đê",
+        "D": "Các thủ lãnh Do-thái"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "“Nhân danh Thiên Chúa hằng sống, tôi truyền cho ông phải nói cho chúng tôi biết: ông có phải là Đấng Ki-tô Con Thiên Chúa không?” Ai đã hỏi Đức Giê-su câu này? (x. Mt 26,63)",
+      "options": {
+        "A": "Vị thượng tế",
+        "B": "Các thủ lãnh Do-thái",
+        "C": "Vua Hê-rô-đê",
+        "D": "Tổng trấn Phi-la-tô"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 166,
+      "question": "“Chính ngài vừa nói. Hơn nữa, tôi nói cho các ông hay: từ nay, các ông sẽ thấy Con Người ngự bên hữu Đấng Toàn Năng và ngự giá mây trời mà đến.” Đức Giê-su nói câu này với ai? (x. Mt 26,64)",
+      "options": {
+        "A": "Vua Hê-rô-đê",
+        "B": "Các thủ lãnh Do-thái",
+        "C": "Tổng trấn Phi-la-tô",
+        "D": "Vị thượng tế"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 167,
+      "question": "“Hắn nói phạm thượng! Chúng ta cần gì nhân chứng nữa? Đấy, quý vị vừa nghe hắn nói phạm đến Thiên Chúa, quý vị nghĩ sao?” Ai đã nói câu này? (x. Mt 26,65-66)",
+      "options": {
+        "A": "Đám đông dân chúng",
+        "B": "Vị thượng tế",
+        "C": "Tổng trấn Phi-la-tô",
+        "D": "Các thủ lãnh Do-thái"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "“Cả bác nữa, bác cũng đã ở với ông Giê-su, người Ga-li-lê đó chứ gì?” Ai đã nói với ông Phê-rô những lời này? (x. Mt 26,69)",
+      "options": {
+        "A": "Một người trong đám đông",
+        "B": "Người đầy tớ gái",
+        "C": "Những người đứng đó",
+        "D": "Tên lính gác cổng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "“Đúng là bác cũng thuộc bọn họ. Cứ nghe giọng nói của bác là biết ngay” Ai đã nói với ông Phê-rô những lời này? (x. Mt 26,73)",
+      "options": {
+        "A": "Một người trong đám đông",
+        "B": "Người đầy tớ gái",
+        "C": "Những người đứng đó",
+        "D": "Tên lính gác cổng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 170,
+      "question": "“Tôi đã phạm tội nộp người vô tội, khiến Người phải chết oan.” Ai đã nói lời này? (x. Mt 27,3-4)",
+      "options": {
+        "A": "Phi-la-tô",
+        "B": "Giu-đa Ít-ca-ri-ốt",
+        "C": "Vợ của Phi-la-tô",
+        "D": "Hê-rô-đê"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 171,
+      "question": "“Họ đã lượm lấy ba mươi đồng bạc, tức là cái giá mà một số con cái Ít-ra-en đã đặt khi đánh giá Người. Và họ lấy số bạc đó mà mua ‘Thửa Ruộng Ông Thợ Gốm’, theo những điều Đức Chúa đã truyền cho tôi .” Ngôn sứ nào đã nói câu này? (x. Mt 27,9-10)",
+      "options": {
+        "A": "I-sai-a",
+        "B": "Ê-dê-ki-en",
+        "C": "Giê-rê-mi-a",
+        "D": "Đa-ni-en"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "“Ông là vua dân Do-thái sao?” Ai đã hỏi Đức Giê-su câu này? (x. Mt 27,11)",
+      "options": {
+        "A": "Tổng trấn Phi-la-tô",
+        "B": "Thượng tế Cai-pha",
+        "C": "Vua Hê-rô-đê",
+        "D": "Các kỳ lão"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 173,
+      "question": "“Ông không nghe bao nhiêu điều họ làm chứng chống lại ông đó sao?” Ai đã hỏi Đức Giê-su câu này? (x. Mt 27,11)",
+      "options": {
+        "A": "Thượng tế Cai-pha",
+        "B": "Các kỳ lão",
+        "C": "Vua Hê-rô-đê",
+        "D": "Tổng trấn Phi-la-tô"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 174,
+      "question": "“Ta vô can trong vụ đổ máu người này. Mặc các người liệu lấy!” Trước khi nói những lời này, tổng trấn Phi-la-tô đã làm gì? (x. Mt 27,24)",
+      "options": {
+        "A": "Bỏ vào nhà",
+        "B": "Truyền đánh đòn Đức Giê-su",
+        "C": "Lấy nước rửa tay",
+        "D": "Phóng thích Ba-ra-ba"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "“Chúng lột áo Người ra, khoác cho Người một tấm áo choàng đỏ, rồi kết một vòng gai làm vương miện đặt lên đầu Người, và trao vào tay mặt Người một cây sậy”. Ai đã làm điều này? (x. Mt 27,27-29)",
+      "options": {
+        "A": "Lính của các thượng tế",
+        "B": "Lính của tổng trấn",
+        "C": "Lính của Hê-rô-đê",
+        "D": "Các kinh sư và Pha-ri-sêu"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 176,
+      "question": "“Rồi chúng khạc nhổ vào Người và lấy cây sậy mà đập vào đầu Người. Chế giễu chán, chúng lột áo choàng ra, và cho Người mặc áo lại như trước, rồi điệu Người đi đóng đinh vào thập giá”. Ai đã làm điều này? (x. Mt 27,27-31)",
+      "options": {
+        "A": "Lính của các thượng tế",
+        "B": "Các kinh sư và Pha-ri-sêu",
+        "C": "Lính của tổng trấn",
+        "D": "Lính của Hê-rô-đê"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 177,
+      "question": "“Mi là kẻ phá được Đền Thờ, và nội trong ba ngày xây lại được, hãy cứu lấy mình đi! Nếu mi là Con Thiên Chúa, thì xuống khỏi thập giá xem nào!” Ai đã nói những lời này? (x. Mt 27,39-40)",
+      "options": {
+        "A": "Các thượng tế và kinh sư",
+        "B": "Kẻ qua người lại",
+        "C": "Các kỳ mục",
+        "D": "Cả A và C"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 178,
+      "question": "“Hắn cứu được thiên hạ, mà chẳng cứu nổi mình. Hắn là vua Ít-ra-en! Hắn cứ xuống khỏi thập giá ngay bây giờ đi, chúng ta tin hắn liền!”. Ai đã chế giễu Đức Giê-su như vậy? (x. Mt 27,41-42)",
+      "options": {
+        "A": "Thượng tế",
+        "B": "Kinh sư",
+        "C": "Kỳ mục",
+        "D": "Cả A, B và C"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 179,
+      "question": "“Hắn cậy vào Thiên Chúa, thì bây giờ Người cứu hắn đi, nếu quả thật Người thương hắn! Vì hắn đã nói: Ta là Con Thiên Chúa!” Ai đã chế giễu Đức Giê-su như vậy? (x. Mt 27,41-43)",
+      "options": {
+        "A": "Thượng tế",
+        "B": "Kinh sư",
+        "C": "Kỳ mục",
+        "D": "Cả A, B và C"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 180,
+      "question": "“Này các bà, các bà đừng sợ! Tôi biết các bà tìm Đức Giê-su, Đấng bị đóng đinh. Người không có ở đây, vì Người đã trỗi dậy như Người đã nói”. Ai đã nói câu này? (x. Mt 28,5-6)",
+      "options": {
+        "A": "Thiên thần",
+        "B": "Người làm vườn",
+        "C": "Đức Giê-su phục sinh",
+        "D": "Viên đại đội trưởng"
+      },
+      "answer": "A"
+    }
+  ]
+}

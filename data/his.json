@@ -1,0 +1,776 @@
+{
+  "group": "LƯỢC SỬ GIÁO PHẬN THÁI BÌNH",
+  "id": "his",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vào năm 1638, vị thừa sai Dòng Tên người Ý nào đã đến giảng đạo tại làng Bồ Trang (thuộc xứ Bồ Ngọc, Giáo phận Thái Bình ngày nay)?",
+      "options": {
+        "A": "Juliano Baldinotti",
+        "B": "Felice Morelli",
+        "C": "Gaspar d’Amaral",
+        "D": "Francois Pallu"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Giáo phận Đàng Ngoài (khu vực Bắc Hà) được thành lập vào năm nào theo sắc lệnh của Đức Thánh Cha Alexander VII?",
+      "options": {
+        "A": "Năm 1626",
+        "B": "Năm 1645",
+        "C": "Năm 1659",
+        "D": "Năm 1670"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Theo Sắc lệnh của Đức Thánh Cha Alexander VII, giáo phận Đàng Ngoài được trao cho vị Giám mục nào cai quản?",
+      "options": {
+        "A": "Đức cha Lambert de la Motte",
+        "B": "Đức cha Francois Pallu",
+        "C": "Cha Đắc Lộ",
+        "D": "Cha Felice Morelli"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Theo Sắc lệnh của Đức Thánh Cha Alexander VII, giáo phận Đàng Trong được trao cho vị Giám mục nào cai quản?",
+      "options": {
+        "A": "Cha Felice Morell",
+        "B": "Đức cha Francois Pallu",
+        "C": "Đức cha Lambert de la Motte",
+        "D": "Cha Đắc Lộ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Ngày 19/02/1670, Đức Cha Lambert de la Motte đã chính thức thành lập dòng tu nào tại Việt Nam?",
+      "options": {
+        "A": "Dòng Tên (Dòng Giêsu)",
+        "B": "Hội thừa sai Paris (MEP)",
+        "C": "Dòng Mến Thánh Giá",
+        "D": "Dòng Đa Minh"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Công đồng đầu tiên của Giáo Hội Việt Nam (Công đồng Giáo phận Đàng Ngoài lần đầu tiên) được tổ chức tại địa điểm nào?",
+      "options": {
+        "A": "Tại một nhà thờ lớn ở Thăng Long",
+        "B": "Tại chủng viện của Nhà Đức Chúa Trời",
+        "C": "Trên một tàu buôn neo đậu trên sông cạnh Phố Hiến",
+        "D": "Tại nhà chung của xứ Kẻ Bái (Bồ Ngọc)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Công đồng Phố Hiến năm 1670 đã chính thức nhận vị thánh nào làm bổn mạng cho Giáo Hội Việt Nam?",
+      "options": {
+        "A": "Thánh Phêrô",
+        "B": "Thánh Giuse",
+        "C": "Thánh Phaolô",
+        "D": "Thánh Phanxicô Xaviê"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Huấn thị được đưa ra tại Công đồng Phố Hiến năm 1670 bao gồm bao nhiêu điều khoản?",
+      "options": {
+        "A": "9 điều khoản",
+        "B": "14 điều khoản",
+        "C": "33 điều khoản",
+        "D": "40 điều khoản"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Ngoài việc chọn Thánh Bổn mạng cho Giáo Hội Việt Nam, phân chia Địa phận Đàng Ngoài thành các giáo hạt và yêu cầu các nhà thờ phải công bố Sắc Chỉ của Tông Tòa về quyền đại diện, Công Đồng Phố Hiến còn bàn về vấn đề gì nữa?",
+      "options": {
+        "A": "Mở cửa hàng loạt Đại Chủng viện",
+        "B": "Ấn định việc đào tạo chủng sinh qua tổ chức Nhà Đức Chúa Trời",
+        "C": "Mở rộng việc bang giao với chính quyền bản địa",
+        "D": "Cả A, B và C"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Tính tới năm 1679, sau gần 40 năm, kể từ khi cha Felice Morelli gieo mầm hạt giống Tin Mừng trên mảnh đất Thái Bình, có bao nhiêu xứ đạo đã được thành lập và gắn liền với chữ “Kẻ”?",
+      "options": {
+        "A": "Kẻ Bái (Bồ Ngọc), Kẻ Ổn (Lai Ổn), Kẻ Hệ (Ninh Cù).",
+        "B": "Kẻ Bầu (Tiên Chu), Kẻ Diền (Duyên Lãng), Kẻ Vân (Đan Tràng).",
+        "C": "Kẻ Rèm (An Lập) và Kẻ Mèn (Trung Đồng).",
+        "D": "Cả A, B và C"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "Vào năm 1679, Tòa Thánh đã tách Giáo phận Đàng Ngoài thành hai giáo phận nào?",
+      "options": {
+        "A": "Đông Đàng Ngoài và Tây Đàng Ngoài",
+        "B": "Nam Đàng Ngoài và Bắc Đàng Ngoài",
+        "C": "Đông Đàng Ngoài và Bắc Đàng Ngoài",
+        "D": "Tây Đàng Ngoài và Nam Đàng Ngoài"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Sau khi Giáo phận Đàng Ngoài được chia tách vào năm 1679, phần đất thuộc Giáo phận Thái Bình ngày nay nằm trong giáo phận nào?",
+      "options": {
+        "A": "Giáo phận Đàng Trong",
+        "B": "Giáo phận Tây Đàng Ngoài",
+        "C": "Giáo phận Đông Đàng Ngoài",
+        "D": "Giáo phận Bùi Chu"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Giáo phận Đông Đàng Ngoài sau đó đã được Tòa Thánh trao cho dòng tu nào phụ trách?",
+      "options": {
+        "A": "Dòng Tên (Dòng Giêsu)",
+        "B": "Dòng Đaminh",
+        "C": "Hội thừa sai Paris (MEP)",
+        "D": "Dòng Mến Thánh Giá"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Hai vị tử đạo tiên khởi của Dòng Đaminh từng hoạt động, bị bắt tại Thái Bình và tham gia Hội đồng Tứ giáo tại Thăng Long là ai?",
+      "options": {
+        "A": "Thánh Juliano Baldinotti và Thánh Đắc Lộ",
+        "B": "Thánh Francois Pallu và Thánh Jacques de Bourges",
+        "C": "Thánh Castaneda Gia và Thánh Vinhsơn Phạm Hiếu Liêm",
+        "D": "Thánh Felice Morelli và Thánh Deydier"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Vào năm 1848, Tòa Thánh đã chia Giáo phận Đông Đàng Ngoài thành hai giáo phận nào?",
+      "options": {
+        "A": "GP. Đông Đàng Ngoài và Tây Đàng Ngoài",
+        "B": "Giáo phận Đông và Giáo phận Tây",
+        "C": "Giáo phận Đông và Giáo phận Trung",
+        "D": "Giáo phận Trung và Giáo phận Bùi Chu"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Giáo xứ Thái Bình được Đức cha Phêrô Munagorri Trung chính thức thành lập vào ngày 17/08/1908 nhận Đấng nào làm bổn mạng?",
+      "options": {
+        "A": "Thánh Giuse",
+        "B": "Thánh Tâm Chúa Giêsu",
+        "C": "Thánh Đaminh",
+        "D": "Đức Mẹ Vô Nhiễm Nguyên Tội"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Giáo phận Thái Bình được chính thức thành lập vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 12/3/1935",
+        "B": "Ngày 09/3/1936",
+        "C": "Ngày 17/8/1936",
+        "D": "Ngày 09/3/1939"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Khi mới thành lập, địa giới hành chính của Giáo phận Thái Bình bao gồm phần đất của hai tỉnh nào?",
+      "options": {
+        "A": "Thái Bình và Nam Định",
+        "B": "Thái Bình và Hải Dương",
+        "C": "Thái Bình và Hà Nam",
+        "D": "Thái Bình và Hưng Yên"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "Đức Giáo hoàng nào đã ban Sắc chỉ (Praecipuas inter Apostolicas) để thành lập Giáo phận Thái Bình?",
+      "options": {
+        "A": "Đức Giáo hoàng Alexander VII",
+        "B": "Đức Giáo hoàng Piô XI",
+        "C": "Đức Giáo hoàng Piô XII",
+        "D": "Đức Giáo hoàng Gioan Paul II"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Theo số liệu thống kê năm 1939, Giáo phận Thái Bình có bao nhiêu tín hữu?",
+      "options": {
+        "A": "2.220 tín hữu",
+        "B": "5.000 tín hữu",
+        "C": "140.000 tín hữu",
+        "D": "280.000 tín hữu"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "Theo số liệu thống kê năm 1939, Giáo phận Thái Bình có bao nhiêu giáo xứ và bao nhiêu họ lẻ?",
+      "options": {
+        "A": "90 giáo xứ và 512 họ lẻ",
+        "B": "50 giáo xứ và 552 họ lẻ",
+        "C": "60 giáo xứ và 542 họ lẻ",
+        "D": "154 giáo xứ và 448 họ lẻ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Ai là vị Giám mục Tông tòa tiên khởi (đầu tiên) của Giáo phận Thái Bình?",
+      "options": {
+        "A": "Đức Cha Gómez Lễ",
+        "B": "Đức Cha Gioan Casado Thuận",
+        "C": "Đức Cha Santos Ubierna Ninh",
+        "D": "Cha Joe Sedano Thái"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Cơ sở đầu tiên của Giáo phận Thái Bình được Đức Cha Gioan Casado Thuận khánh thành vào tháng 9/1937 là công trình nào?",
+      "options": {
+        "A": "Tòa Giám mục Thái Bình",
+        "B": "Nhà thờ Chính tòa Thái Bình",
+        "C": "Tiểu Chủng viện Thánh Tôma Mỹ Đức",
+        "D": "Nhà Dục Anh tại Giáo xứ An Lập"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Trên phần đất Giáo phận thuộc tỉnh Hưng Yên, Đức Cha Gioan Casado Thuận cho xây dựng một tòa nhà kiến trúc theo lối Tây phương với ba tầng lầu, ngay tại Tỉnh lỵ. Đây là tòa nhà gì?",
+      "options": {
+        "A": "Nhà Dục Anh",
+        "B": "Nhà cô nhi viện",
+        "C": "Trường Thầy giảng",
+        "D": "Tiểu Chủng viện Thánh Tôma"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Vì sao Đức Cha Gioan Casado Thuận không thể trở về Giáo phận Thái Bình sau khi sang Rôma triều yết Đức Thánh Cha vào năm 1939?",
+      "options": {
+        "A": "Vì ngài bị nhà nước cấm nhập cảnh",
+        "B": "Vì Thế chiến thứ II bùng nổ, không có phương tiện trở về",
+        "C": "Vì ngài được Tòa Thánh giữ lại làm việc tại Rôma",
+        "D": "Vì ngài xin từ nhiệm để ở lại quê nhà Tây Ban Nha"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Trước khi qua đời vào năm 1941, Đức Cha Gioan Casado Thuận đã trao quyền điều hành Giáo phận Thái Bình cho vị linh mục nào thông qua chúc thư?",
+      "options": {
+        "A": "Cha chính xứ Tràng An",
+        "B": "Cha Andrê Kiên",
+        "C": "Cha chính Joe Sedano Thái",
+        "D": "Cha Felice Morelli"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "Khẩu hiệu Giám mục được Đức Cha Santos Ubierna Ninh lựa chọn cho sứ vụ của mình là gì?",
+      "options": {
+        "A": "Phúc Ông – Felice",
+        "B": "Hãy ra khơi",
+        "C": "Đổ máu hòa dâng với hy sinh lễ tế",
+        "D": "Cho chúng con nên một"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Trước khi sang Việt Nam truyền giáo vào năm 1932, Đức Cha Santos Ubierna Ninh đã thụ phong linh mục vào năm nào?",
+      "options": {
+        "A": "Năm 1923",
+        "B": "Năm 1930",
+        "C": "Năm 1942",
+        "D": "Năm 1954"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Nhằm mục đích phổ biến các tài liệu, sách báo Công giáo cho Giáo phận trong thời gian chiến tranh khó khăn, Đức Cha Ubierna Ninh đã thành lập cơ sở nào?",
+      "options": {
+        "A": "Tiểu Chủng viện Thánh Tôma",
+        "B": "Nhà in Đaminh Thái Bình",
+        "C": "Nhà Dục Anh cấp Giáo phận",
+        "D": "Trường Thầy giảng Hưng Yên"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Theo số liệu thống kê đầu năm 1954, tổng số giáo xứ trong Giáo phận Thái Bình đã được nâng lên con số bao nhiêu?",
+      "options": {
+        "A": "11 giáo xứ",
+        "B": "50 giáo xứ",
+        "C": "63 giáo xứ",
+        "D": "552 giáo xứ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "Sau hiệp định Genève, Đức Cha Santos Ubierna Ninh di cư vào miền Nam rồi về thăm quê hương Tây Ban Nha. Ngài qua đời vào ngày 15/4/1955 tại đâu?",
+      "options": {
+        "A": "Thái Bình",
+        "B": "Madrid (Tây Ban Nha)",
+        "C": "Sài Gòn",
+        "D": "Nam Định"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "Ai là vị Giám mục Chính tòa đầu tiên của Giáo phận Thái Bình sau khi Tòa Thánh thiết lập Hàng Giáo Phẩm Việt Nam vào ngày 24/11/1960?",
+      "options": {
+        "A": "Đức Cha Gioan Casado Thuận",
+        "B": "Đức Cha Santos Ubierna Ninh",
+        "C": "Đức Cha Đaminh Maria Đinh Đức Trụ",
+        "D": "Đức Cha Giuse Trịnh Như Khuê"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Khẩu hiệu Giám mục được Đức Cha Đaminh Maria Đinh Đức Trụ lựa chọn cho sứ vụ của mình là gì?",
+      "options": {
+        "A": "Đổ máu hòa dâng với hy sinh lễ tế",
+        "B": "Này là Mẹ con",
+        "C": "Lính tốt của Chúa Kitô",
+        "D": "Cho chúng con nên một"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Khi Đức Cha Ubierna Ninh qua đời, cha Chính Đaminh Maria Đinh Đức Trụ được đặt làm Giám quản Giáo phận. Vào thời điểm đó, Giáo phận Thái Bình còn lại bao nhiêu linh mục?",
+      "options": {
+        "A": "13 linh mục",
+        "B": "21 linh mục",
+        "C": "57 linh mục",
+        "D": "64 linh mục"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Để giải quyết tình trạng thiếu hụt nhân sự trầm trọng sau biến cố di cư năm 1954, Đức Cha Đaminh Maria Đinh Đức Trụ đã có quyết định quan trọng nào vào năm 1956?",
+      "options": {
+        "A": "Xây dựng Nhà in Đaminh Thái Bình",
+        "B": "Mở cửa trở lại Tiểu Chủng viện Mỹ Đức",
+        "C": "Gửi tất cả đại chủng sinh sang Tây Ban Nha học tập",
+        "D": "Thành lập dòng tu mới để nhận thêm tu sĩ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Trong bối cảnh xã hội khó khăn không thể mở trường công khai, Đức Cha Đaminh Maria Đinh Đức Trụ đã đào tạo các tiến chức linh mục bằng hình thức nào?",
+      "options": {
+        "A": "Gửi vào các giáo phận miền Nam học tập",
+        "B": "Âm thầm dạy hàm thụ",
+        "C": "Mời các giáo sư nước ngoài về dạy trực tuyến",
+        "D": "Cho các chủng sinh tự học tại nhà xứ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Đức Cha Đaminh Maria Đinh Đức Trụ đã an nghỉ trong Chúa vào ngày tháng năm nào, sau 22 năm thi hành chức vụ Giám mục Chính tòa?",
+      "options": {
+        "A": "Ngày 30/6/1954",
+        "B": "Ngày 24/11/1960",
+        "C": "Ngày 29/01/1968",
+        "D": "Ngày 07/6/1982"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 38,
+      "question": "Khẩu hiệu Giám mục được Đức Cha Giuse Đinh Bỉnh lựa chọn cho sứ vụ của mình là gì?",
+      "options": {
+        "A": "Lính tốt của Chúa Kitô",
+        "B": "Đổ máu hòa dâng với hy sinh lễ tế",
+        "C": "Này là Mẹ con",
+        "D": "Cho chúng con nên một"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Do tính cách hiền lành, đơn sơ và luôn lấy đức ái làm phương châm cuộc sống, giáo dân đã gọi Đức Cha Giuse Đinh Bỉnh bằng biệt danh gì?",
+      "options": {
+        "A": "Phúc Ông",
+        "B": "Người Kiến Tạ",
+        "C": "Hòa Bình",
+        "D": "Người Thầy Nhân Từ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "Đức Cha Giuse Đinh Bỉnh được tấn phong Giám mục vào ngày 08/12/1979 tại nhà thờ Chính tòa Thái Bình bởi vị chủ phong nào?",
+      "options": {
+        "A": "Đức Hồng Y Giuse Trịnh Văn Căn",
+        "B": "Đức cha Giuse Trịnh Như Khuê",
+        "C": "Đức cha Đaminh Maria Đinh Đức Trụ",
+        "D": "Đức cha Gomez Lễ"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Đức Cha Giuse Đinh Bỉnh đã an nghỉ trong Chúa vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 19/3/1989",
+        "B": "Ngày 14/3/1989",
+        "C": "Ngày 14/3/1990",
+        "D": "Ngày 16/3/1988"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Tòa Thánh bổ nhiệm Đức Hồng y Giuse Maria Trịnh Văn Căn làm Giám quản Giáo phận Thái Bình vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 14/3/1989",
+        "B": "Ngày 05/3/1960",
+        "C": "Ngày 30/10/1979",
+        "D": "Ngày 08/12/1979"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Trong hơn một năm làm Giám quản, Đức Hồng y Giuse Maria Trịnh Văn Căn đã khôi phục hội đoàn nào để kính Đức Mẹ vào tháng Năm?",
+      "options": {
+        "A": "Hội dòng Ba Đaminh",
+        "B": "Hội các Bà Mẹ Công Giá",
+        "C": "Hội Dâng Hoa",
+        "D": "Hội Con Đức Mẹ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Bên cạnh việc chú trọng đời sống đức tin và tổ chức các tuần tĩnh tâm cho linh mục, Đức Hồng y Giuse Maria Trịnh Văn Căn còn lưu tâm đến việc gì?",
+      "options": {
+        "A": "Thành lập các giáo xứ mới hoàn toàn",
+        "B": "Xây dựng thêm một nhà in giáo phận mới",
+        "C": "Trùng tu các nhà thờ trong Giáo phận",
+        "D": "Mở lại Tiểu Chủng viện Mỹ Đức"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Trước khi được bổ nhiệm làm Giám mục Chính tòa Giáo phận Thái Bình vào năm 1990, Đức Cha Phanxicô Xavie Nguyễn Văn Sang từng đảm nhiệm chức vụ gì?",
+      "options": {
+        "A": "Giám mục phó Giáo phận Bùi Chu",
+        "B": "Giám quản Giáo phận Hải Phòng",
+        "C": "Giám mục phụ tá Tổng giáo phận Hà Nội",
+        "D": "Cha bề trên cai quản Giáo phận Thái Bình"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "question": "Khẩu hiệu Giám mục được Đức Cha Phanxicô Xavie Nguyễn Văn Sang lựa chọn cho sứ vụ của mình là gì?",
+      "options": {
+        "A": "Lính tốt của Chúa Kitô",
+        "B": "Chân Lý Trong Tình Thương",
+        "C": "Này là Mẹ con",
+        "D": "Đổ máu hòa dâng với hy sinh lễ tế"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Để kiện toàn nhân sự cho Giáo phận, Đức Cha Phanxicô Xavie Nguyễn Văn Sang đã cho mở lại Chủng viện Thánh Tâm Mỹ Đức vào năm nào?",
+      "options": {
+        "A": "Năm 1981",
+        "B": "Năm 1991",
+        "C": "Năm 1999",
+        "D": "Năm 2008"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 48,
+      "question": "Công trình xây dựng lớn nào của Giáo phận Thái Bình được tái thiết theo kiểu mẫu tân kỳ dưới thời Đức Cha Phanxicô Xavie Nguyễn Văn Sang coi sóc?",
+      "options": {
+        "A": "Nhà thờ Chính tòa Giáo phận Thái Bình",
+        "B": "Nhà in Đaminh Thái Bình",
+        "C": "Trường Thầy giảng Hưng Yên",
+        "D": "Nhà Dục Anh Giáo xứ An Lập"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Đức cha Phanxicô Xavie Nguyễn Văn Sang đã hoàn tất cuộc lữ hành trần thế và về Nhà Cha vào năm 2017, hưởng thọ bao nhiêu tuổi?",
+      "options": {
+        "A": "59 tuổi",
+        "B": "67 tuổi",
+        "C": "73 tuổi",
+        "D": "86 tuổi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "question": "Đức Cha Phê-rô Nguyễn Văn Đệ được truyền chức linh mục vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 25/12/1973",
+        "B": "Ngày 17/12/1973",
+        "C": "Ngày 17/12/1977",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "Đức Cha Phê-rô Nguyễn Văn Đệ được tấn phong Giám mục vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 25/7/2009",
+        "B": "Ngày 18/01/2006",
+        "C": "Ngày 18/01/2005",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Đức Cha Phê-rô Nguyễn Văn Đệ được Đức Giáo Hoàng Bê-nê-đíc-tô XVI bổ nhiệm làm Giám mục chính tòa Giáo phận Thái Bình vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 18/01/2006",
+        "B": "Ngày 17/12/2009",
+        "C": "Ngày 25/7/2009",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Trước khi được bổ nhiệm làm Giám mục Chính tòa Giáo phận Thái Bình, Đức Cha Phêrô Nguyễn Văn Đệ từng đảm nhiệm chức vụ gì?",
+      "options": {
+        "A": "Bề trên Giám Tỉnh Dòng Salesian Don Bosc",
+        "B": "Giám đốc Học viện thần học Salesian Don Bosc",
+        "C": "Giám mục phụ tá Giáo phận Bùi Chu",
+        "D": "Giáo sư Đại Chủng viện Thánh Giuse Hà Nội"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Khẩu hiệu Giám mục được Đức cha Phêrô Nguyễn Văn Đệ lựa chọn cho sứ vụ của mình là gì?",
+      "options": {
+        "A": "Chân Lý Trong Tình Thương",
+        "B": "Lính tốt của Chúa Kitô",
+        "C": "Đổ máu hòa dâng với hy sinh lễ tế",
+        "D": "Xin cho tôi các linh hồn"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "Công trình Đại Chủng viện Thánh Tâm Thái Bình được Đức Cha Phêrô Nguyễn Văn Đệ khởi công xây dựng vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 01/01/2020",
+        "B": "Ngày 25/7/2009",
+        "C": "Ngày 01/9/2009",
+        "D": "Ngày 18/10/2020"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Đại hội người Khuyết tật cấp Giáo phận được Đức cha Phêrô Nguyễn Văn Đệ quan tâm tổ chức hằng năm vào dịp lễ nào?",
+      "options": {
+        "A": "Lễ Phục Sinh",
+        "B": "Lễ Thánh Tâm Chúa Giêsu",
+        "C": "Lễ Kính Đức Mẹ tháng Năm",
+        "D": "Lễ Giáng Sinh"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 57,
+      "question": "Đức Cha Gioan Casado Thuận coi sóc Giáo phận Thái Bình từ năm nào đến năm nào?",
+      "options": {
+        "A": "1942 - 1954",
+        "B": "1936 - 1941",
+        "C": "1954 - 1982",
+        "D": "1982 - 1989"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Đức Cha Santos Ubierna Ninh coi sóc Giáo phận Thái Bình từ năm nào đến năm nào?",
+      "options": {
+        "A": "1936 - 1941",
+        "B": "1954 - 1982",
+        "C": "1942 - 1954",
+        "D": "1982 - 1989"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Đức Cha Đaminh Đinh Đức Trụ coi sóc Giáo phận Thái Bình từ năm nào đến năm nào?",
+      "options": {
+        "A": "1982 - 1989",
+        "B": "1954 - 1982",
+        "C": "1936 - 1941",
+        "D": "1942 - 1954"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Đức Cha Giuse Đinh Bỉnh coi sóc Giáo phận Thái Bình từ năm nào đến năm nào?",
+      "options": {
+        "A": "1982 - 1989",
+        "B": "1936 - 1941",
+        "C": "1942 - 1954",
+        "D": "1954 - 1982"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Đức Hồng y Giuse Maria Trịnh Văn Căn coi sóc Giáo phận Thái Bình từ năm nào đến năm nào?",
+      "options": {
+        "A": "1982 - 1989",
+        "B": "1936 - 1941",
+        "C": "1942 - 1954",
+        "D": "1989 - 1990"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 62,
+      "question": "Đức Cha Phanxicô Xavie Nguyễn Văn Sang coi sóc Giáo phận Thái Bình từ năm nào đến năm nào?",
+      "options": {
+        "A": "1982 - 1989",
+        "B": "1990 - 2009",
+        "C": "1954 - 1982",
+        "D": "1942 - 1954"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Đức Cha Phêrô Nguyễn Văn Đệ coi sóc Giáo phận Thái Bình từ năm nào đến năm nào?",
+      "options": {
+        "A": "1989 - 1990",
+        "B": "1990 - 2009",
+        "C": "2009 - 2022",
+        "D": "1954 - 1982"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Đức Cha Đa Minh Đặng Văn Cầu được truyền chức linh mục vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 17/7/1996",
+        "B": "Ngày 09/3/1996",
+        "C": "Ngày 19/3/1996",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Đức Cha Đa Minh Đặng Văn Cầu được Đức Giáo Hoàng nào bổ nhiệm làm Giám mục chính tòa Giáo phận Thái Bình?",
+      "options": {
+        "A": "Đức Giáo Hoàng Bê-nê-đíc-tô",
+        "B": "Đức Giáo Hoàng Gioan Phao-lô II",
+        "C": "Đức Giáo Hoàng Phan-xi-cô",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "Đức Cha Đa Minh Đặng Văn Cầu được bổ nhiệm làm Giám mục chính tòa Giáo phận Thái Bình vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 29/10/2022",
+        "B": "Ngày 09/3/2022",
+        "C": "Ngày 31/12/2023",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Đức Cha Đa Minh Đặng Văn Cầu được tấn phong Giám mục vào ngày tháng năm nào?",
+      "options": {
+        "A": "Ngày 30/12/2022",
+        "B": "Ngày 31/12/2022",
+        "C": "Ngày 31/12/2023",
+        "D": "Tất cả đều đúng."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Đức Cha Đa Minh Đặng Văn Cầu chọn câu khẩu hiệu cho sứ vụ mục tử của ngài là gì?",
+      "options": {
+        "A": "Chân lý trong tình thương",
+        "B": "Xin cho tôi các linh hồn",
+        "C": "Này con xin đến",
+        "D": "Xin vâng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Ai là vị Giám mục chủ phong trong lễ tấn phong của Đức Cha Đa Minh Đặng Văn Cầu?",
+      "options": {
+        "A": "Đức Cha Giuse Nguyễn Tấn Tước",
+        "B": "Đức Cha Giuse Trần Văn Toản",
+        "C": "Đức Cha Phê-rô Nguyễn Văn Đệ",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Hiện nay (2026), Đức Cha Đa Minh Đặng Văn Cầu đang nắm giữ trọng trách nào trong Hội Đồng Giám mục Việt Nam?",
+      "options": {
+        "A": "Chủ tịch Ủy Ban Giới trẻ",
+        "B": "Chủ tịch Ủy Ban Thánh Nhạc",
+        "C": "Chủ tịch Ủy Ban Giáo lý",
+        "D": "Chủ tịch Ủy Ban Thánh Kinh"
+      },
+      "answer": "B"
+    }
+  ]
+}

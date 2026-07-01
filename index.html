@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta name="description" content="Ôn luyện Kinh Thánh và Lịch Sử Giáo Phận Thái Bình">
+  <meta name="theme-color" content="#080e24">
+  <title>Thi Kinh Thánh – Giáo Phận Thái Bình</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== LOADING ===== -->
+  <div id="loading-screen">
+    <div class="loading-content">
+      <div class="loading-cross">✝</div>
+      <div class="loading-spinner"></div>
+      <p>Đang tải dữ liệu...</p>
+    </div>
+  </div>
+
+  <!-- ===== APP ===== -->
+  <div id="app" class="hidden">
+
+    <!-- ── HOME ── -->
+    <section id="screen-home" class="screen active">
+      <div class="home-header">
+        <div class="home-cross">✝</div>
+        <h1>Thi Kinh Thánh</h1>
+        <p class="home-sub">Giáo Phận Thái Bình</p>
+      </div>
+
+      <!-- Resume banner -->
+      <div id="resume-banner" class="resume-banner hidden">
+        <div class="resume-left">
+          <span class="resume-icon">▶</span>
+          <div>
+            <p class="resume-title">Bài làm đang dở</p>
+            <p id="resume-desc" class="resume-desc"></p>
+          </div>
+        </div>
+        <button id="btn-resume" class="btn-resume">Tiếp tục</button>
+      </div>
+
+      <!-- Groups -->
+      <div class="home-section">
+        <p class="section-label">Chọn nhóm câu hỏi</p>
+        <div class="group-card" id="card-bible" data-group="bible">
+          <div class="gc-icon">✝️</div>
+          <div class="gc-info">
+            <h3>Hoàn Tất Câu Kinh Thánh</h3>
+            <p class="gc-sub" id="sub-bible">Đang tải...</p>
+            <div class="gc-bar"><div class="gc-bar-fill" id="bar-bible"></div></div>
+          </div>
+          <span class="gc-arrow">›</span>
+        </div>
+        <div class="group-card" id="card-sum" data-group="sum">
+          <div class="gc-icon">📖</div>
+          <div class="gc-info">
+            <h3>Kiến Thức Tổng Hợp</h3>
+            <p class="gc-sub" id="sub-sum">Đang tải...</p>
+            <div class="gc-bar"><div class="gc-bar-fill" id="bar-sum"></div></div>
+          </div>
+          <span class="gc-arrow">›</span>
+        </div>
+        <div class="group-card" id="card-his" data-group="his">
+          <div class="gc-icon">⛪</div>
+          <div class="gc-info">
+            <h3>Lược Sử Giáo Phận Thái Bình</h3>
+            <p class="gc-sub" id="sub-his">Đang tải...</p>
+            <div class="gc-bar"><div class="gc-bar-fill" id="bar-his"></div></div>
+          </div>
+          <span class="gc-arrow">›</span>
+        </div>
+      </div>
+
+      <!-- History -->
+      <div id="history-section" class="home-section hidden">
+        <p class="section-label">Lịch sử gần đây</p>
+        <div id="history-list"></div>
+      </div>
+
+      <div class="home-footer">
+        <p>Giáo Phận Thái Bình © 2025</p>
+      </div>
+    </section>
+
+    <!-- ── SETTINGS ── -->
+    <section id="screen-settings" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" id="btn-settings-back">‹ Quay lại</button>
+        <h2 id="settings-title">Cài đặt</h2>
+      </div>
+
+      <div class="settings-body">
+
+        <!-- Mode tabs -->
+        <div class="mode-tabs">
+          <button class="mode-tab active" data-mode="luyen-tap" id="tab-lt">📚 Luyện Tập</button>
+          <button class="mode-tab" data-mode="random" id="tab-rd">🎲 Ngẫu Nhiên</button>
+        </div>
+
+        <!-- ── PANEL: Luyện tập ── -->
+        <div id="panel-lt" class="mode-panel">
+          <div class="mode-card">
+            <p class="mode-card-title">📚 Luyện Tập Toàn Bộ</p>
+            <p id="lt-info" class="mode-card-text"></p>
+          </div>
+
+          <!-- Resume in-settings (if session exists for this group) -->
+          <div id="lt-resume-box" class="lt-resume hidden">
+            <div class="lt-resume-left">
+              <span class="lt-resume-icon">▶</span>
+              <div>
+                <p class="lt-r-title">Bài đang làm dở</p>
+                <p id="lt-resume-text" class="lt-r-sub"></p>
+              </div>
+            </div>
+            <button id="btn-lt-continue" class="btn-resume">Tiếp tục</button>
+          </div>
+
+          <button id="btn-start-lt" class="btn-primary">🚀 Bắt Đầu Từ Đầu</button>
+        </div>
+
+        <!-- ── PANEL: Ngẫu nhiên ── -->
+        <div id="panel-rd" class="mode-panel hidden">
+          <div class="mode-card">
+            <p class="mode-card-title">🎲 Thi Ngẫu Nhiên</p>
+            <p class="mode-card-text">Chọn ngẫu nhiên N câu từ ngân hàng. <strong>Kết quả không được lưu lại</strong> – thoát là mất.</p>
+          </div>
+
+          <div class="setting-block">
+            <p class="setting-label">Số câu hỏi</p>
+            <div class="pills" id="count-pills">
+              <button class="pill active" data-val="10">10 câu</button>
+              <button class="pill" data-val="20">20 câu</button>
+              <button class="pill" data-val="50">50 câu</button>
+              <button class="pill" data-val="100">100 câu</button>
+            </div>
+          </div>
+
+          <div class="info-card" id="rd-info"></div>
+
+          <button id="btn-start-rd" class="btn-primary rd-btn">🎲 Bắt Đầu Ngẫu Nhiên</button>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ── QUIZ ── -->
+    <section id="screen-quiz" class="screen">
+      <div class="quiz-top">
+        <button id="btn-quit" class="btn-icon" title="Thoát">✕</button>
+        <div class="quiz-meta">
+          <span id="quiz-counter">Câu 1/10</span>
+          <span id="quiz-live-score" class="score-live">✓ 0</span>
+        </div>
+      </div>
+
+      <div class="prog-wrap">
+        <div class="prog-bar"><div id="prog-fill" class="prog-fill"></div></div>
+      </div>
+
+      <div class="quiz-body">
+        <div class="question-card">
+          <p id="q-number" class="q-number"></p>
+          <p id="q-text" class="q-text"></p>
+        </div>
+
+        <div id="options" class="options"></div>
+
+        <div id="feedback" class="feedback hidden"></div>
+
+        <button id="btn-next" class="btn-primary hidden">Câu tiếp theo →</button>
+      </div>
+    </section>
+
+    <!-- ── RESULT ── -->
+    <section id="screen-result" class="screen">
+      <div class="result-wrap">
+        <div id="result-emoji" class="res-emoji"></div>
+        <h2 id="result-title" class="res-title"></h2>
+
+        <div class="ring-wrap">
+          <svg viewBox="0 0 120 120" class="ring-svg">
+            <circle cx="60" cy="60" r="50" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="10"/>
+            <circle id="ring-arc" cx="60" cy="60" r="50" fill="none" stroke="#f0c040"
+              stroke-width="10" stroke-linecap="round"
+              stroke-dasharray="314.159" stroke-dashoffset="314.159"
+              transform="rotate(-90 60 60)"/>
+          </svg>
+          <div class="ring-center">
+            <span id="res-score" class="res-score-num">0</span>
+            <span id="res-denom" class="res-score-den">/10</span>
+          </div>
+        </div>
+
+        <div class="res-stats">
+          <div class="res-stat ok">
+            <span>✓</span><span id="stat-ok">0 đúng</span>
+          </div>
+          <div class="res-stat err">
+            <span>✗</span><span id="stat-err">0 sai</span>
+          </div>
+          <div class="res-stat tm">
+            <span>⏱</span><span id="stat-time">—</span>
+          </div>
+        </div>
+
+        <div class="res-actions">
+          <button id="btn-review" class="btn-secondary">📋 Xem lại câu sai</button>
+          <button id="btn-retry" class="btn-primary">🔄 Làm lại</button>
+          <button id="btn-home-from-result" class="btn-text">⬅ Trang chủ</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── REVIEW ── -->
+    <section id="screen-review" class="screen">
+      <div class="screen-header">
+        <button id="btn-review-back" class="btn-back">‹ Kết quả</button>
+        <h2>Xem lại câu sai</h2>
+      </div>
+      <div id="review-list" class="review-list"></div>
+    </section>
+
+  </div><!-- /#app -->
+
+  <!-- Quit Modal -->
+  <div id="modal-quit" class="modal-bg hidden">
+    <div class="modal">
+      <h3>Dừng bài làm?</h3>
+      <p>Tiến trình sẽ được lưu. Bạn có thể vào lại tiếp tục sau.</p>
+      <div class="modal-btns">
+        <button id="modal-cancel" class="btn-secondary">Tiếp tục làm</button>
+        <button id="modal-quit-ok" class="btn-danger">Dừng & Lưu</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
