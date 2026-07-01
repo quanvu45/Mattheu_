@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
@@ -11,6 +12,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
   <!-- ===== LOADING ===== -->
@@ -45,33 +47,83 @@
         <button id="btn-resume" class="btn-resume">Tiếp tục</button>
       </div>
 
-      <!-- Groups -->
+      <!-- Groups: Giới trẻ, thiếu nhi -->
       <div class="home-section">
-        <p class="section-label">Chọn nhóm câu hỏi</p>
-        <div class="group-card" id="card-bible" data-group="bible">
-          <div class="gc-icon">✝️</div>
-          <div class="gc-info">
-            <h3>Hoàn Tất Câu Kinh Thánh</h3>
-            <p class="gc-sub" id="sub-bible">Đang tải...</p>
-            <div class="gc-bar"><div class="gc-bar-fill" id="bar-bible"></div></div>
-          </div>
-          <span class="gc-arrow">›</span>
-        </div>
+        <p class="section-label">Giới trẻ, thiếu nhi</p>
+        
         <div class="group-card" id="card-sum" data-group="sum">
           <div class="gc-icon">📖</div>
           <div class="gc-info">
             <h3>Kiến Thức Tổng Hợp</h3>
             <p class="gc-sub" id="sub-sum">Đang tải...</p>
-            <div class="gc-bar"><div class="gc-bar-fill" id="bar-sum"></div></div>
+            <div class="gc-bar">
+              <div class="gc-bar-fill" id="bar-sum"></div>
+            </div>
           </div>
           <span class="gc-arrow">›</span>
         </div>
+
+        <div class="group-card" id="card-bible" data-group="bible">
+          <div class="gc-icon">✝️</div>
+          <div class="gc-info">
+            <h3>Hoàn Tất Câu Kinh Thánh</h3>
+            <p class="gc-sub" id="sub-bible">Đang tải...</p>
+            <div class="gc-bar">
+              <div class="gc-bar-fill" id="bar-bible"></div>
+            </div>
+          </div>
+          <span class="gc-arrow">›</span>
+        </div>
+
         <div class="group-card" id="card-his" data-group="his">
           <div class="gc-icon">⛪</div>
           <div class="gc-info">
             <h3>Lược Sử Giáo Phận Thái Bình</h3>
             <p class="gc-sub" id="sub-his">Đang tải...</p>
-            <div class="gc-bar"><div class="gc-bar-fill" id="bar-his"></div></div>
+            <div class="gc-bar">
+              <div class="gc-bar-fill" id="bar-his"></div>
+            </div>
+          </div>
+          <span class="gc-arrow">›</span>
+        </div>
+      </div>
+
+      <!-- Groups: Gia trưởng, hiền mẫu -->
+      <div class="home-section" style="margin-top: 1.5rem;">
+        <p class="section-label">Gia trưởng, hiền mẫu</p>
+
+        <div class="group-card" id="card-sum1" data-group="sum1">
+          <div class="gc-icon">📖</div>
+          <div class="gc-info">
+            <h3>Kiến Thức Tổng Hợp</h3>
+            <p class="gc-sub" id="sub-sum1">Đang tải...</p>
+            <div class="gc-bar">
+              <div class="gc-bar-fill" id="bar-sum1"></div>
+            </div>
+          </div>
+          <span class="gc-arrow">›</span>
+        </div>
+        
+        <div class="group-card" id="card-sum2" data-group="sum2">
+          <div class="gc-icon">✝️</div>
+          <div class="gc-info">
+            <h3>Hoàn Tất Câu Kinh Thánh</h3>
+            <p class="gc-sub" id="sub-sum2">Đang tải...</p>
+            <div class="gc-bar">
+              <div class="gc-bar-fill" id="bar-sum2"></div>
+            </div>
+          </div>
+          <span class="gc-arrow">›</span>
+        </div>
+
+        <div class="group-card" id="card-sum3" data-group="sum3">
+          <div class="gc-icon">⛪</div>
+          <div class="gc-info">
+            <h3>Lược Sử Giáo Phận Thái Bình</h3>
+            <p class="gc-sub" id="sub-sum3">Đang tải...</p>
+            <div class="gc-bar">
+              <div class="gc-bar-fill" id="bar-sum3"></div>
+            </div>
           </div>
           <span class="gc-arrow">›</span>
         </div>
@@ -129,7 +181,8 @@
         <div id="panel-rd" class="mode-panel hidden">
           <div class="mode-card">
             <p class="mode-card-title">🎲 Thi Ngẫu Nhiên</p>
-            <p class="mode-card-text">Chọn ngẫu nhiên N câu từ ngân hàng. <strong>Kết quả không được lưu lại</strong> – thoát là mất.</p>
+            <p class="mode-card-text">Chọn ngẫu nhiên N câu từ ngân hàng. <strong>Kết quả không được lưu lại</strong> –
+              thoát là mất.</p>
           </div>
 
           <div class="setting-block">
@@ -161,7 +214,9 @@
       </div>
 
       <div class="prog-wrap">
-        <div class="prog-bar"><div id="prog-fill" class="prog-fill"></div></div>
+        <div class="prog-bar">
+          <div id="prog-fill" class="prog-fill"></div>
+        </div>
       </div>
 
       <div class="quiz-body">
@@ -186,11 +241,10 @@
 
         <div class="ring-wrap">
           <svg viewBox="0 0 120 120" class="ring-svg">
-            <circle cx="60" cy="60" r="50" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="10"/>
-            <circle id="ring-arc" cx="60" cy="60" r="50" fill="none" stroke="#f0c040"
-              stroke-width="10" stroke-linecap="round"
-              stroke-dasharray="314.159" stroke-dashoffset="314.159"
-              transform="rotate(-90 60 60)"/>
+            <circle cx="60" cy="60" r="50" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="10" />
+            <circle id="ring-arc" cx="60" cy="60" r="50" fill="none" stroke="#f0c040" stroke-width="10"
+              stroke-linecap="round" stroke-dasharray="314.159" stroke-dashoffset="314.159"
+              transform="rotate(-90 60 60)" />
           </svg>
           <div class="ring-center">
             <span id="res-score" class="res-score-num">0</span>
@@ -243,4 +297,5 @@
 
   <script src="app.js"></script>
 </body>
+
 </html>

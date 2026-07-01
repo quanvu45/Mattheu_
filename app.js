@@ -9,103 +9,106 @@
 
 // ── META ──────────────────────────────────────────────────────
 const META = {
-  bible: { id: 'bible', name: 'Hoàn Tất Câu Kinh Thánh',      short: 'Kinh Thánh', icon: '✝️' },
-  sum:   { id: 'sum',   name: 'Kiến Thức Tổng Hợp',            short: 'Tổng Hợp',  icon: '📖' },
-  his:   { id: 'his',   name: 'Lược Sử Giáo Phận Thái Bình',   short: 'Lịch Sử',   icon: '⛪' },
+  bible: { id: 'bible', name: 'Hoàn Tất Câu Kinh Thánh', short: 'Kinh Thánh', icon: '✝️' },
+  sum: { id: 'sum', name: 'Kiến Thức Tổng Hợp', short: 'Tổng Hợp', icon: '📖' },
+  his: { id: 'his', name: 'Lược Sử Giáo Phận Thái Bình', short: 'Lịch Sử', icon: '⛪' },
+  sum1: { id: 'sum1', name: 'Kiến Thức Tổng Hợp', short: 'Tổng Hợp', icon: '📖' },
+  sum2: { id: 'sum2', name: 'Hoàn Tất Câu Kinh Thánh', short: 'Kinh Thánh', icon: '✝️' },
+  sum3: { id: 'sum3', name: 'Lược Sử Giáo Phận Thái Bình', short: 'Lịch Sử', icon: '⛪' },
 };
 
 const PASS_PCT = 70;
 
 // ── LOCAL STORAGE (only used for luyen-tap mode) ──────────────
 const LS = {
-  K_SESSION : 'tkttb_session',
-  K_HISTORY : 'tkttb_history',
-  K_STATS   : 'tkttb_stats',
-  K_LASTRES : 'tkttb_lastresult',
+  K_SESSION: 'tkttb_session',
+  K_HISTORY: 'tkttb_history',
+  K_STATS: 'tkttb_stats',
+  K_LASTRES: 'tkttb_lastresult',
 
-  get(k)    { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
-  set(k,v)  { localStorage.setItem(k, JSON.stringify(v)); },
-  del(k)    { localStorage.removeItem(k); },
+  get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
+  set(k, v) { localStorage.setItem(k, JSON.stringify(v)); },
+  del(k) { localStorage.removeItem(k); },
 
-  saveSession(s)   { this.set(this.K_SESSION, s); },
-  loadSession()    { return this.get(this.K_SESSION); },
-  clearSession()   { this.del(this.K_SESSION); },
+  saveSession(s) { this.set(this.K_SESSION, s); },
+  loadSession() { return this.get(this.K_SESSION); },
+  clearSession() { this.del(this.K_SESSION); },
 
-  getHistory()     { return this.get(this.K_HISTORY) || []; },
-  pushHistory(e)   { const h=this.getHistory(); h.unshift(e); this.set(this.K_HISTORY, h.slice(0,30)); },
+  getHistory() { return this.get(this.K_HISTORY) || []; },
+  pushHistory(e) { const h = this.getHistory(); h.unshift(e); this.set(this.K_HISTORY, h.slice(0, 30)); },
 
-  getStats()       { return this.get(this.K_STATS) || {}; },
+  getStats() { return this.get(this.K_STATS) || {}; },
   updateStats(gid, answeredIds, correctIds) {
     const s = this.getStats();
-    if (!s[gid]) s[gid] = { answered:{}, correct:{} };
+    if (!s[gid]) s[gid] = { answered: {}, correct: {} };
     answeredIds.forEach(id => { s[gid].answered[id] = true; });
-    correctIds .forEach(id => { s[gid].correct [id] = true; });
+    correctIds.forEach(id => { s[gid].correct[id] = true; });
     this.set(this.K_STATS, s);
   },
-  getGroupStats(gid) { const s=this.getStats(); return s[gid]||{answered:{},correct:{}}; },
+  getGroupStats(gid) { const s = this.getStats(); return s[gid] || { answered: {}, correct: {} }; },
 
   saveLastResult(r) { this.set(this.K_LASTRES, r); },
-  loadLastResult()  { return this.get(this.K_LASTRES); },
+  loadLastResult() { return this.get(this.K_LASTRES); },
 };
 
 // ── APP STATE ──────────────────────────────────────────────────
 const App = {
-  data:       {},    // { bible:[...], sum:[...], his:[...] }
-  session:    null,  // active session
+  data: {},    // { bible:[...], sum:[...], his:[...] }
+  session: null,  // active session
   lastResult: null,  // for review screen
 
   cfg: {
     groupId: null,
-    mode:    'luyen-tap',   // 'luyen-tap' | 'random'
-    count:   10,            // only used for random mode
+    mode: 'luyen-tap',   // 'luyen-tap' | 'random'
+    count: 10,            // only used for random mode
   },
 };
 
 // ── DATA LOADING ───────────────────────────────────────────────
 async function loadData() {
   try {
-    await Promise.all(['bible','sum','his'].map(async id => {
+    await Promise.all(['bible', 'sum', 'his', 'sum1', 'sum2', 'sum3'].map(async id => {
       const r = await fetch(`data/${id}.json`);
       if (!r.ok) throw new Error(`HTTP ${r.status} for ${id}.json`);
       const j = await r.json();
       App.data[id] = j.questions || [];
     }));
     return true;
-  } catch(e) { console.error('Load error:', e); return false; }
+  } catch (e) { console.error('Load error:', e); return false; }
 }
 
 // ── UTILITIES ──────────────────────────────────────────────────
 function shuffle(arr) {
   const a = [...arr];
-  for (let i=a.length-1; i>0; i--) {
-    const j = Math.floor(Math.random()*(i+1));
-    [a[i],a[j]] = [a[j],a[i]];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
 }
-function easeOut(t) { return 1-Math.pow(1-t,3); }
-function animNum(el, from, to, ms=800) {
+function easeOut(t) { return 1 - Math.pow(1 - t, 3); }
+function animNum(el, from, to, ms = 800) {
   const t0 = Date.now();
   const tick = () => {
-    const p = Math.min((Date.now()-t0)/ms, 1);
-    el.textContent = Math.round(from+(to-from)*easeOut(p));
-    if (p<1) requestAnimationFrame(tick);
+    const p = Math.min((Date.now() - t0) / ms, 1);
+    el.textContent = Math.round(from + (to - from) * easeOut(p));
+    if (p < 1) requestAnimationFrame(tick);
   };
   requestAnimationFrame(tick);
 }
-function fmtTime(s) { const m=Math.floor(s/60),r=s%60; return m>0?`${m} phút ${r} giây`:`${r} giây`; }
+function fmtTime(s) { const m = Math.floor(s / 60), r = s % 60; return m > 0 ? `${m} phút ${r} giây` : `${r} giây`; }
 function fmtDate(iso) {
   const d = new Date(iso);
-  return d.toLocaleDateString('vi-VN',{day:'2-digit',month:'2-digit',year:'numeric'})
-        +' '+d.toLocaleTimeString('vi-VN',{hour:'2-digit',minute:'2-digit'});
+  return d.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric' })
+    + ' ' + d.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' });
 }
 function $(id) { return document.getElementById(id); }
 
 // ── SCREEN SWITCHING ───────────────────────────────────────────
 function showScreen(name) {
-  document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   $(`screen-${name}`).classList.add('active');
-  window.scrollTo(0,0);
+  window.scrollTo(0, 0);
 }
 
 // ══════════════════════════════════════════════════════════════
@@ -116,10 +119,10 @@ function renderHome() {
   const saved = LS.loadSession();
   if (saved && App.data[saved.groupId]) {
     App.session = saved;
-    const m   = META[saved.groupId];
+    const m = META[saved.groupId];
     const rem = saved.questionIds.length - saved.currentIndex;
     $('resume-desc').textContent =
-      `${m.short} · Câu ${saved.currentIndex+1}/${saved.questionIds.length} (còn ${rem} câu)`;
+      `${m.short} · Câu ${saved.currentIndex + 1}/${saved.questionIds.length} (còn ${rem} câu)`;
     $('resume-banner').classList.remove('hidden');
   } else {
     $('resume-banner').classList.add('hidden');
@@ -127,13 +130,13 @@ function renderHome() {
   }
 
   // Group card progress (only meaningful for luyen-tap)
-  ['bible','sum','his'].forEach(gid => {
-    const qs    = App.data[gid] || [];
+  ['bible', 'sum', 'his', 'sum1', 'sum2', 'sum3'].forEach(gid => {
+    const qs = App.data[gid] || [];
     const stats = LS.getGroupStats(gid);
-    const done  = Object.keys(stats.answered).length;
-    const pct   = qs.length ? (done/qs.length)*100 : 0;
-    $(`sub-${gid}`)  .textContent = `${done} / ${qs.length} câu đã luyện tập`;
-    $(`bar-${gid}`)  .style.width = `${pct}%`;
+    const done = Object.keys(stats.answered).length;
+    const pct = qs.length ? (done / qs.length) * 100 : 0;
+    $(`sub-${gid}`).textContent = `${done} / ${qs.length} câu đã luyện tập`;
+    $(`bar-${gid}`).style.width = `${pct}%`;
   });
 
   renderHistory();
@@ -143,16 +146,16 @@ function renderHistory() {
   const h = LS.getHistory();
   if (!h.length) { $('history-section').classList.add('hidden'); return; }
   $('history-section').classList.remove('hidden');
-  $('history-list').innerHTML = h.slice(0,6).map(e => {
-    const m  = META[e.groupId] || {};
+  $('history-list').innerHTML = h.slice(0, 6).map(e => {
+    const m = META[e.groupId] || {};
     const ok = e.pct >= PASS_PCT;
     return `
       <div class="history-item">
         <div>
-          <p class="hi-group">${m.icon||''} ${m.short||e.groupId}</p>
+          <p class="hi-group">${m.icon || ''} ${m.short || e.groupId}</p>
           <p class="hi-date">${fmtDate(e.date)}</p>
         </div>
-        <span class="hi-score ${ok?'ok':'err'}">${e.score}/${e.total} (${e.pct}%)</span>
+        <span class="hi-score ${ok ? 'ok' : 'err'}">${e.score}/${e.total} (${e.pct}%)</span>
       </div>`;
   }).join('');
 }
@@ -162,10 +165,10 @@ function renderHistory() {
 // ══════════════════════════════════════════════════════════════
 function openSettings(groupId) {
   App.cfg.groupId = groupId;
-  App.cfg.mode    = 'luyen-tap';
-  App.cfg.count   = 10;
+  App.cfg.mode = 'luyen-tap';
+  App.cfg.count = 10;
 
-  const m  = META[groupId];
+  const m = META[groupId];
   const qs = App.data[groupId] || [];
   $('settings-title').textContent = `${m.icon} ${m.short}`;
 
@@ -205,7 +208,7 @@ function refreshLtResume(groupId) {
   if (saved && saved.groupId === groupId && saved.mode === 'luyen-tap') {
     const rem = saved.questionIds.length - saved.currentIndex;
     $('lt-resume-text').textContent =
-      `Câu ${saved.currentIndex+1}/${saved.questionIds.length} · còn ${rem} câu`;
+      `Câu ${saved.currentIndex + 1}/${saved.questionIds.length} · còn ${rem} câu`;
     box.classList.remove('hidden');
     $('btn-start-lt').textContent = '🔄 Bắt Đầu Lại Từ Đầu';
   } else {
@@ -221,7 +224,7 @@ function setPillActive(containerId, val) {
 
 function updateRandomInfo() {
   const qs = App.data[App.cfg.groupId] || [];
-  const n  = Math.min(App.cfg.count, qs.length);
+  const n = Math.min(App.cfg.count, qs.length);
   $('rd-info').textContent =
     `Sẽ chọn ngẫu nhiên ${n} câu từ ${qs.length} câu trong nhóm. Kết quả không lưu.`;
 }
@@ -237,29 +240,29 @@ function buildSession(mode) {
   if (mode === 'luyen-tap') {
     // All questions, sequential order
     return {
-      id:           Date.now().toString(),
+      id: Date.now().toString(),
       groupId,
-      mode:         'luyen-tap',
-      questionIds:  qs.map(q=>q.id),
+      mode: 'luyen-tap',
+      questionIds: qs.map(q => q.id),
       currentIndex: 0,
-      answers:      {},
-      correct:      [],
-      wrong:        [],
-      startTime:    Date.now(),
+      answers: {},
+      correct: [],
+      wrong: [],
+      startTime: Date.now(),
     };
   } else {
     // Random N questions, ephemeral
     const pool = shuffle(qs).slice(0, Math.min(count, qs.length));
     return {
-      id:           Date.now().toString(),
+      id: Date.now().toString(),
       groupId,
-      mode:         'random',
-      questionIds:  pool.map(q=>q.id),
+      mode: 'random',
+      questionIds: pool.map(q => q.id),
       currentIndex: 0,
-      answers:      {},
-      correct:      [],
-      wrong:        [],
-      startTime:    Date.now(),
+      answers: {},
+      correct: [],
+      wrong: [],
+      startTime: Date.now(),
     };
   }
 }
@@ -305,23 +308,23 @@ function startRandom() {
 function renderQuestion() {
   const { session } = App;
   const total = session.questionIds.length;
-  const idx   = session.currentIndex;
-  const qId   = session.questionIds[idx];
-  const q     = App.data[session.groupId].find(x=>x.id===qId);
+  const idx = session.currentIndex;
+  const qId = session.questionIds[idx];
+  const q = App.data[session.groupId].find(x => x.id === qId);
 
   if (!q) { finishQuiz(); return; }
 
   // Badge: show mode in counter
-  const modeBadge = session.mode==='random' ? ' 🎲' : '';
-  $('quiz-counter').textContent   = `Câu ${idx+1} / ${total}${modeBadge}`;
+  const modeBadge = session.mode === 'random' ? ' 🎲' : '';
+  $('quiz-counter').textContent = `Câu ${idx + 1} / ${total}${modeBadge}`;
   $('quiz-live-score').textContent = `✓ ${session.correct.length}`;
-  $('prog-fill').style.width = `${(idx/total)*100}%`;
+  $('prog-fill').style.width = `${(idx / total) * 100}%`;
 
-  $('q-number').textContent = `Câu ${idx+1}`;
-  $('q-text').textContent   = q.question;
+  $('q-number').textContent = `Câu ${idx + 1}`;
+  $('q-text').textContent = q.question;
 
   // Render options
-  const opts = ['A','B','C','D'].filter(l => q.options[l]!==undefined && q.options[l]!=='');
+  const opts = ['A', 'B', 'C', 'D'].filter(l => q.options[l] !== undefined && q.options[l] !== '');
   $('options').innerHTML = opts.map(l => `
     <button class="opt-btn" data-letter="${l}" onclick="selectAnswer('${l}')">
       <span class="opt-letter">${l}</span>
@@ -339,14 +342,14 @@ function renderQuestion() {
 function selectAnswer(chosen) {
   const { session } = App;
   const qId = session.questionIds[session.currentIndex];
-  const q   = App.data[session.groupId].find(x=>x.id===qId);
+  const q = App.data[session.groupId].find(x => x.id === qId);
 
   if (session.answers[qId] !== undefined) return; // already answered
 
   const isOk = chosen === q.answer;
   session.answers[qId] = chosen;
   if (isOk) { if (!session.correct.includes(qId)) session.correct.push(qId); }
-  else       { if (!session.wrong  .includes(qId)) session.wrong  .push(qId); }
+  else { if (!session.wrong.includes(qId)) session.wrong.push(qId); }
 
   // Persist only for luyện tập
   if (session.mode === 'luyen-tap') LS.saveSession(session);
@@ -372,7 +375,7 @@ function selectAnswer(chosen) {
   $('quiz-live-score').textContent = `✓ ${session.correct.length}`;
 
   // Next button
-  const isLast = session.currentIndex >= session.questionIds.length-1;
+  const isLast = session.currentIndex >= session.questionIds.length - 1;
   const btn = $('btn-next');
   btn.textContent = isLast ? '📊 Xem Kết Quả' : 'Câu tiếp theo →';
   btn.classList.remove('hidden');
@@ -387,25 +390,25 @@ function goNext() {
     finishQuiz();
   } else {
     renderQuestion();
-    window.scrollTo(0,0);
+    window.scrollTo(0, 0);
   }
 }
 
 // ── Finish quiz ────────────────────────────────────────────────
 function finishQuiz() {
   const { session } = App;
-  const elapsed = Math.round((Date.now()-session.startTime)/1000);
-  const score   = session.correct.length;
-  const total   = session.questionIds.length;
-  const pct     = total ? Math.round((score/total)*100) : 0;
+  const elapsed = Math.round((Date.now() - session.startTime) / 1000);
+  const score = session.correct.length;
+  const total = session.questionIds.length;
+  const pct = total ? Math.round((score / total) * 100) : 0;
 
   const snapshot = {
-    groupId:     session.groupId,
-    mode:        session.mode,
+    groupId: session.groupId,
+    mode: session.mode,
     questionIds: session.questionIds,
-    answers:     session.answers,
-    correct:     session.correct,
-    wrong:       session.wrong,
+    answers: session.answers,
+    correct: session.correct,
+    wrong: session.wrong,
     score, total, pct, elapsed,
   };
 
@@ -413,7 +416,7 @@ function finishQuiz() {
 
   if (session.mode === 'luyen-tap') {
     // Persist history, stats, last result
-    LS.pushHistory({ groupId:session.groupId, score, total, pct, elapsed, date:new Date().toISOString() });
+    LS.pushHistory({ groupId: session.groupId, score, total, pct, elapsed, date: new Date().toISOString() });
     LS.updateStats(session.groupId, session.questionIds, session.correct);
     LS.clearSession();
     LS.saveLastResult(snapshot);
@@ -431,28 +434,28 @@ function finishQuiz() {
 function renderResult(r) {
   const { score, total, pct, elapsed, mode } = r;
   let emoji, title;
-  if (pct===100)        { emoji='🏆'; title='Xuất sắc!'; }
-  else if (pct>=90)     { emoji='🌟'; title='Tuyệt vời!'; }
-  else if (pct>=80)     { emoji='⭐'; title='Giỏi lắm!'; }
-  else if (pct>=PASS_PCT){ emoji='👍'; title='Đạt yêu cầu!'; }
-  else if (pct>=50)     { emoji='📚'; title='Cần ôn thêm!'; }
-  else                  { emoji='🙏'; title='Hãy cố gắng hơn!'; }
+  if (pct === 100) { emoji = '🏆'; title = 'Xuất sắc!'; }
+  else if (pct >= 90) { emoji = '🌟'; title = 'Tuyệt vời!'; }
+  else if (pct >= 80) { emoji = '⭐'; title = 'Giỏi lắm!'; }
+  else if (pct >= PASS_PCT) { emoji = '👍'; title = 'Đạt yêu cầu!'; }
+  else if (pct >= 50) { emoji = '📚'; title = 'Cần ôn thêm!'; }
+  else { emoji = '🙏'; title = 'Hãy cố gắng hơn!'; }
 
   $('result-emoji').textContent = emoji;
   $('result-title').textContent = title;
-  $('res-denom').textContent    = `/${total}`;
-  $('stat-ok') .textContent     = `${score} câu đúng`;
-  $('stat-err').textContent     = `${total-score} câu sai`;
-  $('stat-time').textContent    = fmtTime(elapsed);
+  $('res-denom').textContent = `/${total}`;
+  $('stat-ok').textContent = `${score} câu đúng`;
+  $('stat-err').textContent = `${total - score} câu sai`;
+  $('stat-time').textContent = fmtTime(elapsed);
 
   // Mode badge under score
-  const modeLbl = mode==='random'
+  const modeLbl = mode === 'random'
     ? '<span style="color:var(--text3);font-size:.8rem;display:block;margin-top:.3rem">🎲 Kết quả không được lưu</span>'
     : '';
   // Inject after title (if element exists, skip if not)
   const afterTitle = $('result-title');
   const existingBadge = afterTitle.nextElementSibling;
-  if (existingBadge && existingBadge.id==='mode-badge') existingBadge.remove();
+  if (existingBadge && existingBadge.id === 'mode-badge') existingBadge.remove();
   if (modeLbl) {
     afterTitle.insertAdjacentHTML('afterend', `<div id="mode-badge">${modeLbl}</div>`);
   }
@@ -464,11 +467,11 @@ function renderResult(r) {
   const C = 314.159;
   setTimeout(() => {
     ring.style.transition = 'stroke-dashoffset 1.2s ease';
-    ring.style.strokeDashoffset = C-(pct/100)*C;
+    ring.style.strokeDashoffset = C - (pct / 100) * C;
   }, 200);
 
   // Review button: show if there are wrong answers
-  $('btn-review').style.display = (r.wrong && r.wrong.length>0) ? '' : 'none';
+  $('btn-review').style.display = (r.wrong && r.wrong.length > 0) ? '' : 'none';
 }
 
 // ══════════════════════════════════════════════════════════════
@@ -482,13 +485,13 @@ function renderReview() {
   const groupData = App.data[r.groupId] || [];
 
   const wrongItems = r.questionIds
-    .map((qId,idx) => {
-      const q      = groupData.find(x=>x.id===qId);
+    .map((qId, idx) => {
+      const q = groupData.find(x => x.id === qId);
       const chosen = r.answers[qId];
-      const isOk   = q && chosen===q.answer;
+      const isOk = q && chosen === q.answer;
       return { idx, q, chosen, isOk };
     })
-    .filter(x=>x.q && !x.isOk);
+    .filter(x => x.q && !x.isOk);
 
   if (!wrongItems.length) {
     $('review-list').innerHTML = `
@@ -498,12 +501,12 @@ function renderReview() {
   } else {
     $('review-list').innerHTML = wrongItems.map(({ idx, q, chosen }) => `
       <div class="rev-item">
-        <p class="rev-num">Câu ${idx+1}</p>
+        <p class="rev-num">Câu ${idx + 1}</p>
         <p class="rev-q">${q.question}</p>
         <div class="rev-ans">
           ${chosen
-            ? `<div class="rev-a wrong">✗ Bạn chọn ${chosen}: ${q.options[chosen]||''}</div>`
-            : `<div class="rev-a wrong">✗ Bỏ qua</div>`}
+        ? `<div class="rev-a wrong">✗ Bạn chọn ${chosen}: ${q.options[chosen] || ''}</div>`
+        : `<div class="rev-a wrong">✗ Bỏ qua</div>`}
           <div class="rev-a right">✓ Đúng: ${q.answer} – ${q.options[q.answer]}</div>
         </div>
       </div>`).join('');
@@ -515,8 +518,8 @@ function renderReview() {
 // ══════════════════════════════════════════════════════════════
 //  QUIT MODAL
 // ══════════════════════════════════════════════════════════════
-function showQuitModal()  { $('modal-quit').classList.remove('hidden'); }
-function hideQuitModal()  { $('modal-quit').classList.add('hidden'); }
+function showQuitModal() { $('modal-quit').classList.remove('hidden'); }
+function hideQuitModal() { $('modal-quit').classList.add('hidden'); }
 function confirmQuit() {
   hideQuitModal();
   // Session already persisted (or ephemeral for random) — just go home
@@ -545,7 +548,7 @@ function bindEvents() {
   document.querySelectorAll('.mode-tab').forEach(tab =>
     tab.addEventListener('click', () => {
       activateModeTab(tab.dataset.mode);
-      if (tab.dataset.mode==='luyen-tap') refreshLtResume(App.cfg.groupId);
+      if (tab.dataset.mode === 'luyen-tap') refreshLtResume(App.cfg.groupId);
     }));
 
   // Settings: luyện tập – start fresh
@@ -573,9 +576,9 @@ function bindEvents() {
   $('btn-quit').addEventListener('click', showQuitModal);
 
   // Modal
-  $('modal-cancel')  .addEventListener('click', hideQuitModal);
-  $('modal-quit-ok') .addEventListener('click', confirmQuit);
-  $('modal-quit')    .addEventListener('click', e => { if (e.target===$('modal-quit')) hideQuitModal(); });
+  $('modal-cancel').addEventListener('click', hideQuitModal);
+  $('modal-quit-ok').addEventListener('click', confirmQuit);
+  $('modal-quit').addEventListener('click', e => { if (e.target === $('modal-quit')) hideQuitModal(); });
 
   // Result: review wrong
   $('btn-review').addEventListener('click', renderReview);
