@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <meta name="description" content="Ôn luyện Kinh Thánh và Lịch Sử Giáo Phận Thái Bình">
   <meta name="theme-color" content="#080e24">
-  <title>Thi Kinh Thánh – Giáo Phận Thái Bình</title>
+  <title>Học hỏi Tin Mừng theo Thánh Mát-thêu – Giáo Phận Thái Bình</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
@@ -31,101 +31,34 @@
     <section id="screen-home" class="screen active">
       <div class="home-header">
         <div class="home-cross">✝</div>
-        <h1>Thi Kinh Thánh</h1>
+        <h1>Học hỏi Tin Mừng theo Thánh Mát-thêu</h1>
         <p class="home-sub">Giáo Phận Thái Bình</p>
       </div>
 
-      <!-- Resume banner -->
-      <div id="resume-banner" class="resume-banner hidden">
-        <div class="resume-left">
-          <span class="resume-icon">▶</span>
-          <div>
-            <p class="resume-title">Bài làm đang dở</p>
-            <p id="resume-desc" class="resume-desc"></p>
-          </div>
-        </div>
-        <button id="btn-resume" class="btn-resume">Tiếp tục</button>
-      </div>
+      <!-- Resume banner removed in favor of per-card resume -->
 
-      <!-- Groups: Giới trẻ, thiếu nhi -->
+      <!-- Bộ đề selection -->
       <div class="home-section">
-        <p class="section-label">Giới trẻ, thiếu nhi</p>
-        
-        <div class="group-card" id="card-sum" data-group="sum">
-          <div class="gc-icon">📖</div>
-          <div class="gc-info">
-            <h3>Kiến Thức Tổng Hợp</h3>
-            <p class="gc-sub" id="sub-sum">Đang tải...</p>
-            <div class="gc-bar">
-              <div class="gc-bar-fill" id="bar-sum"></div>
-            </div>
+        <p class="section-label">Chọn Bộ Đề</p>
+
+        <div class="bode-card" id="bode-gioitre" data-bode="gioitre">
+          <div class="bc-icon">🌱</div>
+          <div class="bc-info">
+            <h3>Giới trẻ, thiếu nhi</h3>
+            <p class="bc-sub">Bao gồm Kiến thức tổng hợp, Kinh Thánh, Lược sử</p>
+            <p class="bc-resume hidden" id="resume-gioitre"></p>
           </div>
-          <span class="gc-arrow">›</span>
+          <span class="bc-arrow">›</span>
         </div>
 
-        <div class="group-card" id="card-bible" data-group="bible">
-          <div class="gc-icon">✝️</div>
-          <div class="gc-info">
-            <h3>Hoàn Tất Câu Kinh Thánh</h3>
-            <p class="gc-sub" id="sub-bible">Đang tải...</p>
-            <div class="gc-bar">
-              <div class="gc-bar-fill" id="bar-bible"></div>
-            </div>
+        <div class="bode-card" id="bode-giatruong" data-bode="giatruong">
+          <div class="bc-icon">👨‍👩‍👧‍👦</div>
+          <div class="bc-info">
+            <h3>Gia trưởng, hiền mẫu</h3>
+            <p class="bc-sub">Bao gồm Kiến thức tổng hợp, Kinh Thánh, Lược sử</p>
+            <p class="bc-resume hidden" id="resume-giatruong"></p>
           </div>
-          <span class="gc-arrow">›</span>
-        </div>
-
-        <div class="group-card" id="card-his" data-group="his">
-          <div class="gc-icon">⛪</div>
-          <div class="gc-info">
-            <h3>Lược Sử Giáo Phận Thái Bình</h3>
-            <p class="gc-sub" id="sub-his">Đang tải...</p>
-            <div class="gc-bar">
-              <div class="gc-bar-fill" id="bar-his"></div>
-            </div>
-          </div>
-          <span class="gc-arrow">›</span>
-        </div>
-      </div>
-
-      <!-- Groups: Gia trưởng, hiền mẫu -->
-      <div class="home-section" style="margin-top: 1.5rem;">
-        <p class="section-label">Gia trưởng, hiền mẫu</p>
-
-        <div class="group-card" id="card-sum1" data-group="sum1">
-          <div class="gc-icon">📖</div>
-          <div class="gc-info">
-            <h3>Kiến Thức Tổng Hợp</h3>
-            <p class="gc-sub" id="sub-sum1">Đang tải...</p>
-            <div class="gc-bar">
-              <div class="gc-bar-fill" id="bar-sum1"></div>
-            </div>
-          </div>
-          <span class="gc-arrow">›</span>
-        </div>
-        
-        <div class="group-card" id="card-sum2" data-group="sum2">
-          <div class="gc-icon">✝️</div>
-          <div class="gc-info">
-            <h3>Hoàn Tất Câu Kinh Thánh</h3>
-            <p class="gc-sub" id="sub-sum2">Đang tải...</p>
-            <div class="gc-bar">
-              <div class="gc-bar-fill" id="bar-sum2"></div>
-            </div>
-          </div>
-          <span class="gc-arrow">›</span>
-        </div>
-
-        <div class="group-card" id="card-sum3" data-group="sum3">
-          <div class="gc-icon">⛪</div>
-          <div class="gc-info">
-            <h3>Lược Sử Giáo Phận Thái Bình</h3>
-            <p class="gc-sub" id="sub-sum3">Đang tải...</p>
-            <div class="gc-bar">
-              <div class="gc-bar-fill" id="bar-sum3"></div>
-            </div>
-          </div>
-          <span class="gc-arrow">›</span>
+          <span class="bc-arrow">›</span>
         </div>
       </div>
 
@@ -136,7 +69,7 @@
       </div>
 
       <div class="home-footer">
-        <p>Giáo Phận Thái Bình © 2025</p>
+        <p>Giáo Phận Thái Bình © 2026</p>
       </div>
     </section>
 
@@ -152,14 +85,33 @@
         <!-- Mode tabs -->
         <div class="mode-tabs">
           <button class="mode-tab active" data-mode="luyen-tap" id="tab-lt">📚 Luyện Tập</button>
+          <button class="mode-tab" data-mode="thi-thu" id="tab-tt">⏱ Thi Thử</button>
           <button class="mode-tab" data-mode="random" id="tab-rd">🎲 Ngẫu Nhiên</button>
+        </div>
+
+        <!-- Chủ đề Selection (Common for all modes) -->
+        <div class="setting-block" id="subject-selection">
+          <p class="setting-label">Chọn phần thi (có thể chọn nhiều)</p>
+          <div class="subject-checkboxes">
+            <label class="subject-lbl">
+              <input type="checkbox" value="sum" id="chk-sum" checked> <span id="lbl-sum">Kiến Thức Tổng Hợp</span>
+            </label>
+            <label class="subject-lbl">
+              <input type="checkbox" value="bible" id="chk-bible" checked> <span id="lbl-bible">Hoàn Tất Câu Kinh
+                Thánh</span>
+            </label>
+            <label class="subject-lbl">
+              <input type="checkbox" value="his" id="chk-his" checked> <span id="lbl-his">Lược Sử</span>
+            </label>
+          </div>
         </div>
 
         <!-- ── PANEL: Luyện tập ── -->
         <div id="panel-lt" class="mode-panel">
           <div class="mode-card">
-            <p class="mode-card-title">📚 Luyện Tập Toàn Bộ</p>
-            <p id="lt-info" class="mode-card-text"></p>
+            <p class="mode-card-title">📚 Luyện Tập</p>
+            <p id="lt-info" class="mode-card-text">Làm toàn bộ câu hỏi trong các phần đã chọn. Biết kết quả đúng/sai
+              ngay. Tiến trình được tự động lưu lại.</p>
           </div>
 
           <!-- Resume in-settings (if session exists for this group) -->
@@ -177,26 +129,47 @@
           <button id="btn-start-lt" class="btn-primary">🚀 Bắt Đầu Từ Đầu</button>
         </div>
 
-        <!-- ── PANEL: Ngẫu nhiên ── -->
-        <div id="panel-rd" class="mode-panel hidden">
+        <!-- ── PANEL: Thi Thử ── -->
+        <div id="panel-tt" class="mode-panel hidden">
           <div class="mode-card">
-            <p class="mode-card-title">🎲 Thi Ngẫu Nhiên</p>
-            <p class="mode-card-text">Chọn ngẫu nhiên N câu từ ngân hàng. <strong>Kết quả không được lưu lại</strong> –
-              thoát là mất.</p>
+            <p class="mode-card-title">⏱ Thi Thử (Mock Exam)</p>
+            <p class="mode-card-text">Làm bài tính giờ. Không hiển thị kết quả ngay mà đợi đến khi nộp bài. Có thể xem
+              lại, sửa đáp án trước khi nộp.</p>
           </div>
 
           <div class="setting-block">
             <p class="setting-label">Số câu hỏi</p>
-            <div class="pills" id="count-pills">
+            <div class="pills" id="count-pills-tt">
               <button class="pill active" data-val="10">10 câu</button>
               <button class="pill" data-val="20">20 câu</button>
+              <button class="pill" data-val="30">30 câu</button>
               <button class="pill" data-val="50">50 câu</button>
-              <button class="pill" data-val="100">100 câu</button>
+            </div>
+          </div>
+
+          <div class="info-card" id="tt-info"></div>
+          <button id="btn-start-tt" class="btn-primary tt-btn">⏱ Bắt Đầu Thi Thử</button>
+        </div>
+
+        <!-- ── PANEL: Ngẫu nhiên ── -->
+        <div id="panel-rd" class="mode-panel hidden">
+          <div class="mode-card">
+            <p class="mode-card-title">🎲 Thi Ngẫu Nhiên</p>
+            <p class="mode-card-text">Chọn ngẫu nhiên N câu từ ngân hàng. Biết kết quả đúng/sai ngay. <strong>Kết quả
+                không được lưu lại</strong>.</p>
+          </div>
+
+          <div class="setting-block">
+            <p class="setting-label">Số câu hỏi</p>
+            <div class="pills" id="count-pills-rd">
+              <button class="pill active" data-val="10">10 câu</button>
+              <button class="pill" data-val="20">20 câu</button>
+              <button class="pill" data-val="30">30 câu</button>
+              <button class="pill" data-val="50">50 câu</button>
             </div>
           </div>
 
           <div class="info-card" id="rd-info"></div>
-
           <button id="btn-start-rd" class="btn-primary rd-btn">🎲 Bắt Đầu Ngẫu Nhiên</button>
         </div>
 
@@ -205,10 +178,16 @@
 
     <!-- ── QUIZ ── -->
     <section id="screen-quiz" class="screen">
+      <!-- Tracker Drawer Trigger -->
+      <button id="btn-toggle-tracker" class="btn-tracker-toggle" title="Xem danh sách câu hỏi">
+        <span class="hamburger">☰</span> Danh sách
+      </button>
+
       <div class="quiz-top">
         <button id="btn-quit" class="btn-icon" title="Thoát">✕</button>
         <div class="quiz-meta">
           <span id="quiz-counter">Câu 1/10</span>
+          <span id="quiz-timer" class="score-live hidden">⏱ 00:00</span>
           <span id="quiz-live-score" class="score-live">✓ 0</span>
         </div>
       </div>
@@ -219,17 +198,52 @@
         </div>
       </div>
 
-      <div class="quiz-body">
-        <div class="question-card">
-          <p id="q-number" class="q-number"></p>
-          <p id="q-text" class="q-text"></p>
+      <!-- Main Quiz Area -->
+      <div class="quiz-layout">
+        <!-- Question Panel -->
+        <div class="quiz-body">
+          <div class="question-header">
+            <p id="q-number" class="q-number"></p>
+            <button id="btn-flag" class="btn-flag" title="Đánh dấu phân vân">
+              <span class="flag-icon">⚑</span> Đánh dấu
+            </button>
+          </div>
+          <div class="question-card">
+            <p id="q-text" class="q-text"></p>
+          </div>
+
+          <div id="options" class="options"></div>
+
+          <div id="feedback" class="feedback hidden"></div>
+
+          <div class="quiz-nav">
+            <button id="btn-prev" class="btn-secondary hidden">← Câu trước</button>
+            <button id="btn-next" class="btn-primary hidden">Câu tiếp theo →</button>
+            <button id="btn-submit-exam" class="btn-primary hidden">Nộp bài</button>
+          </div>
         </div>
 
-        <div id="options" class="options"></div>
-
-        <div id="feedback" class="feedback hidden"></div>
-
-        <button id="btn-next" class="btn-primary hidden">Câu tiếp theo →</button>
+        <!-- Tracker Sidebar (Danh sách câu) -->
+        <div id="quiz-tracker" class="quiz-tracker">
+          <div class="tracker-header">
+            <h3>Danh sách câu hỏi</h3>
+            <button id="btn-close-tracker" class="btn-icon mobile-only">✕</button>
+          </div>
+          <div class="tracker-filters" id="tracker-filters">
+            <label class="trk-filt-lbl"><input type="checkbox" value="sum" checked> Tổng hợp kiến thức</label>
+            <label class="trk-filt-lbl"><input type="checkbox" value="bible" checked> Hoàn thiện Kinh Thánh</label>
+            <label class="trk-filt-lbl"><input type="checkbox" value="his" checked> Lược sử</label>
+          </div>
+          <div class="tracker-legend">
+            <span class="leg-item"><span class="dot done"></span> Đã chọn</span>
+            <span class="leg-item"><span class="dot flag"></span> Phân vân</span>
+            <span class="leg-item"><span class="dot wrong hidden" id="leg-wrong"></span> Sai</span>
+            <span class="leg-item"><span class="dot ok hidden" id="leg-ok"></span> Đúng</span>
+          </div>
+          <div id="tracker-grid" class="tracker-grid">
+            <!-- Bubbles injected by JS -->
+          </div>
+        </div>
       </div>
     </section>
 
